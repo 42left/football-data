@@ -1,0 +1,310 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2019-07-31T17:40:00,Warta Poznan,0,2,Radomiak Radom,0,0
+2019-07-28T20:40:00,Warta Poznan,0,1,Termalica B-B.,0,0
+2019-07-28T17:10:00,Radomiak Radom,1,3,Legnica,0,1
+2019-07-25T17:40:00,Legnica,1,1,GKS Jastrzebie,0,1
+2019-07-25T17:40:00,Ol. Grudziadz,0,0,Sandecja Nowy S.,0,0
+2019-07-25T17:40:00,Podbeskidzie,0,0,Chrobry Glogow,0,1
+2019-07-25T17:40:00,Puszcza,1,4,Radomiak Radom,0,0
+2019-07-25T17:40:00,Stal Mielec,0,4,Chojniczanka,1,1
+2019-07-25T17:40:00,Suwalki,0,0,Zaglebie Sosnowiec,0,2
+2019-07-25T17:40:00,Termalica B-B.,0,1,Odra Opole,0,0
+2019-07-25T17:40:00,Tychy,1,1,GKS Belchatow,0,0
+2019-07-25T17:40:00,Warta Poznan,1,1,Stomil Olsztyn,0,2
+2019-07-19T18:00:00,Odra Opole,0,1,Ol. Grudziadz,0,0
+2019-07-19T17:40:00,GKS Jastrzebie,0,0,Termalica B-B.,0,0
+2019-07-19T15:10:00,Radomiak Radom,1,3,Legnica,0,0
+2019-07-19T12:40:00,GKS Belchatow,0,0,Puszcza,0,0
+2019-07-18T17:40:00,Chojniczanka,1,1,Warta Poznan,1,2
+2019-07-18T15:10:00,Sandecja Nowy S.,1,1,Podbeskidzie,0,0
+2019-07-18T12:40:00,Stomil Olsztyn,1,2,Tychy,0,1
+2019-07-17T20:10:00,Chrobry Glogow,3,4,Suwalki,0,1
+2019-07-17T17:40:00,Zaglebie Sosnowiec,0,0,Stal Mielec,1,3
+2019-07-16T20:40:00,Ol. Grudziadz,0,0,GKS Jastrzebie,0,0
+2019-07-16T18:10:00,Legnica,3,3,GKS Belchatow,0,0
+2019-07-15T20:40:00,Termalica B-B.,0,1,Radomiak Radom,1,1
+2019-07-15T18:10:00,Podbeskidzie,2,4,Odra Opole,1,3
+2019-07-15T18:00:00,Puszcza,0,0,Stomil Olsztyn,0,0
+2019-07-14T20:40:00,Stal Mielec,0,1,Chrobry Glogow,0,0
+2019-07-14T18:10:00,Warta Poznan,2,2,Tychy,0,2
+2019-07-14T17:30:00,Suwalki,0,1,Sandecja Nowy S.,0,0
+2019-07-14T17:00:00,Chojniczanka,1,1,Zaglebie Sosnowiec,0,3
+2019-07-12T15:10:00,GKS Belchatow,0,0,Termalica B-B.,0,2
+2019-07-12T12:40:00,Radomiak Radom,1,2,Ol. Grudziadz,0,0
+2019-07-11T17:40:00,Stomil Olsztyn,1,1,Legnica,0,2
+2019-07-11T15:10:00,Tychy,0,0,Puszcza,0,1
+2019-07-11T12:40:00,GKS Jastrzebie,0,0,Podbeskidzie,1,3
+2019-07-10T20:10:00,Zaglebie Sosnowiec,0,0,Warta Poznan,1,2
+2019-07-10T18:00:00,Chojniczanka,1,3,Chrobry Glogow,1,4
+2019-07-10T17:40:00,Sandecja Nowy S.,2,2,Stal Mielec,1,1
+2019-07-10T16:00:00,Odra Opole,1,1,Suwalki,0,0
+2019-07-05T18:00:00,Ol. Grudziadz,1,1,GKS Belchatow,2,2
+2019-07-05T17:40:00,Suwalki,2,2,GKS Jastrzebie,0,0
+2019-07-05T15:10:00,Termalica B-B.,1,2,Stomil Olsztyn,0,0
+2019-07-05T12:40:00,Podbeskidzie,2,4,Radomiak Radom,0,2
+2019-07-04T17:40:00,Warta Poznan,0,1,Puszcza,1,2
+2019-07-04T15:10:00,Stal Mielec,0,1,Odra Opole,0,1
+2019-07-04T12:40:00,Legnica,1,2,Tychy,1,2
+2019-07-03T20:10:00,Zaglebie Sosnowiec,0,0,Chrobry Glogow,1,2
+2019-07-03T17:40:00,Chojniczanka,1,2,Sandecja Nowy S.,0,1
+2019-07-02T20:40:00,Stomil Olsztyn,0,2,Ol. Grudziadz,0,0
+2019-07-02T18:10:00,GKS Belchatow,0,1,Podbeskidzie,0,1
+2019-07-02T15:00:00,Radomiak Radom,1,3,Suwalki,0,1
+2019-07-01T20:40:00,Tychy,0,1,Termalica B-B.,0,0
+2019-07-01T17:40:00,Puszcza,0,0,Legnica,1,1
+2020-06-30T20:40:00,GKS Jastrzebie,0,1,Stal Mielec,1,2
+2020-06-30T17:40:00,Warta Poznan,0,1,Chrobry Glogow,0,2
+2020-06-30T16:00:00,Sandecja Nowy S.,0,1,Zaglebie Sosnowiec,1,1
+2020-06-30T15:00:00,Odra Opole,0,0,Chojniczanka,0,0
+2020-06-28T15:10:00,Podbeskidzie,0,2,Stomil Olsztyn,0,0
+2020-06-28T12:40:00,Suwalki,0,2,GKS Belchatow,3,4
+2020-06-27T17:40:00,Stal Mielec,2,2,Radomiak Radom,0,0
+2020-06-27T15:10:00,Ol. Grudziadz,0,2,Tychy,1,4
+2020-06-27T12:40:00,Legnica,0,0,Warta Poznan,0,0
+2020-06-26T20:10:00,Zaglebie Sosnowiec,0,1,Odra Opole,1,3
+2020-06-26T17:40:00,GKS Jastrzebie,0,1,Chojniczanka,3,3
+2020-06-26T16:00:00,Termalica B-B.,1,1,Puszcza,2,3
+2020-06-26T15:00:00,Chrobry Glogow,0,1,Sandecja Nowy S.,0,0
+2020-06-21T17:40:00,Warta Poznan,0,2,Sandecja Nowy S.,0,0
+2020-06-21T15:10:00,Stomil Olsztyn,1,1,Suwalki,0,0
+2020-06-21T15:00:00,GKS Belchatow,1,2,Stal Mielec,1,1
+2020-06-21T12:40:00,Tychy,1,1,Podbeskidzie,0,1
+2020-06-20T17:40:00,GKS Jastrzebie,0,1,Zaglebie Sosnowiec,2,3
+2020-06-20T17:40:00,Radomiak Radom,2,3,Chojniczanka,0,1
+2020-06-20T15:10:00,Puszcza,0,0,Ol. Grudziadz,0,1
+2020-06-20T12:40:00,Legnica,0,0,Termalica B-B.,1,1
+2020-06-19T20:10:00,Odra Opole,0,1,Chrobry Glogow,0,0
+2020-06-18T20:40:00,Suwalki,0,0,Tychy,1,1
+2020-06-18T18:10:00,Stal Mielec,1,1,Stomil Olsztyn,0,0
+2020-06-17T20:40:00,Ol. Grudziadz,0,1,Legnica,1,2
+2020-06-17T18:10:00,Warta Poznan,1,1,Termalica B-B.,2,3
+2020-06-17T18:00:00,GKS Belchatow,0,1,Chojniczanka,0,1
+2020-06-17T16:00:00,Zaglebie Sosnowiec,0,2,Radomiak Radom,2,2
+2020-06-16T20:40:00,Sandecja Nowy S.,0,1,Odra Opole,0,1
+2020-06-16T18:10:00,Podbeskidzie,1,2,Puszcza,2,2
+2020-06-16T16:00:00,Chrobry Glogow,0,0,GKS Jastrzebie,0,0
+2020-06-14T15:10:00,Tychy,1,2,Stal Mielec,1,4
+2020-06-13T17:40:00,GKS Belchatow,0,2,Zaglebie Sosnowiec,1,1
+2020-06-13T17:00:00,Stomil Olsztyn,0,1,Chojniczanka,0,0
+2020-06-13T15:10:00,Odra Opole,1,2,Warta Poznan,0,0
+2020-06-13T12:40:00,Radomiak Radom,1,2,Chrobry Glogow,0,0
+2020-06-12T20:10:00,Legnica,1,2,Podbeskidzie,1,2
+2020-06-12T17:40:00,GKS Jastrzebie,1,1,Sandecja Nowy S.,1,2
+2020-06-12T15:30:00,Puszcza,0,2,Suwalki,1,1
+2020-06-12T15:10:00,Termalica B-B.,1,3,Ol. Grudziadz,1,3
+2020-06-07T17:00:00,Odra Opole,0,1,GKS Jastrzebie,0,2
+2020-06-07T17:00:00,Sandecja Nowy S.,0,1,Radomiak Radom,1,2
+2020-06-07T15:10:00,Tychy,0,1,Chojniczanka,1,2
+2020-06-07T12:40:00,Zaglebie Sosnowiec,1,2,Stomil Olsztyn,0,1
+2020-06-06T15:10:00,Warta Poznan,0,2,Ol. Grudziadz,0,0
+2020-06-06T12:40:00,Podbeskidzie,1,1,Termalica B-B.,0,0
+2020-06-05T20:10:00,Chrobry Glogow,1,1,GKS Belchatow,0,0
+2020-06-05T17:40:00,Stal Mielec,0,0,Puszcza,0,0
+2020-06-05T15:30:00,Suwalki,0,1,Legnica,0,1
+2020-06-04T20:40:00,Tychy,0,1,Zaglebie Sosnowiec,1,1
+2020-06-04T18:10:00,Radomiak Radom,0,0,Odra Opole,0,0
+2020-06-03T20:40:00,Ol. Grudziadz,0,1,Podbeskidzie,1,2
+2020-06-03T18:10:00,GKS Jastrzebie,1,1,Warta Poznan,1,2
+2020-06-02T20:40:00,Legnica,1,1,Stal Mielec,2,2
+2020-06-02T20:00:00,Termalica B-B.,1,1,Suwalki,0,0
+2020-06-02T18:10:00,GKS Belchatow,0,0,Sandecja Nowy S.,3,3
+2020-06-02T18:00:00,Stomil Olsztyn,0,0,Chrobry Glogow,0,0
+2020-06-02T16:00:00,Puszcza,0,1,Chojniczanka,0,0
+2020-03-09T18:00:00,Podbeskidzie,1,2,Warta Poznan,0,0
+2020-03-08T17:00:00,Suwalki,1,1,Ol. Grudziadz,1,2
+2020-03-08T12:40:00,Stal Mielec,0,0,Termalica B-B.,1,3
+2020-03-07T19:10:00,Sandecja Nowy S.,3,3,Stomil Olsztyn,0,0
+2020-03-07T18:00:00,Zaglebie Sosnowiec,1,3,Puszcza,1,5
+2020-03-07T16:00:00,Legnica,1,5,Chojniczanka,1,2
+2020-03-07T15:00:00,GKS Jastrzebie,0,3,Radomiak Radom,0,2
+2020-03-07T12:40:00,Chrobry Glogow,2,5,Tychy,0,1
+2020-03-06T18:00:00,Odra Opole,0,1,GKS Belchatow,0,0
+2020-03-02T18:00:00,Warta Poznan,0,3,Radomiak Radom,0,0
+2020-03-01T15:00:00,Podbeskidzie,1,4,Suwalki,0,0
+2020-03-01T15:00:00,Puszcza,1,1,Chrobry Glogow,2,3
+2020-03-01T12:40:00,Ol. Grudziadz,0,0,Stal Mielec,2,5
+2020-02-29T18:00:00,Termalica B-B.,0,1,Chojniczanka,0,2
+2020-02-29T17:30:00,Stomil Olsztyn,2,4,Odra Opole,1,2
+2020-02-29T17:00:00,GKS Belchatow,0,0,GKS Jastrzebie,0,0
+2020-02-29T17:00:00,Tychy,2,2,Sandecja Nowy S.,1,2
+2020-02-29T12:40:00,Legnica,0,0,Zaglebie Sosnowiec,0,2
+2019-12-01T19:30:00,Chrobry Glogow,0,0,Legnica,1,2
+2019-12-01T15:00:00,Odra Opole,0,0,Tychy,0,0
+2019-12-01T13:30:00,Warta Poznan,1,3,Suwalki,0,0
+2019-12-01T12:40:00,Radomiak Radom,1,2,GKS Belchatow,0,0
+2019-11-30T17:00:00,Sandecja Nowy S.,0,0,Puszcza,0,1
+2019-11-30T16:00:00,Chojniczanka,1,1,Ol. Grudziadz,1,3
+2019-11-30T13:00:00,GKS Jastrzebie,1,1,Stomil Olsztyn,1,2
+2019-11-30T12:40:00,Stal Mielec,2,2,Podbeskidzie,1,1
+2019-11-29T18:00:00,Zaglebie Sosnowiec,0,1,Termalica B-B.,0,0
+2019-11-27T18:00:00,Chrobry Glogow,1,2,Ol. Grudziadz,1,2
+2019-11-27T17:30:00,Odra Opole,0,3,Legnica,0,0
+2019-11-26T17:00:00,GKS Jastrzebie,1,1,Puszcza,0,1
+2019-11-24T12:40:00,Stomil Olsztyn,0,0,Radomiak Radom,0,0
+2019-11-23T17:00:00,Termalica B-B.,1,4,Chrobry Glogow,0,0
+2019-11-23T17:00:00,Tychy,1,2,GKS Jastrzebie,1,2
+2019-11-23T16:00:00,Ol. Grudziadz,0,2,Zaglebie Sosnowiec,0,1
+2019-11-23T12:40:00,GKS Belchatow,0,1,Warta Poznan,0,2
+2019-11-22T18:00:00,Legnica,0,1,Sandecja Nowy S.,0,3
+2019-11-22T18:00:00,Podbeskidzie,0,2,Chojniczanka,0,1
+2019-11-22T18:00:00,Puszcza,1,1,Odra Opole,1,2
+2019-11-22T16:30:00,Suwalki,0,0,Stal Mielec,1,3
+2019-11-17T12:40:00,Warta Poznan,0,0,Stal Mielec,1,2
+2019-11-16T17:00:00,Sandecja Nowy S.,2,2,Termalica B-B.,0,2
+2019-11-16T17:00:00,Tychy,1,2,Radomiak Radom,0,2
+2019-11-16T16:00:00,Chojniczanka,0,1,Suwalki,1,3
+2019-11-16T15:00:00,Stomil Olsztyn,0,0,GKS Belchatow,0,1
+2019-11-16T12:40:00,Podbeskidzie,3,4,Zaglebie Sosnowiec,0,1
+2019-11-10T12:40:00,Chrobry Glogow,0,1,Podbeskidzie,0,1
+2019-11-09T18:00:00,Zaglebie Sosnowiec,2,2,Suwalki,0,0
+2019-11-09T17:00:00,GKS Belchatow,1,1,Tychy,2,4
+2019-11-09T17:00:00,Odra Opole,0,2,Termalica B-B.,0,0
+2019-11-09T16:00:00,Chojniczanka,0,0,Stal Mielec,1,2
+2019-11-09T16:00:00,GKS Jastrzebie,1,2,Legnica,0,2
+2019-11-09T14:00:00,Radomiak Radom,0,1,Puszcza,1,1
+2019-11-09T12:40:00,Stomil Olsztyn,0,1,Warta Poznan,0,3
+2019-11-08T19:10:00,Sandecja Nowy S.,2,3,Ol. Grudziadz,0,1
+2019-11-03T17:00:00,Stal Mielec,0,1,Zaglebie Sosnowiec,0,1
+2019-11-03T16:00:00,Suwalki,1,1,Chrobry Glogow,0,1
+2019-11-03T15:00:00,Puszcza,0,1,GKS Belchatow,1,4
+2019-11-03T15:00:00,Tychy,1,1,Stomil Olsztyn,0,0
+2019-11-03T13:00:00,Warta Poznan,2,2,Chojniczanka,0,0
+2019-11-03T12:40:00,Podbeskidzie,1,3,Sandecja Nowy S.,1,1
+2019-11-02T18:00:00,Termalica B-B.,1,2,GKS Jastrzebie,1,2
+2019-11-02T17:00:00,Ol. Grudziadz,0,3,Odra Opole,0,1
+2019-11-02T12:40:00,Legnica,3,3,Radomiak Radom,0,1
+2019-10-27T15:00:00,Odra Opole,0,0,Podbeskidzie,1,2
+2019-10-27T12:45:00,Chrobry Glogow,0,1,Stal Mielec,0,0
+2019-10-26T18:00:00,Tychy,0,1,Warta Poznan,0,1
+2019-10-26T18:00:00,Zaglebie Sosnowiec,1,3,Chojniczanka,2,3
+2019-10-26T16:00:00,GKS Jastrzebie,1,2,Ol. Grudziadz,0,0
+2019-10-26T14:00:00,Radomiak Radom,0,1,Termalica B-B.,0,0
+2019-10-25T20:45:00,GKS Belchatow,0,1,Legnica,0,1
+2019-10-25T19:10:00,Sandecja Nowy S.,0,1,Suwalki,0,0
+2019-10-25T18:00:00,Stomil Olsztyn,0,0,Puszcza,0,0
+2019-10-24T17:30:00,Odra Opole,0,1,Stal Mielec,0,0
+2019-10-23T18:00:00,Chrobry Glogow,2,3,Zaglebie Sosnowiec,0,0
+2019-10-22T19:00:00,Puszcza,0,0,Warta Poznan,1,2
+2019-10-22T18:00:00,GKS Jastrzebie,1,1,Suwalki,0,0
+2019-10-22T17:30:00,Tychy,1,4,Legnica,0,1
+2019-10-19T19:00:00,Termalica B-B.,1,2,GKS Belchatow,0,1
+2019-10-19T18:00:00,Podbeskidzie,0,0,GKS Jastrzebie,1,2
+2019-10-19T17:45:00,Warta Poznan,0,2,Zaglebie Sosnowiec,1,3
+2019-10-19T17:00:00,Ol. Grudziadz,2,2,Radomiak Radom,0,2
+2019-10-18T20:45:00,Legnica,2,4,Stomil Olsztyn,1,1
+2019-10-18T19:00:00,Stal Mielec,1,5,Sandecja Nowy S.,1,1
+2019-10-18T18:00:00,Chrobry Glogow,1,1,Chojniczanka,0,0
+2019-10-18T18:00:00,Puszcza,2,2,Tychy,0,1
+2019-10-18T18:00:00,Suwalki,1,1,Odra Opole,0,0
+2019-10-12T17:00:00,GKS Belchatow,0,1,Ol. Grudziadz,0,0
+2019-10-12T14:00:00,Radomiak Radom,0,1,Podbeskidzie,1,3
+2019-10-11T19:10:00,Sandecja Nowy S.,3,4,Chojniczanka,2,4
+2019-10-11T17:45:00,Stomil Olsztyn,0,1,Termalica B-B.,0,1
+2019-10-06T19:00:00,Ol. Grudziadz,1,1,Stomil Olsztyn,0,0
+2019-10-05T19:00:00,Termalica B-B.,2,4,Tychy,3,3
+2019-10-05T18:00:00,Chojniczanka,0,1,Odra Opole,2,2
+2019-10-05T18:00:00,Podbeskidzie,0,4,GKS Belchatow,0,0
+2019-10-05T18:00:00,Zaglebie Sosnowiec,1,3,Sandecja Nowy S.,0,1
+2019-10-05T17:45:00,Chrobry Glogow,0,0,Warta Poznan,0,0
+2019-10-05T17:00:00,Suwalki,0,1,Radomiak Radom,2,4
+2019-10-04T20:45:00,Stal Mielec,1,3,GKS Jastrzebie,1,1
+2019-10-04T19:00:00,Legnica,1,1,Puszcza,0,0
+2019-09-29T18:00:00,Chojniczanka,1,3,GKS Jastrzebie,1,1
+2019-09-29T18:00:00,Odra Opole,0,1,Zaglebie Sosnowiec,1,1
+2019-09-29T17:00:00,GKS Belchatow,1,3,Suwalki,0,0
+2019-09-29T17:00:00,Puszcza,0,0,Termalica B-B.,0,3
+2019-09-29T15:00:00,Warta Poznan,0,2,Legnica,0,1
+2019-09-28T18:00:00,Stomil Olsztyn,0,1,Podbeskidzie,0,0
+2019-09-28T17:00:00,Tychy,1,2,Ol. Grudziadz,0,3
+2019-09-28T15:30:00,Radomiak Radom,1,2,Stal Mielec,0,0
+2019-09-27T17:30:00,Sandecja Nowy S.,2,3,Chrobry Glogow,0,2
+2019-09-22T19:00:00,Ol. Grudziadz,0,1,Puszcza,0,1
+2019-09-22T15:00:00,Podbeskidzie,1,2,Tychy,0,2
+2019-09-21T20:00:00,Termalica B-B.,0,0,Legnica,0,1
+2019-09-21T19:10:00,Sandecja Nowy S.,0,1,Warta Poznan,0,2
+2019-09-21T18:00:00,Chojniczanka,1,1,Radomiak Radom,3,3
+2019-09-21T18:00:00,Chrobry Glogow,2,3,Odra Opole,0,2
+2019-09-21T18:00:00,Zaglebie Sosnowiec,0,2,GKS Jastrzebie,3,4
+2019-09-21T17:00:00,Stal Mielec,1,1,GKS Belchatow,0,0
+2019-09-20T19:47:00,Suwalki,0,0,Stomil Olsztyn,0,0
+2019-09-18T20:00:00,Warta Poznan,1,3,Odra Opole,0,0
+2019-09-18T19:30:00,Podbeskidzie,1,2,Legnica,0,1
+2019-09-18T19:00:00,Ol. Grudziadz,1,1,Termalica B-B.,0,0
+2019-09-18T19:00:00,Stal Mielec,0,1,Tychy,1,2
+2019-09-15T12:45:00,Legnica,1,2,Ol. Grudziadz,2,2
+2019-09-14T19:00:00,GKS Jastrzebie,0,1,Chrobry Glogow,0,0
+2019-09-14T19:00:00,Termalica B-B.,0,1,Warta Poznan,0,1
+2019-09-14T18:00:00,Puszcza,0,0,Podbeskidzie,1,1
+2019-09-14T18:00:00,Tychy,1,2,Suwalki,0,1
+2019-09-14T16:00:00,Radomiak Radom,1,2,Zaglebie Sosnowiec,0,1
+2019-09-13T19:45:00,Odra Opole,1,1,Sandecja Nowy S.,1,1
+2019-09-13T19:45:00,Stomil Olsztyn,0,1,Stal Mielec,0,0
+2019-09-13T19:00:00,Chojniczanka,2,3,GKS Belchatow,0,0
+2019-09-08T14:00:00,Zaglebie Sosnowiec,0,1,GKS Belchatow,0,1
+2019-09-07T19:10:00,Sandecja Nowy S.,0,1,GKS Jastrzebie,0,1
+2019-09-07T18:00:00,Suwalki,0,2,Puszcza,1,3
+2019-09-07T14:45:00,Chojniczanka,1,1,Stomil Olsztyn,1,3
+2019-09-06T18:00:00,Chrobry Glogow,0,0,Radomiak Radom,1,2
+2019-09-01T19:00:00,Puszcza,0,0,Stal Mielec,1,1
+2019-09-01T17:00:00,GKS Belchatow,0,1,Chrobry Glogow,0,2
+2019-09-01T15:00:00,Legnica,0,2,Suwalki,0,1
+2019-08-31T20:00:00,Termalica B-B.,1,2,Podbeskidzie,1,2
+2019-08-31T19:00:00,GKS Jastrzebie,1,2,Odra Opole,0,0
+2019-08-31T17:30:00,Radomiak Radom,1,1,Sandecja Nowy S.,0,0
+2019-08-31T17:00:00,Ol. Grudziadz,1,2,Warta Poznan,0,1
+2019-08-30T20:00:00,Chojniczanka,1,1,Tychy,0,1
+2019-08-30T17:30:00,Stomil Olsztyn,1,1,Zaglebie Sosnowiec,1,3
+2019-08-26T19:39:00,Stal Mielec,0,1,Legnica,0,0
+2019-08-25T19:00:00,Suwalki,1,1,Termalica B-B.,0,0
+2019-08-25T18:00:00,Chojniczanka,0,0,Puszcza,1,1
+2019-08-25T17:00:00,Sandecja Nowy S.,0,2,GKS Belchatow,1,1
+2019-08-25T16:00:00,Warta Poznan,0,1,GKS Jastrzebie,0,1
+2019-08-25T14:45:00,Zaglebie Sosnowiec,0,1,Tychy,1,2
+2019-08-24T19:45:00,Odra Opole,0,0,Radomiak Radom,0,0
+2019-08-24T19:00:00,Chrobry Glogow,0,0,Stomil Olsztyn,0,0
+2019-08-24T14:30:00,Podbeskidzie,1,2,Ol. Grudziadz,0,1
+2019-08-21T20:30:00,Stomil Olsztyn,1,1,Sandecja Nowy S.,0,0
+2019-08-21T20:00:00,Chojniczanka,0,0,Legnica,2,3
+2019-08-21T20:00:00,Termalica B-B.,0,1,Stal Mielec,2,2
+2019-08-21T19:00:00,GKS Belchatow,1,1,Odra Opole,0,0
+2019-08-21T19:00:00,Ol. Grudziadz,1,1,Suwalki,1,2
+2019-08-21T19:00:00,Puszcza,0,0,Zaglebie Sosnowiec,1,2
+2019-08-21T19:00:00,Tychy,2,5,Chrobry Glogow,0,1
+2019-08-21T17:30:00,Radomiak Radom,1,2,GKS Jastrzebie,0,2
+2019-08-21T17:00:00,Warta Poznan,1,2,Podbeskidzie,1,1
+2019-08-17T20:00:00,GKS Jastrzebie,0,1,GKS Belchatow,0,1
+2019-08-17T19:00:00,Suwalki,1,1,Podbeskidzie,0,0
+2019-08-17T18:00:00,Radomiak Radom,0,0,Warta Poznan,0,2
+2019-08-17T15:00:00,Zaglebie Sosnowiec,1,1,Legnica,0,0
+2019-08-16T20:00:00,Chojniczanka,1,1,Termalica B-B.,0,0
+2019-08-16T19:39:00,Stal Mielec,2,2,Ol. Grudziadz,0,0
+2019-08-16T19:10:00,Sandecja Nowy S.,0,1,Tychy,0,0
+2019-08-16T19:00:00,Chrobry Glogow,0,0,Puszcza,0,1
+2019-08-16T17:30:00,Odra Opole,0,0,Stomil Olsztyn,1,1
+2019-08-11T18:00:00,Suwalki,0,1,Warta Poznan,1,2
+2019-08-11T17:45:00,Podbeskidzie,1,4,Stal Mielec,1,1
+2019-08-10T20:00:00,Termalica B-B.,0,2,Zaglebie Sosnowiec,0,0
+2019-08-10T19:00:00,GKS Belchatow,2,3,Radomiak Radom,0,0
+2019-08-10T19:00:00,Puszcza,0,1,Sandecja Nowy S.,1,2
+2019-08-10T18:00:00,Tychy,1,4,Odra Opole,1,1
+2019-08-10T17:45:00,Legnica,1,2,Chrobry Glogow,1,1
+2019-08-09T19:45:00,Stomil Olsztyn,1,2,GKS Jastrzebie,0,1
+2019-08-09T19:00:00,Ol. Grudziadz,0,3,Chojniczanka,2,5
+2019-08-04T17:45:00,Chojniczanka,0,0,Podbeskidzie,1,1
+2019-08-03T20:00:00,GKS Jastrzebie,2,2,Tychy,1,1
+2019-08-03T18:00:00,Radomiak Radom,1,2,Stomil Olsztyn,1,1
+2019-08-03T18:00:00,Zaglebie Sosnowiec,0,0,Ol. Grudziadz,0,1
+2019-08-03T17:00:00,Warta Poznan,0,1,GKS Belchatow,0,0
+2019-08-02T19:45:00,Odra Opole,0,0,Puszcza,1,1
+2019-08-02T19:39:00,Stal Mielec,1,1,Suwalki,0,1
+2019-08-02T19:10:00,Sandecja Nowy S.,1,1,Legnica,2,2
+2019-08-02T19:00:00,Chrobry Glogow,0,0,Termalica B-B.,0,1
+2019-07-27T20:00:00,Termalica B-B.,2,3,Sandecja Nowy S.,0,0
+2019-07-27T19:47:00,Suwalki,1,1,Chojniczanka,1,1
+2019-07-27T19:00:00,GKS Belchatow,2,3,Stomil Olsztyn,0,0
+2019-07-27T19:00:00,Puszcza,0,0,GKS Jastrzebie,0,0
+2019-07-27T18:00:00,Legnica,0,0,Odra Opole,0,0
+2019-07-27T18:00:00,Radomiak Radom,1,2,Tychy,0,1
+2019-07-27T18:00:00,Zaglebie Sosnowiec,0,1,Podbeskidzie,1,1
+2019-07-26T20:30:00,Stal Mielec,2,2,Warta Poznan,0,1
+2019-07-26T19:00:00,Ol. Grudziadz,3,5,Chrobry Glogow,0,0

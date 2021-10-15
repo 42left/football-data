@@ -1,0 +1,311 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2009-06-12T17:00:00,GKS Jastrzebie,,1,Otwock,,0
+2009-06-12T17:00:00,Stilon Gorzow,,1,Sleza Wroclaw,,0
+2009-06-09T17:00:00,Otwock,,1,GKS Jastrzebie,,1
+2009-06-09T17:00:00,Sleza Wroclaw,,0,Stilon Gorzow,,5
+2009-06-05T17:30:00,GKS Jastrzebie,,0,GKS Katowice,,1
+2009-06-05T17:30:00,Kmita Zabierzow,,0,Turek,,3
+2009-06-05T17:30:00,Leczna,,2,Warta Poznan,,0
+2009-06-05T17:30:00,Podbeskidzie,,0,Pruszkow,,0
+2009-06-05T17:30:00,S. Wola,,0,Wisla Plock,,0
+2009-06-05T17:30:00,Stilon Gorzow,,6,Lublin,,1
+2009-06-05T17:30:00,Swinoujscie,,2,Zaglebie,,3
+2009-06-05T17:30:00,Widzew Lodz,,3,Odra Opole,,0
+2009-06-05T17:30:00,Zabki,,0,Korona Kielce,,1
+2009-05-30T17:00:00,GKS Katowice,,1,Podbeskidzie,,0
+2009-05-30T17:00:00,Korona Kielce,,2,Swinoujscie,,1
+2009-05-30T17:00:00,Lublin,,0,Zabki,,2
+2009-05-30T17:00:00,Odra Opole,,0,Leczna,,3
+2009-05-30T17:00:00,Pruszkow,,1,S. Wola,,0
+2009-05-30T17:00:00,Turek,,0,GKS Jastrzebie,,3
+2009-05-30T17:00:00,Warta Poznan,,1,Stilon Gorzow,,2
+2009-05-30T17:00:00,Wisla Plock,,1,Widzew Lodz,,2
+2009-05-30T17:00:00,Zaglebie,,3,Kmita Zabierzow,,0
+2009-05-24T20:35:00,Widzew Lodz,,2,Pruszkow,,0
+2009-05-23T18:00:00,Stilon Gorzow,,2,Odra Opole,,1
+2009-05-23T17:00:00,Kmita Zabierzow,,0,GKS Jastrzebie,,3
+2009-05-23T17:00:00,Leczna,,1,Wisla Plock,,1
+2009-05-23T17:00:00,Podbeskidzie,,9,Turek,,0
+2009-05-23T17:00:00,S. Wola,,0,GKS Katowice,,0
+2009-05-23T17:00:00,Swinoujscie,,1,Lublin,,1
+2009-05-23T17:00:00,Zabki,,1,Warta Poznan,,0
+2009-05-22T20:15:00,Zaglebie,,4,Korona Kielce,,0
+2009-05-17T19:30:00,Pruszkow,,0,Leczna,,2
+2009-05-17T12:00:00,Wisla Plock,,3,Stilon Gorzow,,2
+2009-05-16T19:00:00,GKS Jastrzebie,,2,Podbeskidzie,,2
+2009-05-16T19:00:00,Odra Opole,,0,Zabki,,0
+2009-05-16T17:00:00,Korona Kielce,,3,Kmita Zabierzow,,0
+2009-05-16T17:00:00,Lublin,,1,Zaglebie,,2
+2009-05-16T17:00:00,Turek,,1,S. Wola,,2
+2009-05-16T17:00:00,Warta Poznan,,3,Swinoujscie,,1
+2009-05-16T16:00:00,GKS Katowice,,3,Widzew Lodz,,2
+2009-05-13T19:10:00,Widzew Lodz,,2,Turek,,0
+2009-05-13T19:00:00,Zaglebie,,1,Warta Poznan,,2
+2009-05-13T18:00:00,Korona Kielce,,3,Lublin,,0
+2009-05-13T17:00:00,Kmita Zabierzow,,0,Podbeskidzie,,3
+2009-05-13T17:00:00,Leczna,,1,GKS Katowice,,1
+2009-05-13T17:00:00,S. Wola,,2,GKS Jastrzebie,,0
+2009-05-13T17:00:00,Stilon Gorzow,,0,Pruszkow,,0
+2009-05-13T17:00:00,Swinoujscie,,2,Odra Opole,,0
+2009-05-13T17:00:00,Zabki,,1,Wisla Plock,,0
+2009-05-10T19:50:00,Wisla Plock,,1,Swinoujscie,,2
+2009-05-09T19:00:00,GKS Jastrzebie,,0,Widzew Lodz,,3
+2009-05-09T19:00:00,Odra Opole,,0,Zaglebie,,3
+2009-05-09T19:00:00,Pruszkow,,1,Zabki,,3
+2009-05-09T18:00:00,Warta Poznan,,3,Korona Kielce,,0
+2009-05-09T17:00:00,GKS Katowice,,1,Stilon Gorzow,,1
+2009-05-09T17:00:00,Podbeskidzie,,3,S. Wola,,0
+2009-05-09T17:00:00,Turek,,1,Leczna,,2
+2009-05-09T16:00:00,Lublin,,3,Kmita Zabierzow,,0
+2009-05-03T18:00:00,Korona Kielce,,2,Odra Opole,,0
+2009-05-03T17:00:00,Lublin,,1,Warta Poznan,,1
+2009-05-02T19:00:00,Leczna,,2,GKS Jastrzebie,,0
+2009-05-02T18:15:00,Zaglebie,,1,Wisla Plock,,0
+2009-05-02T17:00:00,Kmita Zabierzow,,0,S. Wola,,3
+2009-05-02T17:00:00,Stilon Gorzow,,2,Turek,,2
+2009-05-02T17:00:00,Swinoujscie,,1,Pruszkow,,0
+2009-05-02T17:00:00,Zabki,,0,GKS Katowice,,1
+2009-05-01T19:10:00,Widzew Lodz,,3,Podbeskidzie,,0
+2009-04-29T16:30:00,Lublin,,1,S. Wola,,1
+2009-04-26T20:15:00,Pruszkow,,1,Zaglebie,,2
+2009-04-26T17:00:00,GKS Jastrzebie,,2,Stilon Gorzow,,1
+2009-04-26T16:00:00,GKS Katowice,,1,Swinoujscie,,0
+2009-04-26T16:00:00,Turek,,0,Zabki,,2
+2009-04-26T15:30:00,Wisla Plock,,2,Korona Kielce,,1
+2009-04-25T18:00:00,Odra Opole,,1,Lublin,,0
+2009-04-25T16:00:00,Podbeskidzie,,2,Leczna,,2
+2009-04-25T16:00:00,S. Wola,,0,Widzew Lodz,,0
+2009-04-25T16:00:00,Warta Poznan,,3,Kmita Zabierzow,,0
+2009-04-22T19:00:00,Leczna,,0,S. Wola,,0
+2009-04-22T19:00:00,Zaglebie,,1,GKS Katowice,,0
+2009-04-22T17:00:00,Lublin,,2,Wisla Plock,,1
+2009-04-22T17:00:00,Stilon Gorzow,,0,Podbeskidzie,,3
+2009-04-22T17:00:00,Warta Poznan,,1,Odra Opole,,0
+2009-04-22T16:00:00,Kmita Zabierzow,,0,Widzew Lodz,,3
+2009-04-22T16:00:00,Swinoujscie,,0,Turek,,0
+2009-04-22T16:00:00,Zabki,,1,GKS Jastrzebie,,1
+2009-04-21T20:00:00,Korona Kielce,,1,Pruszkow,,2
+2009-04-18T19:00:00,Pruszkow,,0,Lublin,,0
+2009-04-18T18:15:00,Widzew Lodz,,2,Leczna,,1
+2009-04-18T17:00:00,GKS Jastrzebie,,1,Swinoujscie,,3
+2009-04-18T17:00:00,Wisla Plock,,0,Warta Poznan,,1
+2009-04-18T16:00:00,GKS Katowice,,0,Korona Kielce,,2
+2009-04-18T16:00:00,Odra Opole,,3,Kmita Zabierzow,,0
+2009-04-18T16:00:00,S. Wola,,2,Stilon Gorzow,,1
+2009-04-18T16:00:00,Turek,,0,Zaglebie,,2
+2009-04-18T15:00:00,Podbeskidzie,,3,Zabki,,1
+2009-04-11T19:00:00,Zaglebie,,1,GKS Jastrzebie,,1
+2009-04-11T16:00:00,Kmita Zabierzow,,0,Leczna,,3
+2009-04-11T16:00:00,Korona Kielce,,1,Turek,,0
+2009-04-11T16:00:00,Warta Poznan,,0,Pruszkow,,2
+2009-04-11T15:30:00,Zabki,,2,S. Wola,,0
+2009-04-11T15:00:00,Odra Opole,,0,Wisla Plock,,1
+2009-04-11T15:00:00,Stilon Gorzow,,1,Widzew Lodz,,1
+2009-04-11T14:00:00,Lublin,,0,GKS Katowice,,0
+2009-04-11T13:00:00,Swinoujscie,,2,Podbeskidzie,,0
+2009-04-06T19:10:00,Widzew Lodz,,2,Zabki,,1
+2009-04-05T18:00:00,Pruszkow,,2,Odra Opole,,0
+2009-04-05T11:00:00,Leczna,,1,Stilon Gorzow,,1
+2009-04-04T18:00:00,GKS Jastrzebie,,0,Korona Kielce,,0
+2009-04-04T16:00:00,S. Wola,,1,Swinoujscie,,0
+2009-04-04T16:00:00,Turek,,0,Lublin,,0
+2009-04-04T14:00:00,Podbeskidzie,,3,Zaglebie,,0
+2009-04-04T12:00:00,GKS Katowice,,1,Warta Poznan,,0
+2009-04-03T19:45:00,Wisla Plock,,3,Kmita Zabierzow,,0
+2009-03-29T18:00:00,Pruszkow,,2,Wisla Plock,,1
+2009-03-29T17:00:00,Odra Opole,,1,GKS Katowice,,2
+2009-03-28T16:00:00,Kmita Zabierzow,,0,Stilon Gorzow,,3
+2009-03-28T15:30:00,Swinoujscie,,0,Widzew Lodz,,0
+2009-03-28T15:00:00,Lublin,,1,GKS Jastrzebie,,1
+2009-03-28T15:00:00,Warta Poznan,,4,Turek,,1
+2009-03-28T15:00:00,Zabki,,2,Leczna,,0
+2009-03-27T19:00:00,Zaglebie,,0,S. Wola,,0
+2009-03-27T18:00:00,Korona Kielce,,2,Podbeskidzie,,2
+2009-03-22T18:30:00,Widzew Lodz,,1,Zaglebie,,0
+2009-03-22T11:00:00,Turek,,1,Odra Opole,,1
+2009-03-21T16:00:00,GKS Jastrzebie,,1,Warta Poznan,,1
+2009-03-21T16:00:00,Pruszkow,,3,Kmita Zabierzow,,0
+2009-03-21T15:30:00,Swinoujscie,,0,Leczna,,2
+2009-03-21T15:00:00,S. Wola,,3,Korona Kielce,,0
+2009-03-21T15:00:00,Stilon Gorzow,,1,Zabki,,2
+2009-03-21T14:45:00,Podbeskidzie,,0,Lublin,,0
+2009-03-21T12:00:00,GKS Katowice,,1,Wisla Plock,,1
+2009-03-15T17:30:00,Pruszkow,,1,GKS Katowice,,1
+2009-03-14T19:45:00,Zaglebie,,3,Leczna,,0
+2009-03-14T18:15:00,Korona Kielce,,2,Widzew Lodz,,2
+2009-03-14T17:00:00,Odra Opole,,0,GKS Jastrzebie,,1
+2009-03-14T16:00:00,Wisla Plock,,2,Turek,,0
+2009-03-14T15:00:00,Swinoujscie,,2,Stilon Gorzow,,0
+2009-03-14T15:00:00,Warta Poznan,,2,Podbeskidzie,,1
+2009-03-14T13:00:00,Kmita Zabierzow,,0,Zabki,,3
+2008-11-17T19:10:00,Widzew Lodz,,1,Korona Kielce,,1
+2008-11-15T17:00:00,Pruszkow,,2,Turek,,0
+2008-11-15T16:00:00,GKS Jastrzebie,,0,Wisla Plock,,2
+2008-11-15T13:30:00,S. Wola,,0,Warta Poznan,,0
+2008-11-15T13:00:00,GKS Katowice,,2,Kmita Zabierzow,,2
+2008-11-15T13:00:00,Podbeskidzie,,2,Odra Opole,,0
+2008-11-15T13:00:00,Zabki,,2,Swinoujscie,,0
+2008-11-15T12:00:00,Stilon Gorzow,,2,Zaglebie,,2
+2008-11-14T19:10:00,Widzew Lodz,,1,Lublin,,0
+2008-11-14T17:10:00,Leczna,,2,Korona Kielce,,2
+2008-11-09T14:40:00,Wisla Plock,,0,Podbeskidzie,,3
+2008-11-09T12:00:00,Lublin,,0,Leczna,,0
+2008-11-08T17:00:00,Pruszkow,,1,GKS Jastrzebie,,1
+2008-11-08T16:00:00,Odra Opole,,3,S. Wola,,0
+2008-11-08T14:00:00,GKS Katowice,,1,Turek,,4
+2008-11-08T13:00:00,Swinoujscie,,1,Kmita Zabierzow,,1
+2008-11-08T13:00:00,Warta Poznan,,3,Widzew Lodz,,1
+2008-11-08T12:00:00,Stilon Gorzow,,0,Korona Kielce,,2
+2008-11-07T19:00:00,Zaglebie,,1,Zabki,,0
+2008-10-26T14:40:00,Zaglebie,,0,Swinoujscie,,1
+2008-10-26T12:00:00,Warta Poznan,,1,Leczna,,2
+2008-10-26T11:30:00,GKS Katowice,,0,GKS Jastrzebie,,3
+2008-10-25T18:00:00,Korona Kielce,,1,Zabki,,0
+2008-10-25T18:00:00,Pruszkow,,2,Podbeskidzie,,1
+2008-10-25T17:00:00,Wisla Plock,,2,S. Wola,,2
+2008-10-25T14:30:00,Turek,,1,Kmita Zabierzow,,1
+2008-10-25T14:00:00,Lublin,,0,Stilon Gorzow,,2
+2008-10-24T17:00:00,Odra Opole,,0,Widzew Lodz,,1
+2008-10-21T18:00:00,Leczna,,3,Zaglebie,,0
+2008-10-19T14:40:00,Widzew Lodz,,2,Wisla Plock,,2
+2008-10-18T16:30:00,GKS Jastrzebie,,1,Turek,,3
+2008-10-18T15:00:00,Kmita Zabierzow,,0,Zaglebie,,0
+2008-10-18T15:00:00,Leczna,,2,Odra Opole,,1
+2008-10-18T15:00:00,Podbeskidzie,,1,GKS Katowice,,0
+2008-10-18T15:00:00,S. Wola,,0,Pruszkow,,1
+2008-10-18T15:00:00,Zabki,,0,Lublin,,0
+2008-10-18T14:30:00,Stilon Gorzow,,0,Warta Poznan,,2
+2008-10-18T13:00:00,Swinoujscie,,0,Korona Kielce,,2
+2008-10-12T18:00:00,Pruszkow,,0,Widzew Lodz,,0
+2008-10-12T17:00:00,Korona Kielce,,2,Zaglebie,,2
+2008-10-12T17:00:00,Wisla Plock,,1,Leczna,,0
+2008-10-12T15:00:00,Lublin,,1,Swinoujscie,,1
+2008-10-12T15:00:00,Turek,,2,Podbeskidzie,,1
+2008-10-12T11:30:00,GKS Katowice,,1,S. Wola,,0
+2008-10-11T17:00:00,GKS Jastrzebie,,0,Kmita Zabierzow,,2
+2008-10-11T17:00:00,Odra Opole,,1,Stilon Gorzow,,0
+2008-10-11T15:00:00,Warta Poznan,,1,Zabki,,2
+2008-10-08T19:10:00,Widzew Lodz,,1,GKS Katowice,,0
+2008-10-08T19:00:00,Zaglebie,,2,Lublin,,0
+2008-10-08T16:00:00,Leczna,,2,Pruszkow,,3
+2008-10-08T15:30:00,S. Wola,,1,Turek,,1
+2008-10-08T15:00:00,Kmita Zabierzow,,1,Korona Kielce,,1
+2008-10-08T15:00:00,Podbeskidzie,,4,GKS Jastrzebie,,0
+2008-10-08T15:00:00,Stilon Gorzow,,0,Wisla Plock,,5
+2008-10-08T15:00:00,Swinoujscie,,4,Warta Poznan,,0
+2008-10-08T15:00:00,Zabki,,0,Odra Opole,,0
+2008-10-04T20:00:00,GKS Jastrzebie,,1,S. Wola,,0
+2008-10-04T18:00:00,Wisla Plock,,0,Zabki,,1
+2008-10-04T17:00:00,Odra Opole,,0,Swinoujscie,,2
+2008-10-04T16:10:00,GKS Katowice,,2,Leczna,,3
+2008-10-04T15:30:00,Lublin,,1,Korona Kielce,,2
+2008-10-04T15:00:00,Podbeskidzie,,0,Kmita Zabierzow,,0
+2008-10-04T15:00:00,Pruszkow,,4,Stilon Gorzow,,0
+2008-10-04T15:00:00,Turek,,0,Widzew Lodz,,0
+2008-10-04T15:00:00,Warta Poznan,,0,Zaglebie,,3
+2008-10-01T19:00:00,Korona Kielce,,1,Leczna,,0
+2008-09-28T14:40:00,Zabki,,2,Pruszkow,,0
+2008-09-27T19:10:00,Widzew Lodz,,0,GKS Jastrzebie,,1
+2008-09-27T19:00:00,Korona Kielce,,3,Warta Poznan,,0
+2008-09-27T18:00:00,Zaglebie,,3,Odra Opole,,0
+2008-09-27T16:00:00,Kmita Zabierzow,,0,Lublin,,1
+2008-09-27T16:00:00,Leczna,,1,Turek,,2
+2008-09-27T16:00:00,S. Wola,,1,Podbeskidzie,,2
+2008-09-27T16:00:00,Stilon Gorzow,,2,GKS Katowice,,0
+2008-09-27T16:00:00,Swinoujscie,,4,Wisla Plock,,1
+2008-09-21T16:00:00,Pruszkow,,4,Swinoujscie,,1
+2008-09-20T19:00:00,GKS Jastrzebie,,1,Leczna,,2
+2008-09-20T18:00:00,Odra Opole,,2,Korona Kielce,,0
+2008-09-20T18:00:00,Wisla Plock,,1,Zaglebie,,0
+2008-09-20T16:00:00,GKS Katowice,,3,Zabki,,0
+2008-09-20T16:00:00,Podbeskidzie,,0,Widzew Lodz,,1
+2008-09-20T16:00:00,S. Wola,,0,Kmita Zabierzow,,0
+2008-09-20T16:00:00,Turek,,0,Stilon Gorzow,,0
+2008-09-20T16:00:00,Warta Poznan,,0,Lublin,,1
+2008-09-16T19:00:00,Zaglebie,,5,Stilon Gorzow,,2
+2008-09-15T18:30:00,Leczna,,3,Podbeskidzie,,2
+2008-09-14T14:40:00,Widzew Lodz,,2,S. Wola,,1
+2008-09-14T14:00:00,Zabki,,0,Turek,,0
+2008-09-13T19:00:00,Korona Kielce,,2,Wisla Plock,,0
+2008-09-13T16:00:00,Kmita Zabierzow,,0,Warta Poznan,,0
+2008-09-13T16:00:00,Lublin,,1,Odra Opole,,1
+2008-09-13T16:00:00,Stilon Gorzow,,1,GKS Jastrzebie,,0
+2008-09-13T16:00:00,Swinoujscie,,2,GKS Katowice,,0
+2008-09-12T19:00:00,Zaglebie,,2,Pruszkow,,0
+2008-09-07T19:10:00,Widzew Lodz,,2,Kmita Zabierzow,,0
+2008-09-07T18:00:00,Wisla Plock,,1,Lublin,,0
+2008-09-07T17:00:00,GKS Katowice,,2,Zaglebie,,2
+2008-09-07T12:15:00,Pruszkow,,0,Korona Kielce,,1
+2008-09-06T18:00:00,GKS Jastrzebie,,1,Zabki,,0
+2008-09-06T18:00:00,Odra Opole,,1,Warta Poznan,,1
+2008-09-06T16:00:00,Podbeskidzie,,0,Stilon Gorzow,,0
+2008-09-06T16:00:00,S. Wola,,4,Leczna,,0
+2008-09-06T14:30:00,Turek,,1,Swinoujscie,,2
+2008-09-03T19:00:00,Korona Kielce,,2,GKS Katowice,,1
+2008-09-03T19:00:00,Zaglebie,,5,Turek,,0
+2008-09-03T17:00:00,Kmita Zabierzow,,0,Odra Opole,,1
+2008-09-03T17:00:00,Leczna,,0,Widzew Lodz,,0
+2008-09-03T17:00:00,Lublin,,1,Pruszkow,,0
+2008-09-03T17:00:00,Stilon Gorzow,,3,S. Wola,,0
+2008-09-03T17:00:00,Swinoujscie,,3,GKS Jastrzebie,,2
+2008-09-03T16:30:00,Zabki,,0,Podbeskidzie,,1
+2008-09-03T16:00:00,Warta Poznan,,3,Wisla Plock,,2
+2008-08-31T14:40:00,GKS Katowice,,1,Lublin,,1
+2008-08-30T19:10:00,Widzew Lodz,,3,Stilon Gorzow,,0
+2008-08-30T19:00:00,GKS Jastrzebie,,1,Zaglebie,,4
+2008-08-30T19:00:00,Wisla Plock,,2,Odra Opole,,2
+2008-08-30T17:00:00,Leczna,,0,Kmita Zabierzow,,0
+2008-08-30T17:00:00,S. Wola,,1,Zabki,,2
+2008-08-30T17:00:00,Turek,,0,Korona Kielce,,1
+2008-08-30T16:00:00,Podbeskidzie,,3,Swinoujscie,,1
+2008-08-30T14:00:00,Pruszkow,,2,Warta Poznan,,1
+2008-08-27T19:00:00,Korona Kielce,,3,Stilon Gorzow,,0
+2008-08-27T17:00:00,Zabki,,3,Zaglebie,,4
+2008-08-24T12:00:00,Warta Poznan,,3,GKS Katowice,,3
+2008-08-23T19:00:00,Odra Opole,,0,Pruszkow,,3
+2008-08-23T18:00:00,Korona Kielce,,2,GKS Jastrzebie,,3
+2008-08-23T17:00:00,Lublin,,1,Turek,,0
+2008-08-23T17:00:00,Stilon Gorzow,,2,Leczna,,1
+2008-08-23T17:00:00,Swinoujscie,,1,S. Wola,,0
+2008-08-23T16:00:00,Zabki,,1,Widzew Lodz,,3
+2008-08-22T19:00:00,Zaglebie,,3,Podbeskidzie,,1
+2008-08-22T17:00:00,Kmita Zabierzow,,0,Wisla Plock,,1
+2008-08-20T19:10:00,Widzew Lodz,,2,Warta Poznan,,0
+2008-08-17T17:00:00,Turek,,2,Warta Poznan,,2
+2008-08-16T20:00:00,Wisla Plock,,0,Pruszkow,,3
+2008-08-16T19:10:00,Widzew Lodz,,3,Swinoujscie,,1
+2008-08-16T19:00:00,GKS Jastrzebie,,1,Lublin,,0
+2008-08-16T18:00:00,Leczna,,3,Zabki,,0
+2008-08-16T17:00:00,GKS Katowice,,3,Odra Opole,,0
+2008-08-16T17:00:00,Podbeskidzie,,2,Korona Kielce,,1
+2008-08-16T17:00:00,S. Wola,,1,Zaglebie,,0
+2008-08-16T17:00:00,Stilon Gorzow,,1,Kmita Zabierzow,,2
+2008-08-10T17:00:00,Kmita Zabierzow,,0,Pruszkow,,0
+2008-08-10T17:00:00,Leczna,,1,Swinoujscie,,0
+2008-08-10T17:00:00,Odra Opole,,2,Turek,,2
+2008-08-10T17:00:00,Zaglebie,,4,Widzew Lodz,,3
+2008-08-10T12:00:00,Warta Poznan,,3,GKS Jastrzebie,,1
+2008-08-09T20:00:00,Wisla Plock,,3,GKS Katowice,,1
+2008-08-09T19:00:00,Korona Kielce,,2,S. Wola,,3
+2008-08-09T18:00:00,Lublin,,0,Podbeskidzie,,0
+2008-08-09T16:00:00,Zabki,,1,Stilon Gorzow,,1
+2008-08-06T19:45:00,GKS Jastrzebie,,2,Odra Opole,,0
+2008-08-06T18:00:00,GKS Katowice,,2,Pruszkow,,1
+2008-08-06T18:00:00,Stilon Gorzow,,0,Swinoujscie,,1
+2008-08-06T17:00:00,Podbeskidzie,,1,Warta Poznan,,0
+2008-08-06T17:00:00,S. Wola,,2,Lublin,,1
+2008-08-06T17:00:00,Turek,,1,Wisla Plock,,1
+2008-08-06T17:00:00,Zabki,,0,Kmita Zabierzow,,0
+2008-08-02T18:00:00,Kmita Zabierzow,,1,GKS Katowice,,1
+2008-08-02T18:00:00,Lublin,,0,Widzew Lodz,,1
+2008-08-02T18:00:00,Wisla Plock,,2,GKS Jastrzebie,,2
+2008-08-02T17:00:00,Swinoujscie,,1,Zabki,,0
+2008-08-02T17:00:00,Turek,,0,Pruszkow,,2
+2008-08-02T17:00:00,Warta Poznan,,2,S. Wola,,1
+2008-08-01T19:00:00,Odra Opole,,0,Podbeskidzie,,2
+2008-07-26T19:30:00,GKS Jastrzebie,,0,Pruszkow,,1
+2008-07-26T18:00:00,Kmita Zabierzow,,1,Swinoujscie,,0
+2008-07-26T18:00:00,Leczna,,2,Lublin,,1
+2008-07-26T17:00:00,Podbeskidzie,,3,Wisla Plock,,0
+2008-07-26T17:00:00,S. Wola,,2,Odra Opole,,1
+2008-07-26T17:00:00,Turek,,1,GKS Katowice,,0

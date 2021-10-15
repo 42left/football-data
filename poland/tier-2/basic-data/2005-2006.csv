@@ -1,0 +1,315 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2006-06-18T15:00:00,Heko Czermno,,2,S. Wola,,1
+2006-06-18T15:00:00,Podbeskidzie,,5,Pelikan,,2
+2006-06-18T15:00:00,Polonia Bytom,,1,Unia Janikowo,,0
+2006-06-18T15:00:00,Radomiak Radom,,1,Odra Opole,,2
+2006-06-15T15:00:00,Odra Opole,,1,Radomiak Radom,,1
+2006-06-15T15:00:00,Pelikan,,1,Podbeskidzie,,1
+2006-06-15T15:00:00,S. Wola,,1,Heko Czermno,,0
+2006-06-15T15:00:00,Unia Janikowo,,0,Polonia Bytom,,0
+2006-06-10T17:00:00,Heko Czermno,,2,Polkowice,,1
+2006-06-10T17:00:00,Lechia Gdansk,,0,Zawisza,,0
+2006-06-10T17:00:00,Nowe Miasto Lubawskie,,2,Swit,,0
+2006-06-10T17:00:00,Piast Gliwice,,1,LKS Lodz,,0
+2006-06-10T17:00:00,Radomiak Radom,,4,Szczakowianka,,0
+2006-06-10T17:00:00,Ruch Chorzow,,5,Polonia Bytom,,1
+2006-06-10T17:00:00,Slask Wroclaw,,2,Ostrowiec Swietokrzyski,,1
+2006-06-10T17:00:00,Widzew Lodz,,2,Podbeskidzie,,2
+2006-06-10T17:00:00,Zaglebie Sosnowiec,,1,Jagiellonia,,2
+2006-06-03T17:00:00,Jagiellonia,,2,Widzew Lodz,,1
+2006-06-03T17:00:00,LKS Lodz,,1,Radomiak Radom,,0
+2006-06-03T17:00:00,Ostrowiec Swietokrzyski,,0,Lechia Gdansk,,0
+2006-06-03T17:00:00,Podbeskidzie,,1,Ruch Chorzow,,1
+2006-06-03T17:00:00,Polonia Bytom,,1,Piast Gliwice,,3
+2006-06-03T17:00:00,Slask Wroclaw,,0,Polkowice,,1
+2006-06-03T17:00:00,Swit,,3,Heko Czermno,,4
+2006-06-03T17:00:00,Szczakowianka,,1,Nowe Miasto Lubawskie,,2
+2006-06-03T17:00:00,Zawisza,,1,Zaglebie Sosnowiec,,1
+2006-05-31T00:00:00,Heko Czermno,,4,Szczakowianka,,0
+2006-05-31T00:00:00,Lechia Gdansk,,3,Polkowice,,2
+2006-05-31T00:00:00,Nowe Miasto Lubawskie,,0,LKS Lodz,,1
+2006-05-31T00:00:00,Podbeskidzie,,0,Jagiellonia,,1
+2006-05-31T00:00:00,Radomiak Radom,,2,Polonia Bytom,,0
+2006-05-31T00:00:00,Ruch Chorzow,,5,Piast Gliwice,,0
+2006-05-31T00:00:00,Slask Wroclaw,,3,Swit,,0
+2006-05-31T00:00:00,Widzew Lodz,,2,Zawisza,,0
+2006-05-31T00:00:00,Zaglebie Sosnowiec,,3,Ostrowiec Swietokrzyski,,1
+2006-05-24T00:00:00,Jagiellonia,,0,Ruch Chorzow,,2
+2006-05-24T00:00:00,LKS Lodz,,3,Heko Czermno,,0
+2006-05-24T00:00:00,Ostrowiec Swietokrzyski,,0,Widzew Lodz,,2
+2006-05-24T00:00:00,Piast Gliwice,,2,Radomiak Radom,,2
+2006-05-24T00:00:00,Polkowice,,1,Zaglebie Sosnowiec,,1
+2006-05-24T00:00:00,Polonia Bytom,,2,Nowe Miasto Lubawskie,,1
+2006-05-24T00:00:00,Swit,,0,Lechia Gdansk,,0
+2006-05-24T00:00:00,Szczakowianka,,0,Slask Wroclaw,,1
+2006-05-24T00:00:00,Zawisza,,1,Podbeskidzie,,0
+2006-05-21T00:00:00,Heko Czermno,,0,Polonia Bytom,,3
+2006-05-21T00:00:00,Nowe Miasto Lubawskie,,0,Piast Gliwice,,0
+2006-05-21T00:00:00,Slask Wroclaw,,0,LKS Lodz,,0
+2006-05-21T00:00:00,Widzew Lodz,,0,Polkowice,,0
+2006-05-20T00:00:00,Jagiellonia,,3,Zawisza,,1
+2006-05-20T00:00:00,Lechia Gdansk,,3,Szczakowianka,,0
+2006-05-20T00:00:00,Podbeskidzie,,1,Ostrowiec Swietokrzyski,,0
+2006-05-20T00:00:00,Ruch Chorzow,,2,Radomiak Radom,,1
+2006-05-20T00:00:00,Zaglebie Sosnowiec,,3,Swit,,1
+2006-05-17T00:00:00,LKS Lodz,,1,Lechia Gdansk,,0
+2006-05-17T00:00:00,Ostrowiec Swietokrzyski,,0,Jagiellonia,,0
+2006-05-17T00:00:00,Piast Gliwice,,2,Heko Czermno,,0
+2006-05-17T00:00:00,Polkowice,,0,Podbeskidzie,,1
+2006-05-17T00:00:00,Polonia Bytom,,3,Slask Wroclaw,,1
+2006-05-17T00:00:00,Radomiak Radom,,2,Nowe Miasto Lubawskie,,2
+2006-05-17T00:00:00,Swit,,1,Widzew Lodz,,1
+2006-05-17T00:00:00,Szczakowianka,,1,Zaglebie Sosnowiec,,4
+2006-05-17T00:00:00,Zawisza,,1,Ruch Chorzow,,1
+2006-05-14T00:00:00,Heko Czermno,,1,Radomiak Radom,,0
+2006-05-13T00:00:00,Jagiellonia,,0,Polkowice,,1
+2006-05-13T00:00:00,Lechia Gdansk,,1,Polonia Bytom,,0
+2006-05-13T00:00:00,Podbeskidzie,,2,Swit,,0
+2006-05-13T00:00:00,Ruch Chorzow,,2,Nowe Miasto Lubawskie,,2
+2006-05-13T00:00:00,Slask Wroclaw,,1,Piast Gliwice,,0
+2006-05-13T00:00:00,Widzew Lodz,,1,Szczakowianka,,0
+2006-05-13T00:00:00,Zaglebie Sosnowiec,,0,LKS Lodz,,1
+2006-05-13T00:00:00,Zawisza,,0,Ostrowiec Swietokrzyski,,0
+2006-05-10T19:00:00,LKS Lodz,,1,Widzew Lodz,,3
+2006-05-10T19:00:00,Ostrowiec Swietokrzyski,,1,Ruch Chorzow,,4
+2006-05-10T19:00:00,Polkowice,,1,Zawisza,,1
+2006-05-10T19:00:00,Swit,,0,Jagiellonia,,3
+2006-05-10T17:00:00,Nowe Miasto Lubawskie,,1,Heko Czermno,,2
+2006-05-10T17:00:00,Polonia Bytom,,0,Zaglebie Sosnowiec,,3
+2006-05-10T17:00:00,Radomiak Radom,,1,Slask Wroclaw,,1
+2006-05-10T16:30:00,Piast Gliwice,,5,Lechia Gdansk,,1
+2006-05-10T16:30:00,Szczakowianka,,1,Podbeskidzie,,1
+2006-05-06T19:00:00,Ostrowiec Swietokrzyski,,0,Polkowice,,1
+2006-05-06T19:00:00,Widzew Lodz,,0,Polonia Bytom,,1
+2006-05-06T19:00:00,Zawisza,,2,Swit,,0
+2006-05-06T17:00:00,Jagiellonia,,1,Szczakowianka,,0
+2006-05-06T17:00:00,Lechia Gdansk,,0,Radomiak Radom,,0
+2006-05-06T16:30:00,Zaglebie Sosnowiec,,0,Piast Gliwice,,2
+2006-05-05T19:00:00,Ruch Chorzow,,4,Heko Czermno,,2
+2006-05-05T16:00:00,Podbeskidzie,,1,LKS Lodz,,0
+2006-04-30T15:00:00,Nowe Miasto Lubawskie,,0,Lechia Gdansk,,0
+2006-04-30T15:00:00,Szczakowianka,,1,Zawisza,,3
+2006-04-30T13:00:00,Heko Czermno,,1,Slask Wroclaw,,1
+2006-04-30T13:00:00,Radomiak Radom,,1,Zaglebie Sosnowiec,,2
+2006-04-29T18:00:00,LKS Lodz,,0,Jagiellonia,,0
+2006-04-29T18:00:00,Polkowice,,0,Ruch Chorzow,,1
+2006-04-29T18:00:00,Swit,,0,Ostrowiec Swietokrzyski,,2
+2006-04-29T16:00:00,Piast Gliwice,,1,Widzew Lodz,,0
+2006-04-29T16:00:00,Polonia Bytom,,0,Podbeskidzie,,0
+2006-04-26T17:00:00,Slask Wroclaw,,0,Nowe Miasto Lubawskie,,3
+2006-04-26T16:30:00,Szczakowianka,,0,Piast Gliwice,,0
+2006-04-22T00:00:00,Jagiellonia,,0,Polonia Bytom,,1
+2006-04-22T00:00:00,Lechia Gdansk,,1,Heko Czermno,,1
+2006-04-22T00:00:00,Ostrowiec Swietokrzyski,,0,Szczakowianka,,1
+2006-04-22T00:00:00,Podbeskidzie,,1,Piast Gliwice,,1
+2006-04-22T00:00:00,Polkowice,,2,Swit,,0
+2006-04-22T00:00:00,Ruch Chorzow,,0,Slask Wroclaw,,2
+2006-04-22T00:00:00,Widzew Lodz,,2,Radomiak Radom,,2
+2006-04-22T00:00:00,Zaglebie Sosnowiec,,1,Nowe Miasto Lubawskie,,0
+2006-04-22T00:00:00,Zawisza,,0,LKS Lodz,,0
+2006-04-19T19:00:00,LKS Lodz,,2,Polonia Bytom,,2
+2006-04-19T18:30:00,Zawisza,,1,Slask Wroclaw,,0
+2006-04-19T18:00:00,Ruch Chorzow,,0,Widzew Lodz,,2
+2006-04-19T18:00:00,Swit,,0,Radomiak Radom,,0
+2006-04-19T17:00:00,Jagiellonia,,1,Lechia Gdansk,,2
+2006-04-19T15:30:00,Polkowice,,0,Nowe Miasto Lubawskie,,0
+2006-04-19T15:00:00,Heko Czermno,,0,Ostrowiec Swietokrzyski,,0
+2006-04-19T14:00:00,Podbeskidzie,,0,Zaglebie Sosnowiec,,0
+2006-04-15T17:00:00,LKS Lodz,,0,Ostrowiec Swietokrzyski,,0
+2006-04-15T16:00:00,Polonia Bytom,,0,Zawisza,,0
+2006-04-15T16:00:00,Szczakowianka,,0,Polkowice,,0
+2006-04-15T15:00:00,Nowe Miasto Lubawskie,,0,Widzew Lodz,,1
+2006-04-15T15:00:00,Swit,,1,Ruch Chorzow,,0
+2006-04-15T13:00:00,Heko Czermno,,1,Zaglebie Sosnowiec,,2
+2006-04-15T13:00:00,Piast Gliwice,,1,Jagiellonia,,1
+2006-04-15T13:00:00,Radomiak Radom,,1,Podbeskidzie,,2
+2006-04-15T12:00:00,Slask Wroclaw,,0,Lechia Gdansk,,0
+2006-04-12T19:00:00,LKS Lodz,,0,Ruch Chorzow,,0
+2006-04-12T15:00:00,Lechia Gdansk,,1,Podbeskidzie,,0
+2006-04-12T15:00:00,Slask Wroclaw,,4,Jagiellonia,,2
+2006-04-12T14:30:00,Piast Gliwice,,3,Swit,,0
+2006-04-12T14:30:00,Zaglebie Sosnowiec,,0,Widzew Lodz,,1
+2006-04-12T13:00:00,Heko Czermno,,2,Zawisza,,4
+2006-04-12T13:00:00,Nowe Miasto Lubawskie,,1,Ostrowiec Swietokrzyski,,2
+2006-04-12T13:00:00,Radomiak Radom,,0,Polkowice,,1
+2006-04-12T12:00:00,Polonia Bytom,,2,Szczakowianka,,1
+2006-04-09T16:00:00,Radomiak Radom,,1,Jagiellonia,,3
+2006-04-09T16:00:00,Swit,,1,Szczakowianka,,0
+2006-04-08T16:00:00,Ostrowiec Swietokrzyski,,2,Polonia Bytom,,0
+2006-04-08T16:00:00,Podbeskidzie,,3,Nowe Miasto Lubawskie,,0
+2006-04-08T16:00:00,Widzew Lodz,,1,Heko Czermno,,0
+2006-04-08T16:00:00,Zaglebie Sosnowiec,,3,Slask Wroclaw,,0
+2006-04-08T16:00:00,Zawisza,,3,Piast Gliwice,,1
+2006-04-07T16:00:00,Polkowice,,0,LKS Lodz,,0
+2006-04-07T16:00:00,Ruch Chorzow,,3,Lechia Gdansk,,0
+2006-04-05T16:00:00,Jagiellonia,,0,Heko Czermno,,0
+2006-04-05T15:00:00,Polonia Bytom,,1,Swit,,1
+2006-04-04T16:30:00,Szczakowianka,,0,LKS Lodz,,2
+2006-04-01T16:00:00,Polonia Bytom,,0,Polkowice,,1
+2006-04-01T16:00:00,Slask Wroclaw,,1,Widzew Lodz,,0
+2006-04-01T16:00:00,Szczakowianka,,0,Ruch Chorzow,,0
+2006-04-01T15:00:00,Nowe Miasto Lubawskie,,0,Jagiellonia,,0
+2006-04-01T15:00:00,Piast Gliwice,,1,Ostrowiec Swietokrzyski,,0
+2006-04-01T14:00:00,Lechia Gdansk,,2,Zaglebie Sosnowiec,,0
+2006-04-01T13:00:00,Heko Czermno,,2,Podbeskidzie,,1
+2006-04-01T13:00:00,Radomiak Radom,,1,Zawisza,,2
+2006-03-31T19:00:00,LKS Lodz,,5,Swit,,1
+2006-03-29T18:00:00,Widzew Lodz,,4,Lechia Gdansk,,0
+2006-03-26T00:00:00,Ruch Chorzow,,0,Zaglebie Sosnowiec,,0
+2006-03-25T18:00:00,Ostrowiec Swietokrzyski,,3,Radomiak Radom,,1
+2006-03-25T18:00:00,Zawisza,,0,Nowe Miasto Lubawskie,,0
+2006-03-25T14:00:00,Podbeskidzie,,0,Slask Wroclaw,,0
+2006-03-24T18:00:00,Polkowice,,1,Piast Gliwice,,2
+2005-11-24T00:00:00,Jagiellonia,,0,Swit,,0
+2005-11-20T18:00:00,Ostrowiec Swietokrzyski,,1,Slask Wroclaw,,1
+2005-11-20T13:00:00,Szczakowianka,,0,Radomiak Radom,,0
+2005-11-20T13:00:00,Zawisza,,2,Lechia Gdansk,,0
+2005-11-20T12:00:00,Polonia Bytom,,2,Ruch Chorzow,,1
+2005-11-19T18:30:00,Polkowice,,2,Heko Czermno,,2
+2005-11-19T17:00:00,LKS Lodz,,3,Piast Gliwice,,0
+2005-11-19T15:30:00,Swit,,1,Nowe Miasto Lubawskie,,0
+2005-11-19T13:00:00,Jagiellonia,,1,Zaglebie Sosnowiec,,1
+2005-11-19T13:00:00,Podbeskidzie,,1,Widzew Lodz,,1
+2005-11-13T00:00:00,Heko Czermno,,1,Swit,,0
+2005-11-13T00:00:00,Lechia Gdansk,,1,Ostrowiec Swietokrzyski,,3
+2005-11-13T00:00:00,Nowe Miasto Lubawskie,,1,Szczakowianka,,2
+2005-11-13T00:00:00,Piast Gliwice,,1,Polonia Bytom,,0
+2005-11-13T00:00:00,Polkowice,,1,Slask Wroclaw,,0
+2005-11-13T00:00:00,Radomiak Radom,,0,LKS Lodz,,1
+2005-11-12T00:00:00,Widzew Lodz,,1,Jagiellonia,,0
+2005-11-12T00:00:00,Zaglebie Sosnowiec,,0,Zawisza,,0
+2005-11-11T00:00:00,Ruch Chorzow,,2,Podbeskidzie,,3
+2005-11-06T00:00:00,Polkowice,,1,Lechia Gdansk,,3
+2005-11-06T00:00:00,Polonia Bytom,,0,Radomiak Radom,,1
+2005-11-06T00:00:00,Zawisza,,0,Widzew Lodz,,2
+2005-11-05T00:00:00,Jagiellonia,,3,Podbeskidzie,,1
+2005-11-05T00:00:00,LKS Lodz,,1,Nowe Miasto Lubawskie,,1
+2005-11-05T00:00:00,Piast Gliwice,,2,Ruch Chorzow,,2
+2005-11-05T00:00:00,Swit,,1,Slask Wroclaw,,2
+2005-11-05T00:00:00,Szczakowianka,,2,Heko Czermno,,1
+2005-11-04T00:00:00,Ostrowiec Swietokrzyski,,3,Zaglebie Sosnowiec,,0
+2005-10-30T14:30:00,Radomiak Radom,,1,Piast Gliwice,,0
+2005-10-30T14:00:00,Slask Wroclaw,,1,Szczakowianka,,0
+2005-10-30T13:00:00,Heko Czermno,,1,LKS Lodz,,3
+2005-10-30T13:00:00,Zaglebie Sosnowiec,,1,Polkowice,,2
+2005-10-30T11:00:00,Lechia Gdansk,,1,Swit,,0
+2005-10-29T18:00:00,Widzew Lodz,,4,Ostrowiec Swietokrzyski,,1
+2005-10-29T17:00:00,Ruch Chorzow,,1,Jagiellonia,,0
+2005-10-29T14:30:00,Nowe Miasto Lubawskie,,1,Polonia Bytom,,2
+2005-10-29T13:00:00,Podbeskidzie,,1,Zawisza,,0
+2005-10-23T14:30:00,Polonia Bytom,,0,Heko Czermno,,0
+2005-10-22T14:30:00,Piast Gliwice,,1,Nowe Miasto Lubawskie,,1
+2005-10-22T14:30:00,Radomiak Radom,,1,Ruch Chorzow,,0
+2005-10-22T14:30:00,Szczakowianka,,2,Lechia Gdansk,,1
+2005-10-22T14:00:00,Zawisza,,1,Jagiellonia,,1
+2005-10-21T19:00:00,LKS Lodz,,2,Slask Wroclaw,,0
+2005-10-21T18:00:00,Ostrowiec Swietokrzyski,,1,Podbeskidzie,,0
+2005-10-21T18:00:00,Polkowice,,2,Widzew Lodz,,1
+2005-10-21T18:00:00,Swit,,1,Zaglebie Sosnowiec,,2
+2005-10-16T15:00:00,Slask Wroclaw,,2,Polonia Bytom,,0
+2005-10-16T14:30:00,Heko Czermno,,2,Piast Gliwice,,3
+2005-10-16T13:00:00,Lechia Gdansk,,1,LKS Lodz,,0
+2005-10-15T18:00:00,Ruch Chorzow,,1,Zawisza,,3
+2005-10-15T18:00:00,Widzew Lodz,,4,Swit,,0
+2005-10-15T14:30:00,Jagiellonia,,6,Ostrowiec Swietokrzyski,,0
+2005-10-15T14:30:00,Nowe Miasto Lubawskie,,4,Radomiak Radom,,2
+2005-10-15T14:30:00,Podbeskidzie,,2,Polkowice,,0
+2005-10-15T14:30:00,Zaglebie Sosnowiec,,5,Szczakowianka,,2
+2005-10-11T15:30:00,Polonia Bytom,,1,Lechia Gdansk,,1
+2005-10-10T14:30:00,Nowe Miasto Lubawskie,,0,Ruch Chorzow,,0
+2005-10-08T18:00:00,Ostrowiec Swietokrzyski,,1,Zawisza,,0
+2005-10-08T15:00:00,Radomiak Radom,,0,Heko Czermno,,0
+2005-10-08T14:30:00,Piast Gliwice,,3,Slask Wroclaw,,1
+2005-10-08T14:30:00,Szczakowianka,,2,Widzew Lodz,,0
+2005-10-07T20:00:00,LKS Lodz,,1,Zaglebie Sosnowiec,,0
+2005-10-07T19:30:00,Polkowice,,2,Jagiellonia,,2
+2005-10-06T14:30:00,Swit,,1,Podbeskidzie,,1
+2005-10-02T15:30:00,Slask Wroclaw,,1,Radomiak Radom,,3
+2005-10-02T14:30:00,Heko Czermno,,4,Nowe Miasto Lubawskie,,0
+2005-10-02T14:30:00,Zaglebie Sosnowiec,,3,Polonia Bytom,,0
+2005-10-02T13:00:00,Zawisza,,2,Polkowice,,0
+2005-10-01T18:00:00,Ruch Chorzow,,0,Ostrowiec Swietokrzyski,,2
+2005-10-01T18:00:00,Widzew Lodz,,2,LKS Lodz,,2
+2005-10-01T14:30:00,Lechia Gdansk,,0,Piast Gliwice,,0
+2005-10-01T14:30:00,Podbeskidzie,,1,Szczakowianka,,1
+2005-09-28T16:00:00,Nowe Miasto Lubawskie,,1,Slask Wroclaw,,2
+2005-09-28T16:00:00,Radomiak Radom,,2,Lechia Gdansk,,1
+2005-09-28T15:30:00,Polonia Bytom,,0,Widzew Lodz,,1
+2005-09-27T16:00:00,Szczakowianka,,1,Jagiellonia,,3
+2005-09-24T15:30:00,Piast Gliwice,,1,Zaglebie Sosnowiec,,0
+2005-09-24T15:00:00,Heko Czermno,,1,Ruch Chorzow,,1
+2005-09-23T19:00:00,LKS Lodz,,3,Podbeskidzie,,0
+2005-09-23T18:00:00,Polkowice,,0,Ostrowiec Swietokrzyski,,2
+2005-09-23T18:00:00,Swit,,0,Zawisza,,0
+2005-09-18T15:30:00,Slask Wroclaw,,0,Heko Czermno,,0
+2005-09-17T19:00:00,Ruch Chorzow,,2,Polkowice,,1
+2005-09-17T18:00:00,Ostrowiec Swietokrzyski,,1,Swit,,1
+2005-09-17T15:30:00,Jagiellonia,,0,LKS Lodz,,2
+2005-09-17T15:30:00,Lechia Gdansk,,2,Nowe Miasto Lubawskie,,0
+2005-09-17T15:30:00,Podbeskidzie,,2,Polonia Bytom,,3
+2005-09-17T15:30:00,Zaglebie Sosnowiec,,4,Radomiak Radom,,0
+2005-09-17T15:30:00,Zawisza,,2,Szczakowianka,,0
+2005-09-16T19:00:00,Widzew Lodz,,0,Piast Gliwice,,0
+2005-09-11T16:00:00,Slask Wroclaw,,3,Ruch Chorzow,,1
+2005-09-11T15:30:00,Heko Czermno,,3,Lechia Gdansk,,1
+2005-09-11T15:30:00,Piast Gliwice,,3,Podbeskidzie,,2
+2005-09-11T15:30:00,Radomiak Radom,,2,Widzew Lodz,,3
+2005-09-10T18:00:00,Swit,,4,Polkowice,,1
+2005-09-10T17:00:00,LKS Lodz,,0,Zawisza,,0
+2005-09-10T16:00:00,Szczakowianka,,4,Ostrowiec Swietokrzyski,,1
+2005-09-10T15:30:00,Nowe Miasto Lubawskie,,1,Zaglebie Sosnowiec,,2
+2005-09-10T15:30:00,Polonia Bytom,,0,Jagiellonia,,3
+2005-09-04T00:00:00,Jagiellonia,,1,Piast Gliwice,,1
+2005-09-04T00:00:00,Lechia Gdansk,,1,Slask Wroclaw,,2
+2005-09-04T00:00:00,Ostrowiec Swietokrzyski,,2,LKS Lodz,,2
+2005-09-04T00:00:00,Podbeskidzie,,1,Radomiak Radom,,1
+2005-09-04T00:00:00,Zaglebie Sosnowiec,,0,Heko Czermno,,0
+2005-09-04T00:00:00,Zawisza,,3,Polonia Bytom,,3
+2005-09-03T00:00:00,Polkowice,,7,Szczakowianka,,0
+2005-09-02T00:00:00,Ruch Chorzow,,2,Swit,,0
+2005-09-02T00:00:00,Widzew Lodz,,1,Nowe Miasto Lubawskie,,0
+2005-08-31T00:00:00,Piast Gliwice,,2,Szczakowianka,,2
+2005-08-28T00:00:00,Heko Czermno,,1,Widzew Lodz,,1
+2005-08-28T00:00:00,Polonia Bytom,,1,Ostrowiec Swietokrzyski,,2
+2005-08-28T00:00:00,Szczakowianka,,0,Swit,,2
+2005-08-27T00:00:00,LKS Lodz,,2,Polkowice,,0
+2005-08-27T00:00:00,Nowe Miasto Lubawskie,,1,Podbeskidzie,,1
+2005-08-27T00:00:00,Piast Gliwice,,0,Zawisza,,1
+2005-08-27T00:00:00,Slask Wroclaw,,0,Zaglebie Sosnowiec,,0
+2005-08-24T00:00:00,Jagiellonia,,3,Radomiak Radom,,2
+2005-08-24T00:00:00,Lechia Gdansk,,1,Ruch Chorzow,,2
+2005-08-24T00:00:00,Szczakowianka,,2,Polonia Bytom,,1
+2005-08-21T00:00:00,Zawisza,,1,Radomiak Radom,,1
+2005-08-20T00:00:00,Jagiellonia,,2,Nowe Miasto Lubawskie,,1
+2005-08-20T00:00:00,Podbeskidzie,,1,Heko Czermno,,1
+2005-08-20T00:00:00,Swit,,3,LKS Lodz,,1
+2005-08-20T00:00:00,Widzew Lodz,,1,Slask Wroclaw,,2
+2005-08-20T00:00:00,Zaglebie Sosnowiec,,1,Lechia Gdansk,,1
+2005-08-19T00:00:00,Ostrowiec Swietokrzyski,,0,Piast Gliwice,,1
+2005-08-19T00:00:00,Polkowice,,2,Polonia Bytom,,0
+2005-08-19T00:00:00,Ruch Chorzow,,4,Szczakowianka,,0
+2005-08-14T00:00:00,Heko Czermno,,0,Jagiellonia,,1
+2005-08-14T00:00:00,Radomiak Radom,,2,Ostrowiec Swietokrzyski,,2
+2005-08-13T00:00:00,Lechia Gdansk,,2,Widzew Lodz,,1
+2005-08-13T00:00:00,LKS Lodz,,2,Szczakowianka,,2
+2005-08-13T00:00:00,Nowe Miasto Lubawskie,,1,Zawisza,,3
+2005-08-13T00:00:00,Piast Gliwice,,0,Polkowice,,0
+2005-08-13T00:00:00,Slask Wroclaw,,3,Podbeskidzie,,2
+2005-08-13T00:00:00,Swit,,3,Polonia Bytom,,2
+2005-08-13T00:00:00,Zaglebie Sosnowiec,,1,Ruch Chorzow,,0
+2005-08-07T00:00:00,Podbeskidzie,,1,Lechia Gdansk,,1
+2005-08-06T00:00:00,Jagiellonia,,2,Slask Wroclaw,,0
+2005-08-06T00:00:00,Swit,,1,Piast Gliwice,,1
+2005-08-06T00:00:00,Widzew Lodz,,5,Zaglebie Sosnowiec,,2
+2005-08-06T00:00:00,Zawisza,,0,Heko Czermno,,1
+2005-08-05T00:00:00,Ostrowiec Swietokrzyski,,3,Nowe Miasto Lubawskie,,1
+2005-08-05T00:00:00,Polkowice,,1,Radomiak Radom,,0
+2005-08-05T00:00:00,Ruch Chorzow,,1,LKS Lodz,,0
+2005-07-31T00:00:00,Nowe Miasto Lubawskie,,3,Polkowice,,1
+2005-07-31T00:00:00,Polonia Bytom,,0,LKS Lodz,,0
+2005-07-31T00:00:00,Radomiak Radom,,2,Swit,,0
+2005-07-31T00:00:00,Slask Wroclaw,,1,Zawisza,,0
+2005-07-31T00:00:00,Widzew Lodz,,2,Ruch Chorzow,,0
+2005-07-30T00:00:00,Lechia Gdansk,,1,Jagiellonia,,1
+2005-07-30T00:00:00,Zaglebie Sosnowiec,,2,Podbeskidzie,,1
+2005-07-29T00:00:00,Ostrowiec Swietokrzyski,,0,Heko Czermno,,0

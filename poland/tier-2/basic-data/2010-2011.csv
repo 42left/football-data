@@ -1,0 +1,307 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2011-06-11T17:00:00,GKS Katowice,,1,Pogon Szczecin,,2
+2011-06-11T17:00:00,Kolejarz,,1,Leczna,,2
+2011-06-11T17:00:00,LKS Lodz,,1,Swinoujscie,,5
+2011-06-11T17:00:00,Odra Wodzislaw,0,0,Zabki,0,3
+2011-06-11T17:00:00,Polkowice,,0,Warta Poznan,,0
+2011-06-11T17:00:00,Radzionkow,,3,Podbeskidzie,,0
+2011-06-11T17:00:00,Sandecja Nowy S.,,3,Ostrowiec Swietokrzyski,,1
+2011-06-11T17:00:00,Stilon Gorzow,,0,Kluczbork,,3
+2011-06-11T17:00:00,Termalica B-B.,,3,Piast Gliwice,,1
+2011-06-04T17:00:00,Kluczbork,,0,Sandecja Nowy S.,,4
+2011-06-04T17:00:00,Leczna,,3,Radzionkow,,0
+2011-06-04T17:00:00,Ostrowiec Swietokrzyski,,0,LKS Lodz,,2
+2011-06-04T17:00:00,Piast Gliwice,,1,Polkowice,,0
+2011-06-04T17:00:00,Podbeskidzie,0,3,Stilon Gorzow,0,0
+2011-06-04T17:00:00,Pogon Szczecin,,3,Odra Wodzislaw,,0
+2011-06-04T17:00:00,Swinoujscie,,3,GKS Katowice,,1
+2011-06-04T17:00:00,Warta Poznan,,1,Kolejarz,,3
+2011-06-04T17:00:00,Zabki,,5,Termalica B-B.,,1
+2011-05-29T17:00:00,Kolejarz,,2,Piast Gliwice,,1
+2011-05-29T16:00:00,Termalica B-B.,,1,Pogon Szczecin,,2
+2011-05-28T18:00:00,Sandecja Nowy S.,,2,LKS Lodz,,2
+2011-05-28T17:00:00,GKS Katowice,,2,Ostrowiec Swietokrzyski,,3
+2011-05-28T17:00:00,Kluczbork,,1,Podbeskidzie,,2
+2011-05-28T17:00:00,Odra Wodzislaw,,0,Swinoujscie,,1
+2011-05-28T17:00:00,Polkowice,,1,Zabki,,2
+2011-05-28T17:00:00,Radzionkow,,0,Warta Poznan,,1
+2011-05-28T17:00:00,Stilon Gorzow,0,0,Leczna,0,3
+2011-05-25T19:00:00,Podbeskidzie,2,2,Sandecja Nowy S.,0,0
+2011-05-25T18:00:00,Ostrowiec Swietokrzyski,,4,Odra Wodzislaw,,0
+2011-05-25T18:00:00,Piast Gliwice,0,0,Radzionkow,1,1
+2011-05-25T18:00:00,Pogon Szczecin,,4,Polkowice,,2
+2011-05-25T17:00:00,Leczna,1,2,Kluczbork,0,0
+2011-05-25T17:00:00,Swinoujscie,0,2,Termalica B-B.,1,2
+2011-05-25T17:00:00,Warta Poznan,0,3,Stilon Gorzow,0,0
+2011-05-25T17:00:00,Zabki,,0,Kolejarz,,0
+2011-05-24T20:00:00,LKS Lodz,,3,GKS Katowice,,0
+2011-05-22T17:00:00,Termalica B-B.,3,3,Ostrowiec Swietokrzyski,1,1
+2011-05-22T16:00:00,Kolejarz,0,0,Pogon Szczecin,0,2
+2011-05-21T19:00:00,Podbeskidzie,,3,Leczna,,1
+2011-05-21T18:00:00,Odra Wodzislaw,,3,LKS Lodz,,6
+2011-05-21T17:00:00,Radzionkow,,0,Zabki,,1
+2011-05-21T17:00:00,Stilon Gorzow,,0,Piast Gliwice,,3
+2011-05-21T17:00:00,Warta Poznan,,2,Kluczbork,,1
+2011-05-20T19:00:00,Polkowice,,1,Swinoujscie,,2
+2011-05-20T19:00:00,Sandecja Nowy S.,,1,GKS Katowice,,1
+2011-05-15T17:00:00,Piast Gliwice,,1,Kluczbork,,1
+2011-05-15T16:00:00,Warta Poznan,,1,Podbeskidzie,,1
+2011-05-15T16:00:00,Zabki,,3,Stilon Gorzow,,0
+2011-05-14T20:15:00,LKS Lodz,,2,Termalica B-B.,,0
+2011-05-14T19:00:00,GKS Katowice,,2,Odra Wodzislaw,,0
+2011-05-14T18:00:00,Ostrowiec Swietokrzyski,,0,Polkowice,,2
+2011-05-14T17:00:00,Leczna,,1,Sandecja Nowy S.,,1
+2011-05-14T17:00:00,Pogon Szczecin,,0,Radzionkow,,0
+2011-05-14T17:00:00,Swinoujscie,,0,Kolejarz,,1
+2011-05-11T19:00:00,Polkowice,,1,LKS Lodz,,1
+2011-05-11T19:00:00,Sandecja Nowy S.,,2,Odra Wodzislaw,,1
+2011-05-11T18:15:00,Podbeskidzie,,0,Piast Gliwice,,0
+2011-05-11T17:00:00,Kluczbork,,1,Zabki,,1
+2011-05-11T17:00:00,Leczna,,0,Warta Poznan,,1
+2011-05-11T17:00:00,Radzionkow,,0,Swinoujscie,,1
+2011-05-11T17:00:00,Stilon Gorzow,0,0,Pogon Szczecin,0,3
+2011-05-11T17:00:00,Termalica B-B.,,3,GKS Katowice,,3
+2011-05-11T16:00:00,Kolejarz,,1,Ostrowiec Swietokrzyski,,1
+2011-05-08T16:00:00,Warta Poznan,,2,Sandecja Nowy S.,,1
+2011-05-08T16:00:00,Zabki,,2,Podbeskidzie,,0
+2011-05-07T18:00:00,GKS Katowice,,1,Polkowice,,0
+2011-05-07T18:00:00,Ostrowiec Swietokrzyski,,2,Radzionkow,,0
+2011-05-07T17:00:00,Odra Wodzislaw,,3,Termalica B-B.,,2
+2011-05-07T17:00:00,Pogon Szczecin,,5,Kluczbork,,1
+2011-05-07T17:00:00,Swinoujscie,0,3,Stilon Gorzow,0,0
+2011-05-06T19:00:00,LKS Lodz,,2,Kolejarz,,1
+2011-05-06T18:00:00,Piast Gliwice,,0,Leczna,,4
+2011-05-01T16:00:00,Kolejarz,,1,GKS Katowice,,1
+2011-04-30T20:15:00,Podbeskidzie,,2,Pogon Szczecin,,1
+2011-04-30T19:00:00,Polkowice,,1,Odra Wodzislaw,,2
+2011-04-30T19:00:00,Sandecja Nowy S.,,4,Termalica B-B.,,0
+2011-04-30T17:00:00,Kluczbork,,0,Swinoujscie,,0
+2011-04-30T17:00:00,Leczna,,2,Zabki,,0
+2011-04-30T17:00:00,Warta Poznan,,1,Piast Gliwice,,0
+2011-04-30T16:00:00,Stilon Gorzow,,1,Ostrowiec Swietokrzyski,,2
+2011-04-29T17:00:00,Radzionkow,,1,LKS Lodz,,0
+2011-04-23T18:00:00,GKS Katowice,,1,Radzionkow,,1
+2011-04-23T18:00:00,Pogon Szczecin,,3,Leczna,,3
+2011-04-23T16:00:00,Odra Wodzislaw,,0,Kolejarz,,3
+2011-04-23T14:00:00,Ostrowiec Swietokrzyski,,2,Kluczbork,,2
+2011-04-23T11:30:00,Termalica B-B.,,2,Polkowice,,0
+2011-04-22T16:30:00,Swinoujscie,,1,Podbeskidzie,,1
+2011-04-22T16:00:00,Zabki,,1,Warta Poznan,,2
+2011-04-21T19:00:00,LKS Lodz,,3,Stilon Gorzow,,0
+2011-04-20T17:30:00,Piast Gliwice,,1,Sandecja Nowy S.,,1
+2011-04-17T16:00:00,Kolejarz,,2,Termalica B-B.,,0
+2011-04-17T16:00:00,Radzionkow,,1,Odra Wodzislaw,,1
+2011-04-17T16:00:00,Warta Poznan,,1,Pogon Szczecin,,2
+2011-04-16T20:30:00,Leczna,,0,Swinoujscie,,1
+2011-04-16T19:00:00,Sandecja Nowy S.,,3,Polkowice,,0
+2011-04-16T16:00:00,Kluczbork,,1,LKS Lodz,,1
+2011-04-16T16:00:00,Piast Gliwice,,0,Zabki,,0
+2011-04-16T16:00:00,Stilon Gorzow,,3,GKS Katowice,,3
+2011-04-15T19:00:00,Podbeskidzie,,0,Ostrowiec Swietokrzyski,,0
+2011-04-10T19:00:00,LKS Lodz,,0,Podbeskidzie,,0
+2011-04-10T17:00:00,GKS Katowice,,1,Kluczbork,,0
+2011-04-10T15:00:00,Zabki,,1,Sandecja Nowy S.,,2
+2011-04-10T11:30:00,Termalica B-B.,,1,Radzionkow,,0
+2011-04-09T20:15:00,Pogon Szczecin,,1,Piast Gliwice,,1
+2011-04-09T19:00:00,Polkowice,,2,Kolejarz,,1
+2011-04-09T18:00:00,Ostrowiec Swietokrzyski,,0,Leczna,,0
+2011-04-09T16:00:00,Odra Wodzislaw,,1,Stilon Gorzow,,3
+2011-04-09T16:00:00,Swinoujscie,,1,Warta Poznan,,0
+2011-04-06T16:00:00,Kluczbork,,1,Radzionkow,,0
+2011-04-03T14:30:00,Zabki,,0,Pogon Szczecin,,2
+2011-04-02T20:15:00,Podbeskidzie,,2,GKS Katowice,,0
+2011-04-02T18:00:00,Leczna,,1,LKS Lodz,,2
+2011-04-02T18:00:00,Sandecja Nowy S.,,6,Kolejarz,,2
+2011-04-02T16:00:00,Kluczbork,,0,Odra Wodzislaw,,0
+2011-04-02T16:00:00,Piast Gliwice,,1,Swinoujscie,,2
+2011-04-02T16:00:00,Radzionkow,,0,Polkowice,,1
+2011-04-02T16:00:00,Stilon Gorzow,,0,Termalica B-B.,,0
+2011-04-02T16:00:00,Warta Poznan,,6,Ostrowiec Swietokrzyski,,1
+2011-03-27T15:00:00,Kolejarz,,0,Radzionkow,,1
+2011-03-27T11:30:00,Termalica B-B.,,4,Kluczbork,,1
+2011-03-26T18:00:00,GKS Katowice,,4,Leczna,,2
+2011-03-26T18:00:00,Polkowice,,1,Stilon Gorzow,,0
+2011-03-26T17:30:00,Pogon Szczecin,,1,Sandecja Nowy S.,,1
+2011-03-26T16:00:00,Odra Wodzislaw,,1,Podbeskidzie,,2
+2011-03-26T16:00:00,Ostrowiec Swietokrzyski,,1,Piast Gliwice,,0
+2011-03-26T16:00:00,Swinoujscie,,0,Zabki,,1
+2011-03-25T19:00:00,LKS Lodz,,0,Warta Poznan,,0
+2011-03-20T14:00:00,Warta Poznan,,2,GKS Katowice,,1
+2011-03-20T14:00:00,Zabki,,1,Ostrowiec Swietokrzyski,,2
+2011-03-19T18:00:00,Sandecja Nowy S.,,0,Radzionkow,,1
+2011-03-19T17:00:00,Leczna,,2,Odra Wodzislaw,,0
+2011-03-19T17:00:00,Podbeskidzie,,0,Termalica B-B.,,0
+2011-03-19T17:00:00,Pogon Szczecin,,1,Swinoujscie,,1
+2011-03-19T15:00:00,Kluczbork,,2,Polkowice,,0
+2011-03-19T15:00:00,Stilon Gorzow,,1,Kolejarz,,0
+2011-03-18T20:30:00,Piast Gliwice,,2,LKS Lodz,,2
+2011-03-13T14:00:00,Kolejarz,0,1,Kluczbork,0,0
+2011-03-13T11:30:00,Termalica B-B.,,2,Leczna,,2
+2011-03-12T18:00:00,Polkowice,1,1,Podbeskidzie,0,0
+2011-03-12T15:00:00,Odra Wodzislaw,0,1,Warta Poznan,2,3
+2011-03-12T15:00:00,Swinoujscie,2,2,Sandecja Nowy S.,1,1
+2011-03-12T14:00:00,Radzionkow,,0,Stilon Gorzow,,0
+2011-03-11T20:00:00,GKS Katowice,,0,Piast Gliwice,,0
+2011-03-11T19:00:00,LKS Lodz,,1,Zabki,,0
+2011-03-11T17:00:00,Ostrowiec Swietokrzyski,0,0,Pogon Szczecin,0,0
+2011-03-06T13:00:00,Zabki,0,0,GKS Katowice,1,1
+2011-03-06T11:30:00,Termalica B-B.,,0,Warta Poznan,,1
+2011-03-05T17:00:00,Leczna,,1,Polkowice,,0
+2011-03-05T17:00:00,Podbeskidzie,,2,Kolejarz,,0
+2011-03-05T15:00:00,Piast Gliwice,,2,Odra Wodzislaw,,0
+2011-03-05T15:00:00,Sandecja Nowy S.,,1,Stilon Gorzow,,1
+2011-03-05T15:00:00,Swinoujscie,0,2,Ostrowiec Swietokrzyski,0,1
+2011-03-04T20:00:00,Pogon Szczecin,,1,LKS Lodz,,1
+2010-11-24T19:00:00,Warta Poznan,,1,Polkowice,,3
+2010-11-19T18:30:00,Leczna,,0,Kolejarz,,0
+2010-11-19T18:00:00,Piast Gliwice,,3,Termalica B-B.,,1
+2010-11-19T18:00:00,Podbeskidzie,,2,Radzionkow,,1
+2010-11-19T17:00:00,Ostrowiec Swietokrzyski,,0,Sandecja Nowy S.,,0
+2010-11-19T13:00:00,Kluczbork,,3,Stilon Gorzow,,2
+2010-11-19T13:00:00,Swinoujscie,,1,LKS Lodz,,1
+2010-11-19T12:00:00,Zabki,,1,Odra Wodzislaw,,1
+2010-11-18T17:00:00,Pogon Szczecin,,3,GKS Katowice,,4
+2010-11-14T17:00:00,GKS Katowice,,5,Swinoujscie,,3
+2010-11-14T13:00:00,Kolejarz,,1,Warta Poznan,,0
+2010-11-14T11:30:00,Termalica B-B.,,1,Zabki,,0
+2010-11-13T17:00:00,LKS Lodz,,0,Ostrowiec Swietokrzyski,,0
+2010-11-13T17:00:00,Odra Wodzislaw,,2,Pogon Szczecin,,0
+2010-11-13T17:00:00,Polkowice,,1,Piast Gliwice,,3
+2010-11-13T13:00:00,Radzionkow,,3,Leczna,,1
+2010-11-13T13:00:00,Sandecja Nowy S.,,0,Kluczbork,,0
+2010-11-13T13:00:00,Stilon Gorzow,,1,Podbeskidzie,,1
+2010-11-06T17:00:00,Leczna,,2,Stilon Gorzow,,1
+2010-11-06T17:00:00,Podbeskidzie,,1,Kluczbork,,0
+2010-11-06T17:00:00,Pogon Szczecin,,1,Termalica B-B.,,3
+2010-11-06T17:00:00,Warta Poznan,,0,Radzionkow,,2
+2010-11-06T16:00:00,Piast Gliwice,,2,Kolejarz,,0
+2010-11-06T15:30:00,Ostrowiec Swietokrzyski,,1,GKS Katowice,,2
+2010-11-06T14:00:00,Swinoujscie,,1,Odra Wodzislaw,,0
+2010-11-06T13:15:00,LKS Lodz,,3,Sandecja Nowy S.,,1
+2010-11-06T13:00:00,Zabki,,2,Polkowice,,1
+2010-10-31T17:00:00,GKS Katowice,,1,LKS Lodz,,3
+2010-10-31T14:00:00,Kolejarz,,1,Zabki,,0
+2010-10-31T11:30:00,Termalica B-B.,,2,Swinoujscie,,1
+2010-10-30T17:00:00,Odra Wodzislaw,,3,Ostrowiec Swietokrzyski,,1
+2010-10-30T14:00:00,Kluczbork,,0,Leczna,,0
+2010-10-30T14:00:00,Sandecja Nowy S.,,0,Podbeskidzie,,1
+2010-10-30T13:00:00,Radzionkow,,3,Piast Gliwice,,0
+2010-10-30T13:00:00,Stilon Gorzow,,0,Warta Poznan,,2
+2010-10-29T18:00:00,Polkowice,,1,Pogon Szczecin,,0
+2010-10-23T19:15:00,Leczna,,1,Podbeskidzie,,0
+2010-10-23T17:00:00,GKS Katowice,,2,Sandecja Nowy S.,,3
+2010-10-23T17:00:00,Ostrowiec Swietokrzyski,,2,Termalica B-B.,,0
+2010-10-23T17:00:00,Pogon Szczecin,,3,Kolejarz,,0
+2010-10-23T16:00:00,Piast Gliwice,,5,Stilon Gorzow,,0
+2010-10-23T15:00:00,Swinoujscie,,1,Polkowice,,1
+2010-10-23T14:00:00,Kluczbork,,4,Warta Poznan,,0
+2010-10-23T14:00:00,Zabki,,4,Radzionkow,,3
+2010-10-21T18:30:00,LKS Lodz,,2,Odra Wodzislaw,,0
+2010-10-17T14:00:00,Kolejarz,,1,Swinoujscie,,1
+2010-10-17T11:30:00,Termalica B-B.,,2,LKS Lodz,,3
+2010-10-16T18:00:00,Odra Wodzislaw,,1,GKS Katowice,,0
+2010-10-16T18:00:00,Polkowice,,1,Ostrowiec Swietokrzyski,,0
+2010-10-16T16:00:00,Kluczbork,,1,Piast Gliwice,,2
+2010-10-16T15:30:00,Podbeskidzie,,2,Warta Poznan,,0
+2010-10-16T15:00:00,Radzionkow,,2,Pogon Szczecin,,0
+2010-10-16T15:00:00,Sandecja Nowy S.,,2,Leczna,,0
+2010-10-16T15:00:00,Stilon Gorzow,,0,Zabki,,0
+2010-10-10T16:00:00,Piast Gliwice,,2,Podbeskidzie,,1
+2010-10-09T20:00:00,LKS Lodz,,1,Polkowice,,0
+2010-10-09T18:00:00,Odra Wodzislaw,,0,Sandecja Nowy S.,,0
+2010-10-09T17:00:00,GKS Katowice,,0,Termalica B-B.,,0
+2010-10-09T17:00:00,Ostrowiec Swietokrzyski,,3,Kolejarz,,1
+2010-10-09T17:00:00,Pogon Szczecin,,0,Stilon Gorzow,,0
+2010-10-09T17:00:00,Warta Poznan,,1,Leczna,,1
+2010-10-09T15:00:00,Swinoujscie,,4,Radzionkow,,2
+2010-10-09T15:00:00,Zabki,,2,Kluczbork,,0
+2010-10-06T19:00:00,Warta Poznan,,0,Zabki,,0
+2010-10-03T16:00:00,Termalica B-B.,,0,Odra Wodzislaw,,1
+2010-10-03T15:00:00,Kolejarz,,0,LKS Lodz,,1
+2010-10-02T19:00:00,Podbeskidzie,,2,Zabki,,0
+2010-10-02T17:00:00,Leczna,,1,Piast Gliwice,,1
+2010-10-02T16:00:00,Kluczbork,,3,Pogon Szczecin,,1
+2010-10-02T16:00:00,Radzionkow,,1,Ostrowiec Swietokrzyski,,0
+2010-10-02T16:00:00,Stilon Gorzow,,2,Swinoujscie,,4
+2010-10-02T14:00:00,Sandecja Nowy S.,,3,Warta Poznan,,1
+2010-10-01T19:00:00,Polkowice,,1,GKS Katowice,,1
+2010-09-26T18:00:00,Piast Gliwice,,4,Warta Poznan,,0
+2010-09-26T17:00:00,Pogon Szczecin,,1,Podbeskidzie,,3
+2010-09-26T16:00:00,Termalica B-B.,,1,Sandecja Nowy S.,,0
+2010-09-26T15:00:00,Swinoujscie,,1,Kluczbork,,0
+2010-09-25T19:00:00,GKS Katowice,,1,Kolejarz,,0
+2010-09-25T18:00:00,Odra Wodzislaw,,1,Polkowice,,0
+2010-09-25T18:00:00,Ostrowiec Swietokrzyski,,0,Stilon Gorzow,,1
+2010-09-25T17:00:00,LKS Lodz,,4,Radzionkow,,2
+2010-09-25T15:00:00,Zabki,,0,Leczna,,1
+2010-09-19T17:00:00,Radzionkow,,0,GKS Katowice,,0
+2010-09-19T16:00:00,Kolejarz,,2,Odra Wodzislaw,,0
+2010-09-18T19:00:00,Podbeskidzie,,2,Swinoujscie,,1
+2010-09-18T17:00:00,Kluczbork,,1,Ostrowiec Swietokrzyski,,1
+2010-09-18T17:00:00,Stilon Gorzow,,0,LKS Lodz,,1
+2010-09-18T16:00:00,Sandecja Nowy S.,,0,Piast Gliwice,,0
+2010-09-17T19:00:00,Leczna,,1,Pogon Szczecin,,3
+2010-09-17T19:00:00,Polkowice,,2,Termalica B-B.,,1
+2010-09-12T17:00:00,Pogon Szczecin,,4,Warta Poznan,,3
+2010-09-12T16:00:00,Termalica B-B.,,3,Kolejarz,,0
+2010-09-11T19:00:00,Odra Wodzislaw,,1,Radzionkow,,2
+2010-09-11T19:00:00,Polkowice,,1,Sandecja Nowy S.,,2
+2010-09-11T18:00:00,Ostrowiec Swietokrzyski,,1,Podbeskidzie,,2
+2010-09-11T17:00:00,LKS Lodz,,2,Kluczbork,,1
+2010-09-11T16:00:00,Swinoujscie,,4,Leczna,,1
+2010-09-11T16:00:00,Zabki,,1,Piast Gliwice,,2
+2010-09-11T15:30:00,GKS Katowice,,4,Stilon Gorzow,,2
+2010-09-05T16:00:00,Kolejarz,,0,Polkowice,,0
+2010-09-04T20:00:00,Podbeskidzie,,1,LKS Lodz,,1
+2010-09-04T18:00:00,Leczna,,2,Ostrowiec Swietokrzyski,,1
+2010-09-04T17:00:00,Kluczbork,,3,GKS Katowice,,0
+2010-09-04T17:00:00,Radzionkow,,1,Termalica B-B.,,0
+2010-09-04T17:00:00,Sandecja Nowy S.,,2,Zabki,,0
+2010-09-04T17:00:00,Stilon Gorzow,,2,Odra Wodzislaw,,1
+2010-09-04T14:00:00,Warta Poznan,,2,Swinoujscie,,2
+2010-09-03T19:00:00,Piast Gliwice,,0,Pogon Szczecin,,0
+2010-08-29T17:00:00,Kolejarz,,1,Sandecja Nowy S.,,2
+2010-08-29T17:00:00,LKS Lodz,,1,Leczna,,0
+2010-08-29T17:00:00,Pogon Szczecin,,3,Zabki,,0
+2010-08-29T16:00:00,Termalica B-B.,,1,Stilon Gorzow,,2
+2010-08-28T19:00:00,Ostrowiec Swietokrzyski,,0,Warta Poznan,,1
+2010-08-28T17:00:00,Swinoujscie,,0,Piast Gliwice,,0
+2010-08-28T16:00:00,GKS Katowice,,1,Podbeskidzie,,6
+2010-08-27T19:00:00,Odra Wodzislaw,,1,Kluczbork,,1
+2010-08-27T19:00:00,Polkowice,,1,Radzionkow,,0
+2010-08-21T18:00:00,Kluczbork,,2,Termalica B-B.,,1
+2010-08-21T18:00:00,Leczna,,1,GKS Katowice,,0
+2010-08-21T17:00:00,Radzionkow,,2,Kolejarz,,0
+2010-08-21T17:00:00,Sandecja Nowy S.,,2,Pogon Szczecin,,1
+2010-08-21T17:00:00,Stilon Gorzow,,1,Polkowice,,1
+2010-08-21T17:00:00,Zabki,,1,Swinoujscie,,3
+2010-08-20T19:00:00,Piast Gliwice,,0,Ostrowiec Swietokrzyski,,0
+2010-08-20T19:00:00,Warta Poznan,,4,LKS Lodz,,1
+2010-08-20T18:00:00,Podbeskidzie,,1,Odra Wodzislaw,,0
+2010-08-15T17:00:00,Kolejarz,,2,Stilon Gorzow,,1
+2010-08-15T17:00:00,Radzionkow,,0,Sandecja Nowy S.,,0
+2010-08-15T16:00:00,Termalica B-B.,,0,Podbeskidzie,,5
+2010-08-14T19:00:00,Ostrowiec Swietokrzyski,,1,Zabki,,0
+2010-08-14T18:00:00,Swinoujscie,,1,Pogon Szczecin,,0
+2010-08-13T20:15:00,GKS Katowice,,1,Warta Poznan,,1
+2010-08-13T19:00:00,LKS Lodz,,2,Piast Gliwice,,2
+2010-08-13T19:00:00,Odra Wodzislaw,,2,Leczna,,1
+2010-08-13T19:00:00,Polkowice,,2,Kluczbork,,0
+2010-08-08T19:15:00,Pogon Szczecin,,1,Ostrowiec Swietokrzyski,,0
+2010-08-08T18:00:00,Sandecja Nowy S.,,2,Swinoujscie,,1
+2010-08-08T17:00:00,Zabki,,0,LKS Lodz,,2
+2010-08-07T20:00:00,Podbeskidzie,,2,Polkowice,,0
+2010-08-07T18:00:00,Kluczbork,,1,Kolejarz,,1
+2010-08-07T18:00:00,Leczna,,1,Termalica B-B.,,0
+2010-08-07T18:00:00,Warta Poznan,,1,Odra Wodzislaw,,2
+2010-08-07T17:00:00,Stilon Gorzow,,1,Radzionkow,,0
+2010-08-06T19:00:00,Piast Gliwice,,2,GKS Katowice,,1
+2010-08-04T17:00:00,Stilon Gorzow,,3,Sandecja Nowy S.,,0
+2010-08-01T19:00:00,LKS Lodz,,2,Pogon Szczecin,,1
+2010-08-01T17:00:00,Kolejarz,,1,Podbeskidzie,,1
+2010-07-31T19:00:00,GKS Katowice,,1,Zabki,,1
+2010-07-31T19:00:00,Ostrowiec Swietokrzyski,,0,Swinoujscie,,2
+2010-07-31T19:00:00,Polkowice,,2,Leczna,,1
+2010-07-31T18:00:00,Warta Poznan,,0,Termalica B-B.,,0
+2010-07-31T17:00:00,Radzionkow,,1,Kluczbork,,1
+2010-07-31T16:00:00,Odra Wodzislaw,,0,Piast Gliwice,,3
