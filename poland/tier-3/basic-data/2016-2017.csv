@@ -1,0 +1,307 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2017-06-03T17:00:00,Elblag,0,1,Kotwica Kolobrzeg,1,1
+2017-06-03T17:00:00,GKS Belchatow,0,0,Blekitni Stargard,0,2
+2017-06-03T17:00:00,Gryf Wejherowo,0,0,Rozwoj Katowice,1,1
+2017-06-03T17:00:00,Legionowo,1,1,Puszcza,2,2
+2017-06-03T17:00:00,Odra Opole,1,3,Polonia Bytom,0,0
+2017-06-03T17:00:00,Polonia Warszawa,1,1,Rakow,0,2
+2017-06-03T17:00:00,ROW Rybnik,1,1,Radomiak Radom,1,1
+2017-06-03T17:00:00,S. Wola,0,1,Siarka Tarnobrzeg,0,0
+2017-06-03T17:00:00,Warta Poznan,2,2,Zambrow,1,2
+2017-05-27T15:00:00,Blekitni Stargard,1,2,Warta Poznan,1,2
+2017-05-27T15:00:00,Kotwica Kolobrzeg,1,2,Polonia Warszawa,1,2
+2017-05-27T15:00:00,Polonia Bytom,0,1,S. Wola,0,1
+2017-05-27T15:00:00,Puszcza,0,0,Gryf Wejherowo,0,0
+2017-05-27T15:00:00,Radomiak Radom,0,0,Legionowo,0,1
+2017-05-27T15:00:00,Rakow,1,3,Odra Opole,0,0
+2017-05-27T15:00:00,Rozwoj Katowice,0,0,GKS Belchatow,0,2
+2017-05-27T15:00:00,Siarka Tarnobrzeg,1,2,ROW Rybnik,3,4
+2017-05-27T15:00:00,Zambrow,0,2,Elblag,2,3
+2017-05-21T19:00:00,Polonia Warszawa,1,2,Zambrow,0,1
+2017-05-21T17:00:00,Polonia Bytom,1,1,Rakow,2,4
+2017-05-20T18:00:00,Legionowo,1,1,Siarka Tarnobrzeg,0,0
+2017-05-20T17:00:00,Elblag,1,2,Blekitni Stargard,0,1
+2017-05-20T17:00:00,GKS Belchatow,0,0,Puszcza,0,0
+2017-05-20T17:00:00,Gryf Wejherowo,1,3,Radomiak Radom,1,3
+2017-05-20T17:00:00,Odra Opole,0,1,Kotwica Kolobrzeg,1,2
+2017-05-20T17:00:00,S. Wola,0,2,ROW Rybnik,0,0
+2017-05-20T17:00:00,Warta Poznan,0,0,Rozwoj Katowice,0,0
+2017-05-17T19:00:00,Kotwica Kolobrzeg,0,1,Polonia Bytom,0,0
+2017-05-17T19:00:00,ROW Rybnik,3,5,Legionowo,1,1
+2017-05-17T18:30:00,Radomiak Radom,3,4,GKS Belchatow,1,1
+2017-05-17T17:00:00,Blekitni Stargard,0,0,Polonia Warszawa,1,2
+2017-05-17T17:00:00,Puszcza,0,1,Warta Poznan,2,2
+2017-05-17T17:00:00,Rakow,0,0,S. Wola,3,3
+2017-05-17T17:00:00,Rozwoj Katowice,1,1,Elblag,0,0
+2017-05-17T17:00:00,Siarka Tarnobrzeg,1,3,Gryf Wejherowo,0,1
+2017-05-17T16:00:00,Zambrow,1,1,Odra Opole,1,2
+2017-05-13T17:00:00,Elblag,0,1,Puszcza,2,3
+2017-05-13T17:00:00,GKS Belchatow,1,3,Siarka Tarnobrzeg,0,0
+2017-05-13T17:00:00,Gryf Wejherowo,0,1,ROW Rybnik,1,1
+2017-05-13T17:00:00,Rakow,0,0,Kotwica Kolobrzeg,0,0
+2017-05-13T17:00:00,S. Wola,0,1,Legionowo,0,1
+2017-05-13T17:00:00,Warta Poznan,0,1,Radomiak Radom,0,1
+2017-05-13T16:00:00,Odra Opole,2,3,Blekitni Stargard,0,2
+2017-05-12T19:00:00,Polonia Bytom,1,1,Zambrow,0,1
+2017-05-12T19:00:00,Polonia Warszawa,0,1,Rozwoj Katowice,0,1
+2017-05-06T19:00:00,ROW Rybnik,0,1,GKS Belchatow,0,0
+2017-05-06T17:30:00,Legionowo,0,2,Gryf Wejherowo,0,1
+2017-05-06T17:00:00,Kotwica Kolobrzeg,1,3,S. Wola,1,2
+2017-05-06T17:00:00,Radomiak Radom,1,2,Elblag,1,1
+2017-05-06T17:00:00,Rozwoj Katowice,0,0,Odra Opole,3,5
+2017-05-06T17:00:00,Siarka Tarnobrzeg,0,0,Warta Poznan,1,1
+2017-05-06T17:00:00,Zambrow,0,0,Rakow,0,1
+2017-05-06T16:00:00,Blekitni Stargard,1,1,Polonia Bytom,0,0
+2017-05-06T16:00:00,Puszcza,0,3,Polonia Warszawa,1,2
+2017-04-29T17:00:00,Elblag,1,3,Siarka Tarnobrzeg,0,0
+2017-04-29T17:00:00,GKS Belchatow,0,3,Legionowo,1,2
+2017-04-29T17:00:00,Kotwica Kolobrzeg,0,1,Zambrow,1,2
+2017-04-29T17:00:00,S. Wola,0,1,Gryf Wejherowo,0,0
+2017-04-29T16:30:00,Odra Opole,0,1,Puszcza,0,1
+2017-04-29T16:00:00,Warta Poznan,0,0,ROW Rybnik,1,1
+2017-04-29T14:00:00,Rakow,0,1,Blekitni Stargard,0,0
+2017-04-28T19:00:00,Polonia Bytom,0,1,Rozwoj Katowice,1,1
+2017-04-28T19:00:00,Polonia Warszawa,2,4,Radomiak Radom,0,1
+2017-04-22T17:00:00,Legionowo,1,1,Warta Poznan,0,2
+2017-04-22T17:00:00,Rozwoj Katowice,0,1,Rakow,1,1
+2017-04-22T17:00:00,Zambrow,2,6,S. Wola,1,2
+2017-04-22T16:00:00,Siarka Tarnobrzeg,1,1,Polonia Warszawa,0,0
+2017-04-22T15:00:00,Blekitni Stargard,2,2,Kotwica Kolobrzeg,0,0
+2017-04-22T15:00:00,Gryf Wejherowo,1,4,GKS Belchatow,1,1
+2017-04-22T15:00:00,Puszcza,1,2,Polonia Bytom,0,0
+2017-04-21T19:00:00,ROW Rybnik,0,1,Elblag,0,1
+2017-04-21T18:00:00,Radomiak Radom,0,1,Odra Opole,1,2
+2017-04-15T19:00:00,Polonia Bytom,0,0,Radomiak Radom,2,3
+2017-04-15T16:00:00,Elblag,2,4,Legionowo,2,3
+2017-04-15T16:00:00,S. Wola,0,0,GKS Belchatow,0,0
+2017-04-15T16:00:00,Warta Poznan,1,2,Gryf Wejherowo,1,2
+2017-04-15T15:00:00,Odra Opole,3,4,Siarka Tarnobrzeg,2,3
+2017-04-15T14:00:00,Zambrow,1,1,Blekitni Stargard,2,2
+2017-04-15T12:00:00,Rakow,0,2,Puszcza,1,1
+2017-04-15T12:00:00,ROW Rybnik,1,1,Polonia Warszawa,0,1
+2017-04-13T17:00:00,Kotwica Kolobrzeg,0,1,Rozwoj Katowice,0,1
+2017-04-08T17:00:00,GKS Belchatow,0,1,Warta Poznan,0,0
+2017-04-08T17:00:00,Gryf Wejherowo,0,1,Elblag,3,4
+2017-04-08T17:00:00,Rozwoj Katowice,1,1,Zambrow,0,0
+2017-04-08T16:30:00,Legionowo,0,0,Polonia Warszawa,0,0
+2017-04-08T15:00:00,Blekitni Stargard,1,2,S. Wola,1,2
+2017-04-08T15:00:00,Puszcza,1,2,Kotwica Kolobrzeg,0,1
+2017-04-08T15:00:00,Siarka Tarnobrzeg,0,2,Polonia Bytom,0,0
+2017-04-07T19:00:00,ROW Rybnik,0,0,Odra Opole,3,6
+2017-04-07T18:00:00,Radomiak Radom,0,0,Rakow,0,0
+2017-04-02T15:00:00,Polonia Warszawa,1,1,Gryf Wejherowo,2,3
+2017-04-01T17:00:00,Kotwica Kolobrzeg,0,3,Radomiak Radom,1,1
+2017-04-01T16:00:00,Elblag,0,1,GKS Belchatow,2,2
+2017-04-01T16:00:00,Zambrow,0,1,Puszcza,0,2
+2017-04-01T15:00:00,Blekitni Stargard,0,0,Rozwoj Katowice,0,2
+2017-04-01T15:00:00,Odra Opole,1,1,Legionowo,0,1
+2017-04-01T15:00:00,Rakow,1,4,Siarka Tarnobrzeg,0,2
+2017-04-01T15:00:00,S. Wola,0,0,Warta Poznan,1,1
+2017-03-31T19:00:00,Polonia Bytom,2,2,ROW Rybnik,0,0
+2017-03-25T17:00:00,GKS Belchatow,0,2,Polonia Warszawa,0,1
+2017-03-25T16:00:00,Gryf Wejherowo,0,1,Odra Opole,0,0
+2017-03-25T16:00:00,Legionowo,0,3,Polonia Bytom,0,0
+2017-03-25T16:00:00,Siarka Tarnobrzeg,1,2,Kotwica Kolobrzeg,1,1
+2017-03-25T15:00:00,Puszcza,1,2,Blekitni Stargard,0,0
+2017-03-25T15:00:00,Rozwoj Katowice,1,2,S. Wola,0,2
+2017-03-25T14:00:00,Warta Poznan,0,1,Elblag,1,2
+2017-03-24T18:00:00,Radomiak Radom,0,1,Zambrow,1,1
+2017-03-24T18:00:00,ROW Rybnik,1,1,Rakow,1,2
+2017-03-18T15:00:00,Odra Opole,0,3,GKS Belchatow,0,1
+2017-03-18T15:00:00,Polonia Warszawa,0,1,Warta Poznan,1,1
+2017-03-18T15:00:00,Rakow,0,5,Legionowo,0,1
+2017-03-18T15:00:00,Rozwoj Katowice,0,0,Puszcza,0,1
+2017-03-18T15:00:00,S. Wola,0,1,Elblag,0,1
+2017-03-18T15:00:00,Zambrow,1,1,Siarka Tarnobrzeg,1,2
+2017-03-18T13:00:00,Blekitni Stargard,0,0,Radomiak Radom,0,0
+2017-03-17T19:00:00,Polonia Bytom,0,1,Gryf Wejherowo,0,0
+2017-03-17T18:00:00,ROW Rybnik,3,3,Kotwica Kolobrzeg,1,2
+2017-03-11T17:00:00,GKS Belchatow,0,0,Polonia Bytom,0,1
+2017-03-11T17:00:00,Radomiak Radom,0,0,Rozwoj Katowice,0,1
+2017-03-11T15:30:00,Legionowo,1,3,Kotwica Kolobrzeg,0,1
+2017-03-11T15:00:00,Gryf Wejherowo,0,2,Rakow,1,1
+2017-03-11T14:00:00,Elblag,1,2,Polonia Warszawa,0,1
+2017-03-11T14:00:00,Puszcza,0,2,S. Wola,1,1
+2017-03-11T14:00:00,Siarka Tarnobrzeg,0,1,Blekitni Stargard,0,1
+2017-03-11T14:00:00,Warta Poznan,0,1,Odra Opole,1,3
+2017-03-10T18:00:00,ROW Rybnik,1,2,Zambrow,0,0
+2017-03-05T14:00:00,Puszcza,0,0,Radomiak Radom,0,0
+2017-03-05T14:00:00,Rakow,0,0,GKS Belchatow,0,1
+2017-03-05T14:00:00,S. Wola,0,0,Polonia Warszawa,1,1
+2017-03-04T17:00:00,Kotwica Kolobrzeg,0,1,Gryf Wejherowo,1,3
+2017-03-04T15:00:00,Rozwoj Katowice,0,0,Siarka Tarnobrzeg,0,0
+2017-03-04T14:00:00,Odra Opole,1,2,Elblag,1,1
+2017-03-04T14:00:00,Zambrow,0,1,Legionowo,4,5
+2017-03-04T13:00:00,Blekitni Stargard,0,2,ROW Rybnik,1,2
+2017-03-03T19:00:00,Polonia Bytom,0,1,Warta Poznan,1,2
+2016-11-26T16:00:00,ROW Rybnik,2,2,Rozwoj Katowice,1,1
+2016-11-26T15:00:00,Polonia Warszawa,1,3,Odra Opole,2,4
+2016-11-26T13:00:00,Elblag,0,5,Polonia Bytom,0,1
+2016-11-26T13:00:00,GKS Belchatow,0,0,Kotwica Kolobrzeg,1,1
+2016-11-26T13:00:00,Gryf Wejherowo,1,1,Zambrow,0,1
+2016-11-26T13:00:00,Legionowo,1,1,Blekitni Stargard,1,1
+2016-11-26T13:00:00,Warta Poznan,0,1,Rakow,1,2
+2016-11-26T12:00:00,Siarka Tarnobrzeg,1,3,Puszcza,1,2
+2016-11-25T18:00:00,Radomiak Radom,1,1,S. Wola,0,0
+2016-11-20T13:00:00,S. Wola,0,2,Odra Opole,0,1
+2016-11-20T12:00:00,Puszcza,2,2,ROW Rybnik,0,0
+2016-11-19T17:00:00,Kotwica Kolobrzeg,0,0,Warta Poznan,0,0
+2016-11-19T17:00:00,Polonia Bytom,0,1,Polonia Warszawa,0,1
+2016-11-19T13:00:00,Blekitni Stargard,4,6,Gryf Wejherowo,1,1
+2016-11-19T13:00:00,Rakow,0,0,Elblag,0,0
+2016-11-19T13:00:00,Rozwoj Katowice,1,2,Legionowo,2,3
+2016-11-19T13:00:00,Zambrow,0,0,GKS Belchatow,0,0
+2016-11-18T18:00:00,Radomiak Radom,0,1,Siarka Tarnobrzeg,0,0
+2016-11-13T17:00:00,Radomiak Radom,1,2,ROW Rybnik,0,0
+2016-11-13T13:00:00,Rakow,2,3,Polonia Warszawa,1,1
+2016-11-13T12:00:00,Siarka Tarnobrzeg,2,2,S. Wola,2,2
+2016-11-12T17:00:00,Kotwica Kolobrzeg,1,2,Elblag,1,2
+2016-11-12T17:00:00,Polonia Bytom,0,0,Odra Opole,0,1
+2016-11-12T13:00:00,Blekitni Stargard,0,1,GKS Belchatow,0,0
+2016-11-12T13:00:00,Puszcza,0,1,Legionowo,0,0
+2016-11-12T13:00:00,Rozwoj Katowice,1,3,Gryf Wejherowo,0,1
+2016-11-12T13:00:00,Zambrow,0,0,Warta Poznan,0,2
+2016-11-09T13:00:00,S. Wola,0,0,Rakow,2,3
+2016-11-06T14:00:00,S. Wola,1,1,Polonia Bytom,0,0
+2016-11-06T13:00:00,Gryf Wejherowo,0,0,Puszcza,1,2
+2016-11-05T17:00:00,Polonia Warszawa,1,2,Kotwica Kolobrzeg,0,0
+2016-11-05T14:00:00,Warta Poznan,2,2,Blekitni Stargard,1,1
+2016-11-05T13:30:00,Legionowo,0,0,Radomiak Radom,1,1
+2016-11-05T13:00:00,Elblag,0,2,Zambrow,0,0
+2016-11-05T13:00:00,GKS Belchatow,1,1,Rozwoj Katowice,0,0
+2016-11-05T13:00:00,Odra Opole,0,1,Rakow,0,1
+2016-11-04T18:00:00,ROW Rybnik,0,0,Siarka Tarnobrzeg,0,1
+2016-10-30T17:00:00,Radomiak Radom,1,3,Gryf Wejherowo,0,0
+2016-10-30T13:00:00,Puszcza,1,2,GKS Belchatow,0,0
+2016-10-29T19:00:00,Kotwica Kolobrzeg,0,0,Odra Opole,3,3
+2016-10-29T15:00:00,Rozwoj Katowice,1,2,Warta Poznan,0,0
+2016-10-29T14:00:00,Rakow,1,1,Polonia Bytom,0,0
+2016-10-29T14:00:00,Zambrow,1,1,Polonia Warszawa,0,0
+2016-10-29T13:00:00,Blekitni Stargard,2,4,Elblag,0,0
+2016-10-29T13:00:00,Siarka Tarnobrzeg,1,2,Legionowo,0,1
+2016-10-28T18:00:00,ROW Rybnik,0,1,S. Wola,0,1
+2016-10-23T13:00:00,Gryf Wejherowo,0,2,Siarka Tarnobrzeg,1,2
+2016-10-22T15:00:00,Elblag,0,0,Rozwoj Katowice,0,0
+2016-10-22T15:00:00,GKS Belchatow,0,0,Radomiak Radom,0,1
+2016-10-22T15:00:00,Legionowo,0,1,ROW Rybnik,0,1
+2016-10-22T15:00:00,Warta Poznan,0,0,Puszcza,0,0
+2016-10-22T14:00:00,Odra Opole,0,0,Zambrow,1,3
+2016-10-21T19:00:00,Polonia Bytom,0,2,Kotwica Kolobrzeg,1,2
+2016-10-21T19:00:00,Polonia Warszawa,1,1,Blekitni Stargard,1,1
+2016-10-15T18:00:00,Kotwica Kolobrzeg,2,2,Rakow,0,2
+2016-10-15T18:00:00,Radomiak Radom,2,3,Warta Poznan,1,2
+2016-10-15T15:30:00,Legionowo,0,1,S. Wola,0,0
+2016-10-15T15:00:00,Blekitni Stargard,0,0,Odra Opole,0,1
+2016-10-15T15:00:00,Puszcza,1,1,Elblag,1,1
+2016-10-15T15:00:00,Rozwoj Katowice,1,1,Polonia Warszawa,0,1
+2016-10-15T15:00:00,Siarka Tarnobrzeg,1,1,GKS Belchatow,1,2
+2016-10-15T15:00:00,Zambrow,1,2,Polonia Bytom,1,1
+2016-10-14T18:00:00,ROW Rybnik,1,2,Gryf Wejherowo,0,0
+2016-10-08T16:00:00,Elblag,2,4,Radomiak Radom,0,2
+2016-10-08T16:00:00,Gryf Wejherowo,1,2,Legionowo,0,1
+2016-10-08T16:00:00,Warta Poznan,0,1,Siarka Tarnobrzeg,2,3
+2016-10-08T15:30:00,Odra Opole,1,2,Rozwoj Katowice,0,0
+2016-10-08T15:00:00,GKS Belchatow,1,1,ROW Rybnik,0,0
+2016-10-08T15:00:00,Polonia Bytom,1,2,Blekitni Stargard,0,0
+2016-10-08T15:00:00,Rakow,1,1,Zambrow,0,1
+2016-10-08T15:00:00,S. Wola,3,3,Kotwica Kolobrzeg,0,1
+2016-10-07T19:00:00,Polonia Warszawa,0,0,Puszcza,0,0
+2016-10-01T17:30:00,Radomiak Radom,1,1,Polonia Warszawa,0,0
+2016-10-01T16:00:00,Gryf Wejherowo,0,0,S. Wola,1,1
+2016-10-01T16:00:00,Legionowo,1,1,GKS Belchatow,0,0
+2016-10-01T16:00:00,Puszcza,0,1,Odra Opole,1,1
+2016-10-01T16:00:00,Zambrow,1,2,Kotwica Kolobrzeg,0,1
+2016-10-01T15:00:00,Rozwoj Katowice,1,2,Polonia Bytom,0,0
+2016-10-01T15:00:00,Siarka Tarnobrzeg,1,4,Elblag,1,1
+2016-10-01T13:00:00,Blekitni Stargard,1,2,Rakow,2,2
+2016-09-30T19:00:00,ROW Rybnik,0,1,Warta Poznan,1,2
+2016-09-24T16:00:00,Elblag,2,3,ROW Rybnik,1,2
+2016-09-24T16:00:00,Odra Opole,0,0,Radomiak Radom,0,0
+2016-09-24T16:00:00,Polonia Bytom,0,1,Puszcza,0,2
+2016-09-24T16:00:00,S. Wola,1,3,Zambrow,0,1
+2016-09-24T16:00:00,Warta Poznan,0,0,Legionowo,1,2
+2016-09-24T15:00:00,GKS Belchatow,0,2,Gryf Wejherowo,1,3
+2016-09-24T15:00:00,Rakow,1,3,Rozwoj Katowice,0,0
+2016-09-23T19:00:00,Kotwica Kolobrzeg,0,0,Blekitni Stargard,0,1
+2016-09-23T19:00:00,Polonia Warszawa,1,2,Siarka Tarnobrzeg,1,2
+2016-09-18T18:30:00,Radomiak Radom,0,1,Polonia Bytom,0,0
+2016-09-17T17:00:00,Puszcza,0,0,Rakow,0,2
+2016-09-17T16:30:00,Legionowo,1,2,Elblag,2,2
+2016-09-17T16:00:00,GKS Belchatow,2,5,S. Wola,0,1
+2016-09-17T16:00:00,Gryf Wejherowo,1,2,Warta Poznan,2,3
+2016-09-17T16:00:00,Siarka Tarnobrzeg,0,1,Odra Opole,1,1
+2016-09-17T15:00:00,Blekitni Stargard,0,0,Zambrow,0,0
+2016-09-17T15:00:00,Rozwoj Katowice,1,1,Kotwica Kolobrzeg,1,1
+2016-09-16T19:00:00,Polonia Warszawa,0,0,ROW Rybnik,1,1
+2016-09-10T19:00:00,Polonia Warszawa,1,2,Legionowo,2,2
+2016-09-10T18:00:00,Kotwica Kolobrzeg,0,1,Puszcza,0,0
+2016-09-10T17:00:00,Elblag,0,0,Gryf Wejherowo,0,0
+2016-09-10T17:00:00,Polonia Bytom,0,0,Siarka Tarnobrzeg,2,3
+2016-09-10T17:00:00,Warta Poznan,1,1,GKS Belchatow,0,1
+2016-09-10T17:00:00,Zambrow,2,3,Rozwoj Katowice,0,2
+2016-09-10T16:30:00,Odra Opole,0,2,ROW Rybnik,0,0
+2016-09-10T16:00:00,Rakow,2,3,Radomiak Radom,0,0
+2016-09-10T16:00:00,S. Wola,2,2,Blekitni Stargard,0,2
+2016-09-04T15:30:00,Puszcza,1,1,Zambrow,0,1
+2016-09-04T15:00:00,Legionowo,1,1,Odra Opole,1,3
+2016-09-03T17:00:00,GKS Belchatow,1,2,Elblag,2,2
+2016-09-03T17:00:00,Gryf Wejherowo,0,0,Polonia Warszawa,0,0
+2016-09-03T17:00:00,Warta Poznan,1,3,S. Wola,2,3
+2016-09-03T16:00:00,Siarka Tarnobrzeg,0,1,Rakow,0,1
+2016-09-03T15:00:00,Rozwoj Katowice,0,0,Blekitni Stargard,1,1
+2016-09-02T19:00:00,ROW Rybnik,1,1,Polonia Bytom,0,2
+2016-09-02T18:30:00,Radomiak Radom,3,3,Kotwica Kolobrzeg,0,2
+2016-08-28T19:00:00,Polonia Warszawa,1,2,GKS Belchatow,1,1
+2016-08-28T15:00:00,Blekitni Stargard,0,0,Puszcza,0,0
+2016-08-27T20:00:00,Kotwica Kolobrzeg,0,2,Siarka Tarnobrzeg,1,2
+2016-08-27T17:00:00,Elblag,2,6,Warta Poznan,0,1
+2016-08-27T17:00:00,Odra Opole,1,2,Gryf Wejherowo,0,1
+2016-08-27T17:00:00,Polonia Bytom,0,0,Legionowo,1,4
+2016-08-27T17:00:00,S. Wola,0,0,Rozwoj Katowice,0,0
+2016-08-27T17:00:00,Zambrow,0,0,Radomiak Radom,0,0
+2016-08-27T16:00:00,Rakow,1,3,ROW Rybnik,1,1
+2016-08-24T20:00:00,Kotwica Kolobrzeg,0,0,ROW Rybnik,0,1
+2016-08-24T18:00:00,Gryf Wejherowo,1,4,Polonia Bytom,0,0
+2016-08-24T18:00:00,Radomiak Radom,2,2,Blekitni Stargard,0,1
+2016-08-24T17:30:00,Legionowo,0,0,Rakow,0,0
+2016-08-24T17:30:00,Warta Poznan,1,1,Polonia Warszawa,0,0
+2016-08-24T17:00:00,Elblag,1,1,S. Wola,1,1
+2016-08-24T17:00:00,GKS Belchatow,0,0,Odra Opole,0,0
+2016-08-24T17:00:00,Puszcza,0,2,Rozwoj Katowice,0,1
+2016-08-24T17:00:00,Siarka Tarnobrzeg,1,3,Zambrow,0,0
+2016-08-20T20:00:00,Kotwica Kolobrzeg,2,2,Legionowo,0,0
+2016-08-20T17:00:00,Blekitni Stargard,0,3,Siarka Tarnobrzeg,1,1
+2016-08-20T17:00:00,Odra Opole,3,4,Warta Poznan,0,1
+2016-08-20T17:00:00,Rakow,1,4,Gryf Wejherowo,0,1
+2016-08-20T17:00:00,Rozwoj Katowice,1,1,Radomiak Radom,1,1
+2016-08-20T17:00:00,S. Wola,1,1,Puszcza,0,0
+2016-08-19T19:00:00,Polonia Warszawa,0,1,Elblag,0,1
+2016-08-19T18:00:00,Polonia Bytom,0,2,GKS Belchatow,0,0
+2016-08-19T17:00:00,Zambrow,1,1,ROW Rybnik,0,0
+2016-08-14T18:00:00,Radomiak Radom,0,0,Puszcza,0,1
+2016-08-14T15:00:00,Elblag,0,0,Odra Opole,2,2
+2016-08-13T19:00:00,Polonia Warszawa,0,2,S. Wola,0,0
+2016-08-13T17:30:00,Legionowo,2,4,Zambrow,0,0
+2016-08-13T17:00:00,Gryf Wejherowo,0,0,Kotwica Kolobrzeg,1,1
+2016-08-13T17:00:00,Siarka Tarnobrzeg,1,2,Rozwoj Katowice,0,1
+2016-08-13T17:00:00,Warta Poznan,0,0,Polonia Bytom,0,1
+2016-08-12T19:00:00,GKS Belchatow,1,1,Rakow,2,2
+2016-08-12T19:00:00,ROW Rybnik,0,1,Blekitni Stargard,1,2
+2016-08-06T20:00:00,Kotwica Kolobrzeg,0,0,GKS Belchatow,0,2
+2016-08-06T17:30:00,Odra Opole,2,2,Polonia Warszawa,1,2
+2016-08-06T17:00:00,Blekitni Stargard,1,1,Legionowo,1,1
+2016-08-06T17:00:00,Polonia Bytom,0,0,Elblag,0,0
+2016-08-06T17:00:00,Puszcza,1,3,Siarka Tarnobrzeg,0,0
+2016-08-06T17:00:00,Rakow,1,3,Warta Poznan,0,1
+2016-08-06T17:00:00,Rozwoj Katowice,0,0,ROW Rybnik,2,2
+2016-08-06T17:00:00,S. Wola,0,1,Radomiak Radom,1,2
+2016-08-05T17:30:00,Zambrow,,1,Gryf Wejherowo,,3
+2016-07-31T19:00:00,Polonia Warszawa,0,0,Polonia Bytom,0,3
+2016-07-31T18:00:00,Legionowo,0,0,Rozwoj Katowice,1,3
+2016-07-31T17:00:00,Elblag,1,2,Rakow,1,2
+2016-07-31T17:00:00,Gryf Wejherowo,1,2,Blekitni Stargard,1,1
+2016-07-30T18:00:00,Odra Opole,1,3,S. Wola,0,0
+2016-07-30T17:00:00,GKS Belchatow,0,2,Zambrow,0,0
+2016-07-30T17:00:00,Siarka Tarnobrzeg,0,0,Radomiak Radom,0,0
+2016-07-30T17:00:00,Warta Poznan,1,1,Kotwica Kolobrzeg,1,1
+2016-07-29T19:00:00,ROW Rybnik,0,0,Puszcza,0,0
