@@ -1,0 +1,307 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2008-05-24T17:00:00,GKS Jastrzebie,,0,Wisla Plock,,1
+2008-05-24T17:00:00,Lechia Gdansk,,2,S. Wola,,0
+2008-05-24T17:00:00,LKS Lomza,,0,Kmita Zabierzow,,0
+2008-05-24T17:00:00,Lublin,,1,Arka Gdynia,,2
+2008-05-24T17:00:00,Odra Opole,,0,Turek,,1
+2008-05-24T17:00:00,Pelikan,,2,GKS Katowice,,0
+2008-05-24T17:00:00,Podbeskidzie,,1,Pruszkow,,0
+2008-05-24T17:00:00,Polonia Warszawa,,0,Piast Gliwice,,1
+2008-05-24T17:00:00,Warta Poznan,,2,Slask Wroclaw,,3
+2008-05-21T17:00:00,Arka Gdynia,,1,Odra Opole,,1
+2008-05-21T17:00:00,GKS Katowice,,0,Podbeskidzie,,2
+2008-05-21T17:00:00,Kmita Zabierzow,,1,Pelikan,,1
+2008-05-21T17:00:00,Piast Gliwice,,1,GKS Jastrzebie,,2
+2008-05-21T17:00:00,Pruszkow,,1,Warta Poznan,,1
+2008-05-21T17:00:00,S. Wola,,1,Lublin,,0
+2008-05-21T17:00:00,Slask Wroclaw,,2,Lechia Gdansk,,0
+2008-05-21T17:00:00,Turek,,2,Polonia Warszawa,,0
+2008-05-21T17:00:00,Wisla Plock,,4,LKS Lomza,,1
+2008-05-18T14:40:00,Lechia Gdansk,,1,Pruszkow,,0
+2008-05-17T20:00:00,Polonia Warszawa,,1,Arka Gdynia,,2
+2008-05-17T19:30:00,GKS Jastrzebie,,1,Turek,,0
+2008-05-17T19:00:00,Wisla Plock,,0,Piast Gliwice,,0
+2008-05-17T17:00:00,LKS Lomza,,0,Pelikan,,2
+2008-05-17T17:00:00,Lublin,,0,Slask Wroclaw,,1
+2008-05-17T17:00:00,Podbeskidzie,,3,Kmita Zabierzow,,2
+2008-05-17T17:00:00,Warta Poznan,,0,GKS Katowice,,1
+2008-05-16T19:00:00,Odra Opole,,0,S. Wola,,0
+2008-05-14T17:00:00,Lublin,,0,GKS Katowice,,2
+2008-05-11T20:00:00,Piast Gliwice,,2,LKS Lomza,,1
+2008-05-11T18:30:00,Slask Wroclaw,,1,Odra Opole,,1
+2008-05-11T15:00:00,Pruszkow,,3,Lublin,,0
+2008-05-11T14:00:00,Turek,,0,Wisla Plock,,3
+2008-05-11T11:15:00,Pelikan,,1,Podbeskidzie,,3
+2008-05-10T19:30:00,Arka Gdynia,,1,GKS Jastrzebie,,0
+2008-05-10T17:00:00,GKS Katowice,,0,Lechia Gdansk,,1
+2008-05-10T17:00:00,S. Wola,,3,Polonia Warszawa,,0
+2008-05-10T16:00:00,Kmita Zabierzow,,1,Warta Poznan,,1
+2008-05-07T20:00:00,Piast Gliwice,,5,Turek,,1
+2008-05-07T20:00:00,Polonia Warszawa,,1,Slask Wroclaw,,0
+2008-05-07T19:00:00,Odra Opole,,0,Pruszkow,,1
+2008-05-07T18:00:00,GKS Jastrzebie,,3,S. Wola,,2
+2008-05-07T18:00:00,Lechia Gdansk,,1,Kmita Zabierzow,,0
+2008-05-07T18:00:00,Wisla Plock,,1,Arka Gdynia,,1
+2008-05-07T17:00:00,LKS Lomza,,1,Podbeskidzie,,1
+2008-05-07T17:00:00,Warta Poznan,,2,Pelikan,,1
+2008-05-04T16:00:00,GKS Katowice,,1,Odra Opole,,1
+2008-05-04T16:00:00,Kmita Zabierzow,,1,Lublin,,0
+2008-05-04T14:40:00,Arka Gdynia,,2,Piast Gliwice,,0
+2008-05-04T12:00:00,Pruszkow,,3,Polonia Warszawa,,2
+2008-05-04T11:15:00,Pelikan,,2,Lechia Gdansk,,2
+2008-05-03T19:30:00,Slask Wroclaw,,2,GKS Jastrzebie,,1
+2008-05-03T17:00:00,Podbeskidzie,,2,Warta Poznan,,1
+2008-05-03T17:00:00,Turek,,0,LKS Lomza,,2
+2008-05-03T16:00:00,S. Wola,,2,Wisla Plock,,0
+2008-04-30T20:00:00,Piast Gliwice,,2,S. Wola,,0
+2008-04-30T20:00:00,Polonia Warszawa,,3,GKS Katowice,,1
+2008-04-30T19:00:00,Odra Opole,,1,Kmita Zabierzow,,0
+2008-04-30T18:00:00,GKS Jastrzebie,,0,Pruszkow,,2
+2008-04-30T18:00:00,Lechia Gdansk,,4,Podbeskidzie,,2
+2008-04-30T18:00:00,Wisla Plock,,0,Slask Wroclaw,,4
+2008-04-30T17:00:00,Lublin,,3,Pelikan,,0
+2008-04-30T17:00:00,Turek,,1,Arka Gdynia,,4
+2008-04-30T16:00:00,LKS Lomza,,0,Warta Poznan,,1
+2008-04-27T12:00:00,Warta Poznan,,1,Lechia Gdansk,,2
+2008-04-27T11:15:00,Pelikan,,3,Odra Opole,,1
+2008-04-26T20:15:00,Slask Wroclaw,,1,Piast Gliwice,,0
+2008-04-26T19:30:00,Arka Gdynia,,4,LKS Lomza,,0
+2008-04-26T17:00:00,GKS Katowice,,0,GKS Jastrzebie,,0
+2008-04-26T17:00:00,Podbeskidzie,,3,Lublin,,0
+2008-04-26T17:00:00,Pruszkow,,3,Wisla Plock,,1
+2008-04-26T15:00:00,Kmita Zabierzow,,0,Polonia Warszawa,,1
+2008-04-25T16:00:00,S. Wola,,1,Turek,,0
+2008-04-20T14:40:00,Wisla Plock,,2,GKS Katowice,,1
+2008-04-19T19:30:00,Arka Gdynia,,4,S. Wola,,0
+2008-04-19T19:00:00,Polonia Warszawa,,2,Pelikan,,2
+2008-04-19T17:00:00,GKS Jastrzebie,,2,Kmita Zabierzow,,2
+2008-04-19T16:00:00,Turek,,1,Slask Wroclaw,,1
+2008-04-19T15:00:00,LKS Lomza,,1,Lechia Gdansk,,0
+2008-04-19T15:00:00,Lublin,,1,Warta Poznan,,0
+2008-04-18T19:00:00,Odra Opole,,1,Podbeskidzie,,2
+2008-04-18T19:00:00,Piast Gliwice,,0,Pruszkow,,1
+2008-04-13T14:40:00,Slask Wroclaw,,2,Arka Gdynia,,0
+2008-04-13T12:00:00,Pruszkow,,1,Turek,,0
+2008-04-13T12:00:00,Warta Poznan,,2,Odra Opole,,0
+2008-04-13T11:15:00,Pelikan,,0,GKS Jastrzebie,,1
+2008-04-12T18:00:00,Lechia Gdansk,,2,Lublin,,0
+2008-04-12T17:00:00,GKS Katowice,,1,Piast Gliwice,,1
+2008-04-12T16:00:00,S. Wola,,0,LKS Lomza,,1
+2008-04-12T15:00:00,Kmita Zabierzow,,1,Wisla Plock,,0
+2008-04-12T15:00:00,Podbeskidzie,,1,Polonia Warszawa,,0
+2008-04-06T14:40:00,Arka Gdynia,,2,Pruszkow,,2
+2008-04-05T19:00:00,Odra Opole,,2,Lechia Gdansk,,3
+2008-04-05T18:00:00,GKS Jastrzebie,,2,Podbeskidzie,,2
+2008-04-05T18:00:00,Polonia Warszawa,,0,Warta Poznan,,0
+2008-04-05T18:00:00,Wisla Plock,,0,Pelikan,,0
+2008-04-05T16:00:00,S. Wola,,1,Slask Wroclaw,,1
+2008-04-05T16:00:00,Turek,,1,GKS Katowice,,1
+2008-04-05T15:00:00,LKS Lomza,,0,Lublin,,1
+2008-04-04T19:00:00,Piast Gliwice,,3,Kmita Zabierzow,,0
+2008-03-30T14:40:00,Lechia Gdansk,,2,Polonia Warszawa,,1
+2008-03-30T12:00:00,Pruszkow,,1,S. Wola,,1
+2008-03-30T12:00:00,Warta Poznan,,3,GKS Jastrzebie,,0
+2008-03-30T11:15:00,Pelikan,,0,Piast Gliwice,,0
+2008-03-29T18:30:00,Slask Wroclaw,,3,LKS Lomza,,0
+2008-03-29T15:00:00,GKS Katowice,,3,Arka Gdynia,,2
+2008-03-29T15:00:00,Lublin,,1,Odra Opole,,1
+2008-03-29T14:00:00,Kmita Zabierzow,,2,Turek,,0
+2008-03-29T14:00:00,Podbeskidzie,,4,Wisla Plock,,0
+2008-03-22T20:15:00,Slask Wroclaw,,0,Pruszkow,,3
+2008-03-22T18:00:00,Piast Gliwice,,0,Podbeskidzie,,0
+2008-03-22T14:00:00,LKS Lomza,,0,Odra Opole,,0
+2008-03-22T14:00:00,Polonia Warszawa,,2,Lublin,,0
+2008-03-22T14:00:00,Turek,,0,Pelikan,,2
+2008-03-22T13:00:00,Wisla Plock,,3,Warta Poznan,,1
+2008-03-22T12:00:00,GKS Jastrzebie,,0,Lechia Gdansk,,1
+2008-03-22T12:00:00,S. Wola,,1,GKS Katowice,,0
+2008-03-20T18:00:00,Arka Gdynia,,1,Kmita Zabierzow,,2
+2008-03-16T15:00:00,GKS Katowice,,2,Slask Wroclaw,,0
+2008-03-16T12:00:00,Lublin,,4,GKS Jastrzebie,,0
+2008-03-16T12:00:00,Pruszkow,,3,LKS Lomza,,1
+2008-03-16T12:00:00,Warta Poznan,,0,Piast Gliwice,,1
+2008-03-16T11:15:00,Pelikan,,0,Arka Gdynia,,0
+2008-03-15T18:00:00,Lechia Gdansk,,1,Wisla Plock,,0
+2008-03-15T16:15:00,Odra Opole,,1,Polonia Warszawa,,1
+2008-03-15T14:00:00,Kmita Zabierzow,,2,S. Wola,,0
+2008-03-15T14:00:00,Podbeskidzie,,2,Turek,,0
+2008-03-09T14:40:00,Piast Gliwice,,3,Lechia Gdansk,,0
+2008-03-09T12:00:00,Pruszkow,,0,GKS Katowice,,0
+2008-03-09T11:00:00,Turek,,0,Warta Poznan,,0
+2008-03-08T18:30:00,Slask Wroclaw,,1,Kmita Zabierzow,,3
+2008-03-08T17:00:00,Arka Gdynia,,3,Podbeskidzie,,2
+2008-03-08T17:00:00,Wisla Plock,,3,Lublin,,1
+2008-03-08T16:30:00,GKS Jastrzebie,,1,Odra Opole,,1
+2008-03-08T14:00:00,LKS Lomza,,1,Polonia Warszawa,,3
+2008-03-08T14:00:00,S. Wola,,0,Pelikan,,0
+2007-11-11T14:40:00,Polonia Warszawa,,2,GKS Jastrzebie,,0
+2007-11-11T12:00:00,GKS Katowice,,5,LKS Lomza,,1
+2007-11-11T12:00:00,Lechia Gdansk,1,2,Turek,0,0
+2007-11-11T12:00:00,Warta Poznan,,0,Arka Gdynia,,0
+2007-11-11T11:15:00,Pelikan,,2,Slask Wroclaw,,3
+2007-11-10T17:00:00,Odra Opole,,3,Wisla Plock,,1
+2007-11-10T14:00:00,Kmita Zabierzow,,0,Pruszkow,,1
+2007-11-10T13:00:00,Podbeskidzie,,0,S. Wola,,1
+2007-11-10T12:00:00,Lublin,,1,Piast Gliwice,,1
+2007-11-04T17:00:00,Piast Gliwice,,2,Odra Opole,,0
+2007-11-04T14:40:00,Arka Gdynia,,1,Lechia Gdansk,,0
+2007-11-04T12:00:00,GKS Katowice,,0,Kmita Zabierzow,,0
+2007-11-04T12:00:00,Pruszkow,,2,Pelikan,,2
+2007-11-04T11:00:00,Turek,,2,Lublin,,3
+2007-11-03T17:00:00,Slask Wroclaw,,2,Podbeskidzie,,0
+2007-11-03T17:00:00,Wisla Plock,,1,Polonia Warszawa,,1
+2007-11-03T13:00:00,LKS Lomza,,0,GKS Jastrzebie,,3
+2007-11-03T13:00:00,S. Wola,,2,Warta Poznan,,0
+2007-10-28T15:00:00,GKS Katowice,,2,Pelikan,,1
+2007-10-28T12:00:00,Pruszkow,,0,Podbeskidzie,,0
+2007-10-27T17:00:00,Slask Wroclaw,,1,Warta Poznan,,1
+2007-10-27T17:00:00,Wisla Plock,,2,GKS Jastrzebie,,3
+2007-10-27T15:00:00,Kmita Zabierzow,,0,LKS Lomza,,0
+2007-10-27T15:00:00,S. Wola,,2,Lechia Gdansk,,2
+2007-10-27T14:30:00,Turek,,0,Odra Opole,,3
+2007-10-26T19:30:00,Arka Gdynia,,2,Lublin,,0
+2007-10-26T18:00:00,Piast Gliwice,,1,Polonia Warszawa,,0
+2007-10-19T17:30:00,GKS Jastrzebie,,0,Piast Gliwice,,0
+2007-10-19T15:00:00,Lechia Gdansk,1,3,Slask Wroclaw,0,1
+2007-10-15T19:30:00,Arka Gdynia,,2,Polonia Warszawa,,0
+2007-10-14T18:30:00,Slask Wroclaw,,10,Lublin,,1
+2007-10-14T12:00:00,Pruszkow,,1,Lechia Gdansk,,2
+2007-10-14T11:15:00,Pelikan,,4,LKS Lomza,,2
+2007-10-14T11:00:00,GKS Katowice,,1,Warta Poznan,,0
+2007-10-13T16:00:00,Kmita Zabierzow,,1,Podbeskidzie,,1
+2007-10-13T15:00:00,S. Wola,,1,Odra Opole,,0
+2007-10-13T15:00:00,Turek,,2,GKS Jastrzebie,,0
+2007-10-12T18:00:00,Piast Gliwice,,1,Wisla Plock,,1
+2007-10-10T19:00:00,Polonia Warszawa,,3,Turek,,1
+2007-10-10T15:00:00,Lechia Gdansk,,0,Arka Gdynia,,0
+2007-10-07T15:00:00,Lechia Gdansk,2,2,GKS Katowice,0,0
+2007-10-07T15:00:00,Warta Poznan,,1,Kmita Zabierzow,,0
+2007-10-07T14:40:00,Lublin,,1,Pruszkow,,0
+2007-10-06T18:00:00,Odra Opole,,0,Slask Wroclaw,,0
+2007-10-06T18:00:00,Wisla Plock,,1,Turek,,1
+2007-10-06T17:00:00,GKS Jastrzebie,,2,Arka Gdynia,,0
+2007-10-06T17:00:00,Polonia Warszawa,,2,S. Wola,,1
+2007-10-06T15:00:00,LKS Lomza,,0,Piast Gliwice,,0
+2007-10-06T15:00:00,Podbeskidzie,,2,Pelikan,,0
+2007-10-03T18:00:00,Odra Opole,,0,Arka Gdynia,,2
+2007-10-03T15:30:00,LKS Lomza,,2,Wisla Plock,,5
+2007-10-03T15:30:00,Lublin,,0,S. Wola,,1
+2007-10-03T15:00:00,Pelikan,,1,Kmita Zabierzow,,1
+2007-10-03T15:00:00,Podbeskidzie,,2,GKS Katowice,,0
+2007-10-03T15:00:00,Warta Poznan,,2,Pruszkow,,1
+2007-10-01T20:00:00,Slask Wroclaw,,2,Polonia Warszawa,,0
+2007-09-30T16:00:00,S. Wola,,3,GKS Jastrzebie,,0
+2007-09-30T15:30:00,Pelikan,,0,Warta Poznan,,1
+2007-09-30T14:40:00,Arka Gdynia,,4,Wisla Plock,,1
+2007-09-30T12:00:00,Pruszkow,,2,Odra Opole,,0
+2007-09-29T16:00:00,Kmita Zabierzow,,2,Lechia Gdansk,,3
+2007-09-29T16:00:00,Turek,,0,Piast Gliwice,,1
+2007-09-29T15:30:00,GKS Katowice,,4,Lublin,,0
+2007-09-29T15:00:00,Podbeskidzie,,2,LKS Lomza,,0
+2007-09-23T16:00:00,Lechia Gdansk,2,4,Pelikan,0,0
+2007-09-23T15:00:00,Warta Poznan,,0,Podbeskidzie,,2
+2007-09-23T14:40:00,Piast Gliwice,,3,Arka Gdynia,,1
+2007-09-22T18:00:00,Odra Opole,,3,GKS Katowice,,1
+2007-09-22T17:00:00,GKS Jastrzebie,,1,Slask Wroclaw,,2
+2007-09-22T17:00:00,Polonia Warszawa,,1,Pruszkow,,0
+2007-09-22T16:00:00,Lublin,,1,Kmita Zabierzow,,1
+2007-09-22T15:00:00,LKS Lomza,,1,Turek,,0
+2007-09-22T15:00:00,Wisla Plock,,4,S. Wola,,1
+2007-09-19T19:30:00,Arka Gdynia,,1,Turek,,1
+2007-09-19T18:30:00,Slask Wroclaw,,2,Wisla Plock,,1
+2007-09-19T16:00:00,GKS Katowice,,1,Polonia Warszawa,,1
+2007-09-19T16:00:00,Kmita Zabierzow,,1,Odra Opole,,1
+2007-09-19T16:00:00,Pelikan,,1,Lublin,,2
+2007-09-19T16:00:00,Podbeskidzie,,1,Lechia Gdansk,,1
+2007-09-19T16:00:00,Pruszkow,,4,GKS Jastrzebie,,2
+2007-09-19T16:00:00,S. Wola,,0,Piast Gliwice,,2
+2007-09-19T16:00:00,Warta Poznan,,0,LKS Lomza,,2
+2007-09-16T14:40:00,Lechia Gdansk,1,3,Warta Poznan,0,1
+2007-09-15T19:00:00,Odra Opole,,2,Pelikan,,0
+2007-09-15T18:00:00,Polonia Warszawa,,0,Kmita Zabierzow,,0
+2007-09-15T18:00:00,Wisla Plock,,0,Pruszkow,,2
+2007-09-15T16:00:00,LKS Lomza,,1,Arka Gdynia,,2
+2007-09-15T16:00:00,Lublin,,1,Podbeskidzie,,0
+2007-09-15T16:00:00,Turek,,1,S. Wola,,0
+2007-09-14T19:00:00,Piast Gliwice,,1,Slask Wroclaw,,1
+2007-09-14T17:00:00,GKS Jastrzebie,,1,GKS Katowice,,1
+2007-09-09T18:00:00,Slask Wroclaw,,4,Turek,,0
+2007-09-09T16:00:00,Lechia Gdansk,,1,LKS Lomza,,0
+2007-09-09T14:40:00,GKS Katowice,,1,Wisla Plock,,3
+2007-09-09T12:00:00,Pruszkow,,1,Piast Gliwice,,2
+2007-09-09T11:15:00,Pelikan,,0,Polonia Warszawa,,5
+2007-09-08T16:00:00,Kmita Zabierzow,,1,GKS Jastrzebie,,2
+2007-09-08T16:00:00,Podbeskidzie,,1,Odra Opole,,0
+2007-09-08T16:00:00,S. Wola,,0,Arka Gdynia,,1
+2007-09-08T15:00:00,Warta Poznan,,3,Lublin,,3
+2007-09-03T20:15:00,Piast Gliwice,,2,GKS Katowice,,0
+2007-09-02T18:35:00,Arka Gdynia,,1,Slask Wroclaw,,1
+2007-09-01T18:00:00,GKS Jastrzebie,,4,Pelikan,,3
+2007-09-01T18:00:00,Polonia Warszawa,,0,Podbeskidzie,,2
+2007-09-01T18:00:00,Wisla Plock,,1,Kmita Zabierzow,,0
+2007-09-01T17:00:00,Lublin,,0,Lechia Gdansk,,1
+2007-09-01T17:00:00,Turek,,0,Pruszkow,,0
+2007-09-01T16:00:00,LKS Lomza,,5,S. Wola,,1
+2007-08-31T19:00:00,Odra Opole,,1,Warta Poznan,,0
+2007-08-26T17:00:00,Lechia Gdansk,,1,Odra Opole,,2
+2007-08-26T17:00:00,Warta Poznan,,0,Polonia Warszawa,,0
+2007-08-26T14:40:00,GKS Katowice,,0,Turek,,0
+2007-08-26T12:00:00,Pruszkow,,2,Arka Gdynia,,2
+2007-08-26T11:15:00,Pelikan,,0,Wisla Plock,,3
+2007-08-25T19:00:00,Slask Wroclaw,,1,S. Wola,,1
+2007-08-25T17:00:00,Kmita Zabierzow,,0,Piast Gliwice,,0
+2007-08-25T17:00:00,Lublin,,1,LKS Lomza,,2
+2007-08-25T17:00:00,Podbeskidzie,,2,GKS Jastrzebie,,1
+2007-08-22T20:00:00,Piast Gliwice,,4,Pelikan,,1
+2007-08-22T19:30:00,Arka Gdynia,,3,GKS Katowice,,2
+2007-08-22T19:00:00,Odra Opole,,0,Lublin,,2
+2007-08-22T18:45:00,Polonia Warszawa,,3,Lechia Gdansk,,1
+2007-08-22T18:00:00,GKS Jastrzebie,,2,Warta Poznan,,1
+2007-08-22T18:00:00,Wisla Plock,,3,Podbeskidzie,,2
+2007-08-22T17:00:00,LKS Lomza,,0,Slask Wroclaw,,0
+2007-08-22T17:00:00,S. Wola,,0,Pruszkow,,2
+2007-08-22T17:00:00,Turek,,2,Kmita Zabierzow,,1
+2007-08-19T18:00:00,Pelikan,,1,Turek,,1
+2007-08-19T18:00:00,Pruszkow,,0,Slask Wroclaw,,1
+2007-08-19T14:40:00,Kmita Zabierzow,,1,Arka Gdynia,,1
+2007-08-18T19:00:00,Odra Opole,,0,LKS Lomza,,2
+2007-08-18T18:00:00,GKS Katowice,,2,S. Wola,,0
+2007-08-18T18:00:00,Lechia Gdansk,,2,GKS Jastrzebie,,2
+2007-08-18T18:00:00,Lublin,,2,Polonia Warszawa,,0
+2007-08-18T18:00:00,Warta Poznan,,1,Wisla Plock,,1
+2007-08-18T17:00:00,Podbeskidzie,,0,Piast Gliwice,,1
+2007-08-15T17:00:00,Kmita Zabierzow,,1,GKS Katowice,,2
+2007-08-12T19:00:00,Piast Gliwice,,2,Warta Poznan,,2
+2007-08-12T14:40:00,Slask Wroclaw,,0,GKS Katowice,,0
+2007-08-11T19:30:00,Arka Gdynia,,4,Pelikan,,0
+2007-08-11T19:00:00,Wisla Plock,,2,Lechia Gdansk,,2
+2007-08-11T18:00:00,GKS Jastrzebie,,1,Lublin,,0
+2007-08-11T18:00:00,Polonia Warszawa,,2,Odra Opole,,0
+2007-08-11T17:00:00,LKS Lomza,,2,Pruszkow,,4
+2007-08-11T17:00:00,S. Wola,,3,Kmita Zabierzow,,1
+2007-08-11T17:00:00,Turek,,0,Podbeskidzie,,0
+2007-08-08T18:00:00,GKS Katowice,,1,Pruszkow,,2
+2007-08-08T18:00:00,Kmita Zabierzow,,0,Slask Wroclaw,,1
+2007-08-08T18:00:00,Lublin,,1,Wisla Plock,,2
+2007-08-08T18:00:00,Polonia Warszawa,,2,LKS Lomza,,1
+2007-08-08T18:00:00,Warta Poznan,,0,Turek,,3
+2007-08-08T17:15:00,Pelikan,,5,S. Wola,,0
+2007-08-08T17:00:00,Lechia Gdansk,1,3,Piast Gliwice,0,0
+2007-08-08T17:00:00,Odra Opole,,1,GKS Jastrzebie,,1
+2007-08-08T17:00:00,Podbeskidzie,,0,Arka Gdynia,,1
+2007-08-05T17:00:00,Turek,,2,Lechia Gdansk,,0
+2007-08-05T14:40:00,Wisla Plock,,2,Odra Opole,,0
+2007-08-05T12:00:00,Pruszkow,,4,Kmita Zabierzow,,0
+2007-08-04T19:30:00,Arka Gdynia,,4,Warta Poznan,,0
+2007-08-04T18:00:00,GKS Jastrzebie,,2,Polonia Warszawa,,2
+2007-08-04T17:00:00,LKS Lomza,,1,GKS Katowice,,2
+2007-08-04T17:00:00,S. Wola,,0,Podbeskidzie,,3
+2007-08-03T20:00:00,Piast Gliwice,,3,Lublin,,2
+2007-08-03T20:00:00,Slask Wroclaw,,1,Pelikan,,0
+2007-07-29T18:00:00,GKS Jastrzebie,,3,LKS Lomza,,1
+2007-07-29T17:00:00,Pelikan,,0,Pruszkow,,2
+2007-07-29T17:00:00,Warta Poznan,,1,S. Wola,,1
+2007-07-28T18:00:00,Lublin,,0,Turek,,0
+2007-07-28T18:00:00,Polonia Warszawa,,4,Wisla Plock,,0
+2007-07-28T17:00:00,Odra Opole,,1,Piast Gliwice,,0
+2007-07-28T17:00:00,Podbeskidzie,,3,Slask Wroclaw,,0

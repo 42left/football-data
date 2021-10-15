@@ -1,0 +1,310 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2021-06-20T20:40:00,LKS Lodz,0,0,Leczna,1,1
+2021-06-16T20:30:00,Arka Gdynia,0,0,LKS Lodz,0,1
+2021-06-16T18:00:00,Tychy,1,1,Leczna,0,2
+2021-06-13T12:40:00,Chrobry Glogow,0,0,Arka Gdynia,1,3
+2021-06-13T12:40:00,GKS Jastrzebie,0,2,R. Rzeszow,1,1
+2021-06-13T12:40:00,Leczna,1,3,Sandecja Nowy S.,0,0
+2021-06-13T12:40:00,Legnica,0,1,Zaglebie Sosnowiec,1,1
+2021-06-13T12:40:00,Puszcza,1,2,GKS Belchatow,0,0
+2021-06-13T12:40:00,Radomiak Radom,2,2,Korona Kielce,0,0
+2021-06-13T12:40:00,Termalica B-B.,0,0,Stomil Olsztyn,0,0
+2021-06-13T12:40:00,Tychy,0,1,LKS Lodz,0,1
+2021-06-13T12:40:00,Widzew Lodz,1,2,Odra Opole,1,1
+2021-06-06T16:00:00,Sandecja Nowy S.,0,2,Puszcza,0,1
+2021-06-06T12:40:00,Odra Opole,1,1,Tychy,1,5
+2021-06-06T12:40:00,Zaglebie Sosnowiec,0,0,Leczna,1,1
+2021-06-05T16:30:00,Stomil Olsztyn,1,1,Legnica,1,1
+2021-06-05T16:00:00,GKS Belchatow,0,0,GKS Jastrzebie,0,2
+2021-06-05T16:00:00,R. Rzeszow,1,1,Chrobry Glogow,0,0
+2021-06-05T12:40:00,Arka Gdynia,0,0,Radomiak Radom,1,2
+2021-06-04T20:30:00,LKS Lodz,1,3,Termalica B-B.,0,2
+2021-06-04T20:00:00,Korona Kielce,1,1,Widzew Lodz,0,1
+2021-05-30T19:00:00,Puszcza,0,0,Zaglebie Sosnowiec,2,4
+2021-05-30T17:00:00,Leczna,1,1,Stomil Olsztyn,1,1
+2021-05-30T12:40:00,Odra Opole,1,1,Termalica B-B.,0,0
+2021-05-29T19:10:00,Radomiak Radom,3,3,R. Rzeszow,1,1
+2021-05-29T17:00:00,GKS Jastrzebie,0,1,Sandecja Nowy S.,1,1
+2021-05-29T17:00:00,Korona Kielce,2,3,Arka Gdynia,0,3
+2021-05-29T16:00:00,Chrobry Glogow,0,0,GKS Belchatow,0,1
+2021-05-29T12:40:00,Legnica,0,3,LKS Lodz,0,0
+2021-05-28T17:40:00,Widzew Lodz,0,0,Tychy,0,2
+2021-05-23T19:10:00,Sandecja Nowy S.,0,1,Chrobry Glogow,1,1
+2021-05-23T19:05:00,R. Rzeszow,0,1,Korona Kielce,0,1
+2021-05-23T12:40:00,Arka Gdynia,0,0,Widzew Lodz,0,0
+2021-05-22T19:45:00,Odra Opole,0,2,Legnica,0,1
+2021-05-22T19:08:00,LKS Lodz,0,3,Leczna,0,1
+2021-05-22T17:00:00,Stomil Olsztyn,1,2,Puszcza,0,1
+2021-05-22T12:40:00,Tychy,0,0,Termalica B-B.,1,2
+2021-05-22T12:40:00,Zaglebie Sosnowiec,1,3,GKS Jastrzebie,0,0
+2021-05-21T18:40:00,GKS Belchatow,0,0,Radomiak Radom,0,1
+2021-05-19T20:00:00,Puszcza,0,0,Legnica,0,1
+2021-05-19T19:00:00,Termalica B-B.,0,0,Chrobry Glogow,0,0
+2021-05-19T17:40:00,Arka Gdynia,1,3,Sandecja Nowy S.,0,0
+2021-05-16T19:30:00,Puszcza,1,2,LKS Lodz,0,3
+2021-05-16T19:10:00,Radomiak Radom,1,3,Sandecja Nowy S.,0,0
+2021-05-16T12:40:00,Widzew Lodz,1,1,Termalica B-B.,0,1
+2021-05-15T17:00:00,Chrobry Glogow,1,1,Zaglebie Sosnowiec,0,0
+2021-05-15T17:00:00,GKS Jastrzebie,0,2,Stomil Olsztyn,0,0
+2021-05-15T17:00:00,Korona Kielce,3,3,GKS Belchatow,0,0
+2021-05-15T16:00:00,Leczna,0,1,Odra Opole,0,1
+2021-05-15T12:40:00,Legnica,0,2,Tychy,2,3
+2021-05-14T20:40:00,Arka Gdynia,1,1,R. Rzeszow,0,0
+2021-05-12T18:00:00,Radomiak Radom,0,0,Termalica B-B.,1,1
+2021-05-09T15:00:00,LKS Lodz,1,1,GKS Jastrzebie,0,1
+2021-05-09T12:40:00,R. Rzeszow,1,2,Widzew Lodz,0,0
+2021-05-08T20:00:00,Termalica B-B.,0,0,Legnica,1,2
+2021-05-08T16:00:00,Sandecja Nowy S.,1,2,Korona Kielce,0,1
+2021-05-08T16:00:00,Stomil Olsztyn,0,1,Chrobry Glogow,2,2
+2021-05-08T12:40:00,GKS Belchatow,0,0,Arka Gdynia,0,3
+2021-05-07T18:00:00,Tychy,2,3,Leczna,0,1
+2021-05-07T17:40:00,Zaglebie Sosnowiec,0,0,Radomiak Radom,0,1
+2021-05-07T17:00:00,Odra Opole,0,1,Puszcza,0,0
+2021-05-05T19:00:00,Termalica B-B.,3,6,Korona Kielce,0,2
+2021-05-05T17:00:00,GKS Jastrzebie,1,1,Legnica,1,2
+2021-05-02T19:10:00,Radomiak Radom,1,1,Stomil Olsztyn,0,0
+2021-05-02T19:00:00,Puszcza,0,0,Tychy,1,1
+2021-05-02T12:40:00,GKS Jastrzebie,1,3,Odra Opole,0,0
+2021-05-02T12:40:00,Leczna,1,3,Termalica B-B.,2,3
+2021-05-02T12:00:00,R. Rzeszow,1,1,GKS Belchatow,2,3
+2021-05-01T17:00:00,Korona Kielce,0,1,Zaglebie Sosnowiec,0,0
+2021-05-01T12:40:00,Chrobry Glogow,0,1,LKS Lodz,0,0
+2021-04-30T17:40:00,Widzew Lodz,0,0,Legnica,0,0
+2021-04-29T17:40:00,GKS Jastrzebie,0,0,Tychy,1,1
+2021-04-28T20:00:00,Termalica B-B.,2,4,Puszcza,0,0
+2021-04-28T17:40:00,LKS Lodz,1,1,Radomiak Radom,1,1
+2021-04-28T17:00:00,Odra Opole,1,3,Chrobry Glogow,0,1
+2021-04-28T17:00:00,Zaglebie Sosnowiec,2,2,Arka Gdynia,1,3
+2021-04-28T16:00:00,Sandecja Nowy S.,0,1,R. Rzeszow,0,1
+2021-04-28T16:00:00,Stomil Olsztyn,0,2,Korona Kielce,0,0
+2021-04-27T17:40:00,GKS Belchatow,1,2,Widzew Lodz,2,3
+2021-04-27T17:00:00,Legnica,0,1,Leczna,0,0
+2021-04-25T12:40:00,Arka Gdynia,1,2,Stomil Olsztyn,0,0
+2021-04-24T19:10:00,Radomiak Radom,0,1,Odra Opole,0,0
+2021-04-24T16:00:00,Chrobry Glogow,0,1,Tychy,0,0
+2021-04-24T16:00:00,GKS Jastrzebie,0,0,Termalica B-B.,0,0
+2021-04-24T16:00:00,R. Rzeszow,1,1,Zaglebie Sosnowiec,1,2
+2021-04-24T12:40:00,Korona Kielce,0,1,LKS Lodz,0,2
+2021-04-23T17:40:00,Widzew Lodz,0,0,Leczna,0,0
+2021-04-23T16:00:00,GKS Belchatow,0,0,Sandecja Nowy S.,1,2
+2021-04-21T18:00:00,Arka Gdynia,0,1,Termalica B-B.,0,1
+2021-04-20T17:40:00,Tychy,1,1,Radomiak Radom,0,0
+2021-04-18T12:40:00,Odra Opole,0,1,Korona Kielce,0,0
+2021-04-18T12:40:00,Zaglebie Sosnowiec,1,1,GKS Belchatow,0,1
+2021-04-17T16:00:00,Sandecja Nowy S.,2,3,Widzew Lodz,0,1
+2021-04-17T15:00:00,R. Rzeszow,0,1,Stomil Olsztyn,0,0
+2021-04-17T12:40:00,Leczna,0,0,Puszcza,0,0
+2021-04-16T17:40:00,LKS Lodz,1,1,Arka Gdynia,0,2
+2021-04-14T13:00:00,Puszcza,0,0,Radomiak Radom,2,4
+2021-04-11T12:40:00,Arka Gdynia,0,1,Odra Opole,1,1
+2021-04-11T12:40:00,Chrobry Glogow,0,0,Legnica,0,0
+2021-04-10T16:00:00,GKS Belchatow,0,2,Stomil Olsztyn,2,3
+2021-04-10T16:00:00,GKS Jastrzebie,1,1,Leczna,0,1
+2021-04-10T16:00:00,Sandecja Nowy S.,1,2,Zaglebie Sosnowiec,0,1
+2021-04-10T15:00:00,R. Rzeszow,0,1,LKS Lodz,0,0
+2021-04-10T12:40:00,Korona Kielce,0,1,Tychy,0,0
+2021-04-09T17:40:00,Widzew Lodz,0,0,Puszcza,0,0
+2021-04-03T17:00:00,LKS Lodz,0,1,GKS Belchatow,0,0
+2021-04-03T16:00:00,Zaglebie Sosnowiec,2,3,Widzew Lodz,0,0
+2021-04-03T14:00:00,Stomil Olsztyn,0,0,Sandecja Nowy S.,3,5
+2021-04-03T13:00:00,R. Rzeszow,0,1,Odra Opole,1,1
+2021-04-03T12:40:00,GKS Jastrzebie,1,1,Puszcza,2,2
+2021-04-03T12:40:00,Legnica,0,0,Radomiak Radom,0,1
+2021-04-01T17:40:00,Tychy,1,1,Arka Gdynia,0,0
+2021-04-01T17:00:00,Leczna,0,3,Chrobry Glogow,0,0
+2021-03-28T12:40:00,Widzew Lodz,0,2,GKS Jastrzebie,0,0
+2021-03-27T16:00:00,Chrobry Glogow,0,0,Puszcza,2,2
+2021-03-27T16:00:00,GKS Belchatow,1,1,Odra Opole,0,1
+2021-03-27T16:00:00,Zaglebie Sosnowiec,1,2,Stomil Olsztyn,1,1
+2021-03-27T15:00:00,R. Rzeszow,0,0,Tychy,0,0
+2021-03-27T13:00:00,Sandecja Nowy S.,1,2,LKS Lodz,0,1
+2021-03-27T12:40:00,Radomiak Radom,1,3,Leczna,0,0
+2021-03-26T20:30:00,Korona Kielce,0,0,Legnica,0,0
+2021-03-21T12:40:00,Stomil Olsztyn,0,0,Widzew Lodz,0,1
+2021-03-20T18:00:00,LKS Lodz,0,0,Zaglebie Sosnowiec,0,0
+2021-03-20T17:00:00,Tychy,0,0,GKS Belchatow,0,0
+2021-03-20T15:00:00,R. Rzeszow,0,3,Termalica B-B.,1,1
+2021-03-20T14:30:00,GKS Jastrzebie,0,0,Chrobry Glogow,0,1
+2021-03-20T12:40:00,Legnica,1,1,Arka Gdynia,1,2
+2021-03-19T20:30:00,Leczna,0,0,Korona Kielce,0,1
+2021-03-19T14:00:00,Odra Opole,0,1,Sandecja Nowy S.,1,1
+2021-03-14T12:40:00,Widzew Lodz,0,1,Chrobry Glogow,0,0
+2021-03-13T19:10:00,Radomiak Radom,1,2,GKS Jastrzebie,0,0
+2021-03-13T17:00:00,Korona Kielce,1,1,Puszcza,0,0
+2021-03-13T16:00:00,Zaglebie Sosnowiec,0,0,Odra Opole,0,2
+2021-03-13T15:00:00,R. Rzeszow,0,0,Legnica,0,0
+2021-03-13T13:00:00,Sandecja Nowy S.,1,2,Tychy,1,1
+2021-03-13T13:00:00,Stomil Olsztyn,0,0,LKS Lodz,0,2
+2021-03-13T12:40:00,Arka Gdynia,0,0,Leczna,0,2
+2021-03-12T17:40:00,GKS Belchatow,1,1,Termalica B-B.,0,2
+2021-03-10T17:40:00,Odra Opole,0,0,Widzew Lodz,0,0
+2021-03-07T14:30:00,Puszcza,0,4,Arka Gdynia,0,0
+2021-03-07T12:40:00,Tychy,1,3,Zaglebie Sosnowiec,1,1
+2021-03-06T17:00:00,Radomiak Radom,0,1,Chrobry Glogow,2,2
+2021-03-06T14:30:00,GKS Jastrzebie,0,2,Korona Kielce,0,0
+2021-03-06T14:00:00,R. Rzeszow,0,0,Leczna,1,2
+2021-03-06T12:40:00,LKS Lodz,0,2,Widzew Lodz,2,2
+2021-03-05T17:40:00,Termalica B-B.,1,2,Sandecja Nowy S.,0,2
+2021-03-05T17:00:00,Legnica,1,3,GKS Belchatow,0,0
+2021-03-05T14:00:00,Odra Opole,1,1,Stomil Olsztyn,1,2
+2021-02-28T12:40:00,Korona Kielce,1,2,Chrobry Glogow,1,2
+2021-02-27T16:00:00,GKS Belchatow,0,1,Leczna,1,2
+2021-02-27T15:00:00,Zaglebie Sosnowiec,0,1,Termalica B-B.,0,1
+2021-02-27T13:00:00,Sandecja Nowy S.,1,2,Legnica,0,0
+2021-02-27T13:00:00,Stomil Olsztyn,1,1,Tychy,1,2
+2021-02-27T12:40:00,LKS Lodz,2,2,Odra Opole,0,1
+2021-02-26T17:40:00,Widzew Lodz,0,1,Radomiak Radom,1,1
+2021-02-26T16:00:00,Arka Gdynia,1,1,GKS Jastrzebie,0,0
+2021-02-26T14:00:00,R. Rzeszow,2,2,Puszcza,1,1
+2021-02-20T17:40:00,Widzew Lodz,2,2,Korona Kielce,0,0
+2021-02-20T12:40:00,LKS Lodz,0,0,Tychy,1,3
+2020-12-13T13:00:00,Sandecja Nowy S.,0,1,Leczna,1,1
+2020-12-13T12:40:00,Korona Kielce,0,0,Radomiak Radom,1,2
+2020-12-12T16:00:00,Zaglebie Sosnowiec,0,0,Legnica,0,2
+2020-12-12T14:00:00,Arka Gdynia,0,1,Chrobry Glogow,0,1
+2020-12-12T12:40:00,GKS Belchatow,0,0,Puszcza,1,2
+2020-12-12T12:30:00,Stomil Olsztyn,0,1,Termalica B-B.,3,4
+2020-12-12T12:00:00,R. Rzeszow,0,1,GKS Jastrzebie,0,2
+2020-12-09T16:00:00,Termalica B-B.,0,1,Odra Opole,1,1
+2020-12-09T13:00:00,Sandecja Nowy S.,2,3,GKS Jastrzebie,0,0
+2020-12-09T12:00:00,R. Rzeszow,0,0,Radomiak Radom,0,0
+2020-12-06T17:00:00,Tychy,1,2,Odra Opole,0,0
+2020-12-06T16:00:00,Leczna,1,4,Zaglebie Sosnowiec,0,1
+2020-12-06T12:40:00,Radomiak Radom,0,0,Arka Gdynia,0,0
+2020-12-06T12:30:00,Puszcza,0,0,Sandecja Nowy S.,0,1
+2020-12-05T15:00:00,Chrobry Glogow,2,3,R. Rzeszow,0,0
+2020-12-05T12:40:00,Termalica B-B.,1,2,LKS Lodz,0,0
+2020-12-05T12:30:00,GKS Jastrzebie,2,3,GKS Belchatow,2,2
+2020-12-04T17:40:00,Legnica,2,2,Stomil Olsztyn,2,2
+2020-12-03T18:00:00,Tychy,1,2,Widzew Lodz,1,1
+2020-12-03T12:00:00,Arka Gdynia,1,1,Korona Kielce,0,0
+2020-12-02T17:00:00,GKS Belchatow,0,1,Chrobry Glogow,1,2
+2020-12-02T16:00:00,Zaglebie Sosnowiec,0,2,Puszcza,0,0
+2020-12-01T20:30:00,LKS Lodz,0,3,Legnica,1,4
+2020-12-01T13:00:00,Stomil Olsztyn,1,2,Leczna,0,1
+2020-11-29T12:40:00,Widzew Lodz,1,2,Arka Gdynia,0,1
+2020-11-28T19:10:00,Radomiak Radom,1,2,GKS Belchatow,0,0
+2020-11-28T18:00:00,Korona Kielce,0,1,R. Rzeszow,0,0
+2020-11-28T15:00:00,Chrobry Glogow,0,0,Sandecja Nowy S.,1,2
+2020-11-28T12:40:00,Termalica B-B.,0,0,Tychy,0,0
+2020-11-28T12:30:00,GKS Jastrzebie,1,2,Zaglebie Sosnowiec,0,1
+2020-11-28T12:30:00,Puszcza,0,0,Stomil Olsztyn,0,2
+2020-11-27T17:40:00,Leczna,0,2,LKS Lodz,0,0
+2020-11-27T17:40:00,Legnica,2,4,Odra Opole,1,2
+2020-11-25T12:30:00,Puszcza,0,0,Termalica B-B.,0,0
+2020-11-22T12:40:00,LKS Lodz,3,4,Puszcza,1,4
+2020-11-22T12:40:00,Odra Opole,0,1,Leczna,1,1
+2020-11-22T12:40:00,Sandecja Nowy S.,1,1,Radomiak Radom,1,1
+2020-11-21T17:00:00,GKS Belchatow,0,0,Korona Kielce,0,1
+2020-11-21T17:00:00,Tychy,0,0,Legnica,1,2
+2020-11-21T17:00:00,Zaglebie Sosnowiec,1,1,Chrobry Glogow,1,2
+2020-11-21T12:40:00,Stomil Olsztyn,0,0,GKS Jastrzebie,1,1
+2020-11-21T12:00:00,R. Rzeszow,0,1,Arka Gdynia,1,2
+2020-11-20T17:40:00,Termalica B-B.,1,2,Widzew Lodz,0,0
+2020-11-18T18:00:00,Radomiak Radom,0,1,LKS Lodz,0,0
+2020-11-18T17:00:00,Korona Kielce,0,1,Stomil Olsztyn,2,3
+2020-11-18T16:00:00,Arka Gdynia,1,2,Zaglebie Sosnowiec,0,0
+2020-11-18T15:00:00,Chrobry Glogow,1,2,Odra Opole,0,3
+2020-11-18T14:00:00,Puszcza,1,1,Leczna,0,0
+2020-11-18T12:00:00,R. Rzeszow,0,0,Sandecja Nowy S.,0,0
+2020-11-15T16:00:00,Leczna,0,1,Tychy,0,1
+2020-11-15T12:40:00,Legnica,0,2,Termalica B-B.,0,3
+2020-11-14T18:00:00,Korona Kielce,1,1,Sandecja Nowy S.,0,0
+2020-11-14T13:00:00,Radomiak Radom,0,0,Zaglebie Sosnowiec,0,0
+2020-11-14T12:40:00,Widzew Lodz,0,2,R. Rzeszow,0,0
+2020-11-14T12:30:00,GKS Jastrzebie,0,0,LKS Lodz,1,3
+2020-11-14T12:30:00,Puszcza,0,1,Odra Opole,0,0
+2020-11-13T17:40:00,Chrobry Glogow,1,3,Stomil Olsztyn,0,0
+2020-11-13T16:00:00,Arka Gdynia,0,1,GKS Belchatow,1,2
+2020-11-11T18:00:00,LKS Lodz,1,2,Korona Kielce,0,0
+2020-11-11T17:00:00,Leczna,1,2,GKS Jastrzebie,1,1
+2020-11-10T18:00:00,Widzew Lodz,0,0,GKS Belchatow,0,0
+2020-11-08T16:00:00,Sandecja Nowy S.,1,1,Arka Gdynia,2,5
+2020-11-08T12:40:00,Tychy,1,1,Puszcza,0,1
+2020-11-07T17:00:00,GKS Belchatow,2,3,R. Rzeszow,0,0
+2020-11-07T17:00:00,Zaglebie Sosnowiec,0,1,Korona Kielce,2,3
+2020-11-07T12:40:00,LKS Lodz,0,4,Chrobry Glogow,0,0
+2020-11-07T12:40:00,Odra Opole,0,0,GKS Jastrzebie,1,2
+2020-11-07T12:40:00,Termalica B-B.,0,2,Leczna,0,1
+2020-11-06T17:40:00,Legnica,0,1,Widzew Lodz,0,1
+2020-11-06T17:40:00,Stomil Olsztyn,0,0,Radomiak Radom,0,1
+2020-11-04T15:00:00,Zaglebie Sosnowiec,0,0,R. Rzeszow,1,2
+2020-11-04T12:30:00,Chrobry Glogow,0,0,Termalica B-B.,1,2
+2020-10-28T13:00:00,Radomiak Radom,1,2,Tychy,1,2
+2020-10-25T15:00:00,Leczna,0,1,Legnica,0,0
+2020-10-23T17:40:00,Tychy,2,3,GKS Jastrzebie,0,1
+2020-10-21T17:40:00,Leczna,0,2,Arka Gdynia,0,0
+2020-10-21T17:00:00,Radomiak Radom,2,2,Puszcza,0,0
+2020-10-18T14:00:00,Sandecja Nowy S.,0,0,GKS Belchatow,0,0
+2020-10-17T14:00:00,Stomil Olsztyn,0,1,Arka Gdynia,1,1
+2020-10-17T12:40:00,Leczna,0,0,Widzew Lodz,0,0
+2020-10-16T20:30:00,Tychy,2,4,Chrobry Glogow,0,0
+2020-10-16T19:45:00,Odra Opole,1,1,Radomiak Radom,0,1
+2020-10-16T18:00:00,Legnica,0,1,Puszcza,0,1
+2020-10-16T18:00:00,Termalica B-B.,1,2,GKS Jastrzebie,0,0
+2020-10-11T12:40:00,Korona Kielce,0,0,Odra Opole,0,2
+2020-10-10T18:00:00,GKS Belchatow,1,1,Zaglebie Sosnowiec,0,0
+2020-10-10T17:00:00,Stomil Olsztyn,0,1,R. Rzeszow,1,1
+2020-10-10T12:40:00,Arka Gdynia,0,0,LKS Lodz,0,0
+2020-10-09T18:00:00,Legnica,0,1,GKS Jastrzebie,1,1
+2020-10-09T17:40:00,Widzew Lodz,1,2,Sandecja Nowy S.,1,1
+2020-10-04T19:00:00,Termalica B-B.,2,3,Radomiak Radom,1,2
+2020-10-04T17:00:00,Stomil Olsztyn,0,0,GKS Belchatow,0,0
+2020-10-04T15:00:00,Odra Opole,0,0,Arka Gdynia,0,0
+2020-10-04T12:40:00,LKS Lodz,1,2,R. Rzeszow,0,1
+2020-10-04T12:40:00,Puszcza,1,1,Widzew Lodz,0,0
+2020-10-03T16:00:00,Legnica,1,2,Chrobry Glogow,2,2
+2020-10-03T12:40:00,Tychy,0,0,Korona Kielce,1,1
+2020-10-03T12:40:00,Zaglebie Sosnowiec,2,3,Sandecja Nowy S.,0,0
+2020-09-30T19:00:00,GKS Belchatow,1,1,LKS Lodz,3,3
+2020-09-30T19:00:00,Puszcza,0,2,GKS Jastrzebie,0,1
+2020-09-30T19:00:00,Radomiak Radom,0,0,Legnica,1,2
+2020-09-30T18:30:00,Odra Opole,1,1,R. Rzeszow,0,0
+2020-09-30T18:10:00,Korona Kielce,0,0,Termalica B-B.,2,3
+2020-09-30T18:00:00,Chrobry Glogow,1,1,Leczna,0,1
+2020-09-30T16:00:00,Sandecja Nowy S.,0,1,Stomil Olsztyn,2,4
+2020-09-29T20:40:00,Arka Gdynia,0,0,Tychy,1,2
+2020-09-29T18:10:00,Widzew Lodz,0,1,Zaglebie Sosnowiec,0,1
+2020-09-27T16:00:00,Puszcza,1,2,Chrobry Glogow,0,0
+2020-09-27T12:40:00,LKS Lodz,2,4,Sandecja Nowy S.,0,1
+2020-09-26T16:00:00,Leczna,2,2,Radomiak Radom,0,1
+2020-09-26T12:40:00,Legnica,0,1,Korona Kielce,1,1
+2020-09-25T19:45:00,Odra Opole,0,1,GKS Belchatow,0,0
+2020-09-25T19:45:00,Stomil Olsztyn,0,1,Zaglebie Sosnowiec,0,0
+2020-09-25T19:00:00,Tychy,1,2,R. Rzeszow,0,1
+2020-09-25T18:00:00,Termalica B-B.,0,0,Arka Gdynia,0,1
+2020-09-25T17:40:00,GKS Jastrzebie,0,0,Widzew Lodz,1,1
+2020-09-20T12:40:00,Korona Kielce,0,0,Leczna,1,2
+2020-09-19T20:00:00,Termalica B-B.,1,2,R. Rzeszow,0,0
+2020-09-19T18:00:00,Chrobry Glogow,0,1,GKS Jastrzebie,0,0
+2020-09-19T18:00:00,GKS Belchatow,0,1,Tychy,1,1
+2020-09-19T17:00:00,Zaglebie Sosnowiec,0,1,LKS Lodz,1,2
+2020-09-19T16:30:00,Sandecja Nowy S.,0,1,Odra Opole,1,2
+2020-09-19T12:40:00,Widzew Lodz,1,2,Stomil Olsztyn,0,0
+2020-09-18T17:40:00,Arka Gdynia,1,4,Legnica,0,0
+2020-09-16T19:45:00,Stomil Olsztyn,0,0,Odra Opole,1,1
+2020-09-16T19:10:00,Widzew Lodz,0,0,LKS Lodz,1,2
+2020-09-16T19:00:00,Chrobry Glogow,0,1,Radomiak Radom,1,2
+2020-09-12T20:00:00,Termalica B-B.,1,2,GKS Belchatow,0,0
+2020-09-12T19:00:00,Tychy,1,2,Sandecja Nowy S.,0,0
+2020-09-12T12:40:00,LKS Lodz,2,3,Stomil Olsztyn,0,0
+2020-09-11T19:45:00,Odra Opole,0,1,Zaglebie Sosnowiec,0,0
+2020-09-11T19:00:00,Legnica,3,4,R. Rzeszow,0,0
+2020-09-11T19:00:00,Puszcza,0,0,Korona Kielce,0,0
+2020-09-11T16:00:00,GKS Jastrzebie,0,0,Radomiak Radom,1,1
+2020-09-10T20:30:00,Chrobry Glogow,1,3,Widzew Lodz,0,0
+2020-09-06T16:00:00,Leczna,1,2,R. Rzeszow,0,0
+2020-09-06T12:40:00,Zaglebie Sosnowiec,0,3,Tychy,0,0
+2020-09-05T18:00:00,GKS Belchatow,0,1,Legnica,0,0
+2020-09-05T17:00:00,Sandecja Nowy S.,0,0,Termalica B-B.,0,1
+2020-09-05T12:40:00,Korona Kielce,2,3,GKS Jastrzebie,1,2
+2020-09-04T18:00:00,Arka Gdynia,1,3,Puszcza,0,2
+2020-08-30T12:40:00,Chrobry Glogow,1,1,Korona Kielce,0,1
+2020-08-29T20:00:00,Termalica B-B.,0,1,Zaglebie Sosnowiec,0,0
+2020-08-29T19:00:00,Puszcza,0,0,R. Rzeszow,1,3
+2020-08-29T19:00:00,Tychy,0,0,Stomil Olsztyn,0,0
+2020-08-29T17:00:00,Leczna,1,3,GKS Belchatow,0,0
+2020-08-29T16:00:00,Legnica,3,3,Sandecja Nowy S.,0,1
+2020-08-29T12:40:00,Radomiak Radom,0,4,Widzew Lodz,1,1
+2020-08-28T17:40:00,Odra Opole,0,0,LKS Lodz,2,4
+2020-08-28T17:00:00,GKS Jastrzebie,0,0,Arka Gdynia,3,4

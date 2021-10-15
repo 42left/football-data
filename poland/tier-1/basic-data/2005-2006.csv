@@ -1,0 +1,243 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2006-06-18T18:00:00,Arka Gdynia,,2,Jagiellonia,,1
+2006-06-15T18:00:00,Jagiellonia,,0,Arka Gdynia,,2
+2006-05-13T20:30:00,Legia,,1,Wisla,,2
+2006-05-13T17:00:00,Arka Gdynia,,0,Polonia Warszawa,,1
+2006-05-13T17:00:00,Cracovia,,0,Zaglebie,,0
+2006-05-13T17:00:00,GKS Belchatow,,1,Amica Wronki,,2
+2006-05-13T17:00:00,Groclin,,0,Korona Kielce,,3
+2006-05-13T17:00:00,Leczna,,1,Gornik Z.,,0
+2006-05-13T17:00:00,Odra Wodzislaw,,1,Wisla Plock,,0
+2006-05-13T17:00:00,Pogon Szczecin,,0,Lech Poznan,,0
+2006-05-10T18:00:00,Amica Wronki,,6,Leczna,,0
+2006-05-10T18:00:00,Gornik Z.,0,0,Legia,1,1
+2006-05-10T18:00:00,Korona Kielce,,0,GKS Belchatow,,0
+2006-05-10T18:00:00,Lech Poznan,,1,Odra Wodzislaw,,2
+2006-05-10T18:00:00,Polonia Warszawa,,1,Pogon Szczecin,,1
+2006-05-10T18:00:00,Wisla,,3,Arka Gdynia,,1
+2006-05-10T18:00:00,Wisla Plock,,1,Cracovia,,0
+2006-05-10T18:00:00,Zaglebie,,2,Groclin,,0
+2006-05-07T15:00:00,Cracovia,,3,Lech Poznan,,2
+2006-05-07T13:45:00,GKS Belchatow,,3,Zaglebie,,0
+2006-05-06T18:00:00,Arka Gdynia,,0,Pogon Szczecin,,0
+2006-05-06T18:00:00,Groclin,,3,Wisla Plock,,0
+2006-05-06T18:00:00,Leczna,,3,Korona Kielce,,0
+2006-05-06T18:00:00,Odra Wodzislaw,,0,Polonia Warszawa,,0
+2006-05-06T17:30:00,Wisla,,2,Gornik Z.,,0
+2006-05-05T20:00:00,Legia,,1,Amica Wronki,,0
+2006-04-30T16:00:00,Polonia Warszawa,,1,Cracovia,,3
+2006-04-29T20:00:00,Korona Kielce,,2,Legia,,2
+2006-04-29T18:00:00,Gornik Z.,,2,Arka Gdynia,,0
+2006-04-29T18:00:00,Lech Poznan,,4,Groclin,,1
+2006-04-29T18:00:00,Pogon Szczecin,,1,Odra Wodzislaw,,0
+2006-04-29T18:00:00,Wisla Plock,,0,GKS Belchatow,,1
+2006-04-29T18:00:00,Zaglebie,,2,Leczna,,0
+2006-04-28T20:00:00,Amica Wronki,,0,Wisla,,1
+2006-04-23T14:30:00,Polonia Warszawa,,1,Groclin,,2
+2006-04-22T20:00:00,Legia,,1,Zaglebie,,0
+2006-04-22T18:00:00,Arka Gdynia,,1,Odra Wodzislaw,,1
+2006-04-22T18:00:00,Cracovia,,1,Pogon Szczecin,,0
+2006-04-22T18:00:00,GKS Belchatow,,1,Lech Poznan,,1
+2006-04-22T18:00:00,Gornik Z.,,0,Amica Wronki,,2
+2006-04-22T18:00:00,Leczna,,2,Wisla Plock,,1
+2006-04-21T20:00:00,Korona Kielce,,1,Wisla,,0
+2006-04-19T18:30:00,Gornik Z.,,2,Pogon Szczecin,,1
+2006-04-19T18:30:00,Leczna,,0,Groclin,,0
+2006-04-19T18:30:00,Zaglebie,,2,Wisla Plock,,0
+2006-04-18T18:30:00,Korona Kielce,,1,Lech Poznan,,1
+2006-04-15T18:15:00,Wisla Plock,,0,Legia,,1
+2006-04-15T16:00:00,Wisla,,2,Zaglebie,,0
+2006-04-15T15:30:00,Amica Wronki,,1,Arka Gdynia,,1
+2006-04-15T15:30:00,Lech Poznan,,1,Leczna,,0
+2006-04-15T15:30:00,Odra Wodzislaw,,1,Cracovia,,0
+2006-04-15T15:30:00,Pogon Szczecin,,1,Groclin,,3
+2006-04-15T15:30:00,Polonia Warszawa,,0,GKS Belchatow,,0
+2006-04-15T13:30:00,Korona Kielce,,4,Gornik Z.,,1
+2006-04-12T20:00:00,Legia,,3,Lech Poznan,,1
+2006-04-12T18:30:00,Leczna,,0,Polonia Warszawa,,1
+2006-04-11T20:00:00,Amica Wronki,,0,Korona Kielce,,3
+2006-04-11T18:30:00,Arka Gdynia,,1,Cracovia,,1
+2006-04-11T18:30:00,GKS Belchatow,,2,Pogon Szczecin,,0
+2006-04-11T18:30:00,Gornik Z.,,2,Zaglebie,,2
+2006-04-11T18:30:00,Groclin,,0,Odra Wodzislaw,,0
+2006-04-11T18:30:00,Wisla,,4,Wisla Plock,,0
+2006-04-09T14:30:00,Polonia Warszawa,,0,Legia,,2
+2006-04-08T20:00:00,Lech Poznan,,2,Wisla,,1
+2006-04-08T18:00:00,Cracovia,,1,Groclin,,3
+2006-04-08T18:00:00,Odra Wodzislaw,,0,GKS Belchatow,,2
+2006-04-08T18:00:00,Pogon Szczecin,,2,Leczna,,1
+2006-04-08T18:00:00,Wisla Plock,,1,Gornik Z.,,0
+2006-04-07T20:00:00,Zaglebie,,2,Amica Wronki,,0
+2006-04-07T19:00:00,Korona Kielce,,1,Arka Gdynia,,0
+2006-04-04T18:30:00,Korona Kielce,,0,Pogon Szczecin,,1
+2006-04-04T18:30:00,Leczna,,1,Arka Gdynia,,1
+2006-04-04T18:30:00,Odra Wodzislaw,,1,Gornik Z.,,0
+2006-04-04T18:30:00,Wisla Plock,,5,Lech Poznan,,1
+2006-04-04T18:30:00,Zaglebie,,1,Polonia Warszawa,,0
+2006-04-01T19:30:00,Korona Kielce,,1,Zaglebie,,1
+2006-04-01T18:00:00,Amica Wronki,,2,Wisla Plock,,0
+2006-04-01T18:00:00,Arka Gdynia,,0,Groclin,,0
+2006-04-01T18:00:00,GKS Belchatow,,2,Cracovia,,0
+2006-04-01T18:00:00,Gornik Z.,,0,Lech Poznan,,3
+2006-04-01T18:00:00,Leczna,,0,Odra Wodzislaw,,0
+2006-04-01T16:00:00,Wisla,,2,Polonia Warszawa,,0
+2006-03-31T20:00:00,Legia,,2,Pogon Szczecin,,0
+2006-03-29T18:30:00,Arka Gdynia,,1,Wisla Plock,,1
+2006-03-28T18:30:00,Pogon Szczecin,,1,Zaglebie,,0
+2006-03-25T18:30:00,Lech Poznan,,1,Amica Wronki,,1
+2006-03-25T18:00:00,Cracovia,,0,Leczna,,1
+2006-03-25T18:00:00,Groclin,,3,GKS Belchatow,,1
+2006-03-25T18:00:00,Polonia Warszawa,,4,Gornik Z.,,1
+2006-03-25T18:00:00,Wisla Plock,,1,Korona Kielce,,0
+2006-03-25T18:00:00,Zaglebie,,4,Arka Gdynia,,0
+2006-03-25T16:00:00,Odra Wodzislaw,,1,Legia,,2
+2006-03-24T20:00:00,Pogon Szczecin,,1,Wisla,,2
+2006-03-22T18:30:00,GKS Belchatow,,1,Leczna,,1
+2006-03-19T17:00:00,Wisla,,1,Odra Wodzislaw,,0
+2006-03-18T18:00:00,Amica Wronki,,3,Polonia Warszawa,,0
+2006-03-18T18:00:00,Arka Gdynia,,2,GKS Belchatow,,0
+2006-03-17T20:00:00,Legia,,5,Cracovia,,0
+2006-03-12T14:30:00,Cracovia,,1,Wisla,,1
+2006-03-11T20:00:00,Groclin,,0,Legia,,4
+2006-03-11T18:00:00,Pogon Szczecin,,0,Amica Wronki,,3
+2006-03-11T18:00:00,Polonia Warszawa,,1,Korona Kielce,,1
+2006-03-10T20:00:00,Lech Poznan,,0,Zaglebie,,1
+2006-03-04T18:00:00,Amica Wronki,,4,Odra Wodzislaw,,0
+2006-03-04T18:00:00,Wisla,,2,Groclin,,1
+2006-03-03T20:00:00,Legia,,1,GKS Belchatow,,0
+2006-03-03T19:00:00,Cracovia,,1,Gornik Z.,,2
+2005-12-11T14:30:00,GKS Belchatow,,0,Wisla,,0
+2005-12-11T14:30:00,Legia,,0,Leczna,,2
+2005-12-10T20:00:00,Amica Wronki,,1,Cracovia,,1
+2005-12-10T17:00:00,Groclin,,0,Gornik Z.,,1
+2005-12-10T17:00:00,Odra Wodzislaw,,1,Korona Kielce,,1
+2005-12-10T17:00:00,Wisla Plock,,4,Polonia Warszawa,,0
+2005-12-09T20:00:00,Arka Gdynia,,0,Lech Poznan,,2
+2005-12-06T17:00:00,Polonia Warszawa,,0,Odra Wodzislaw,,3
+2005-12-04T17:00:00,Cracovia,,2,Korona Kielce,,3
+2005-12-03T17:00:00,Gornik Z.,,0,GKS Belchatow,,1
+2005-12-03T17:00:00,Wisla Plock,,0,Pogon Szczecin,,0
+2005-12-03T17:00:00,Zaglebie,,2,Odra Wodzislaw,,0
+2005-12-03T16:00:00,Legia,,2,Arka Gdynia,,0
+2005-12-03T16:00:00,Wisla,,1,Leczna,,0
+2005-12-02T19:00:00,Amica Wronki,,2,Groclin,,0
+2005-12-02T18:00:00,Polonia Warszawa,,2,Lech Poznan,,1
+2005-11-27T20:00:00,Wisla,,0,Legia,,0
+2005-11-26T18:15:00,Zaglebie,,3,Cracovia,,1
+2005-11-26T18:00:00,Amica Wronki,,3,GKS Belchatow,,1
+2005-11-26T18:00:00,Gornik Z.,1,2,Leczna,0,0
+2005-11-26T18:00:00,Polonia Warszawa,,0,Arka Gdynia,,0
+2005-11-26T18:00:00,Wisla Plock,,0,Odra Wodzislaw,,0
+2005-11-26T13:30:00,Korona Kielce,,3,Groclin,,0
+2005-11-25T19:00:00,Lech Poznan,,1,Pogon Szczecin,,1
+2005-11-22T18:30:00,Wisla,,3,Cracovia,,0
+2005-11-20T17:00:00,Groclin,,1,Zaglebie,,0
+2005-11-19T18:15:00,Arka Gdynia,,1,Wisla,,0
+2005-11-19T18:00:00,Cracovia,,3,Wisla Plock,,1
+2005-11-19T18:00:00,GKS Belchatow,,1,Korona Kielce,,2
+2005-11-19T18:00:00,Leczna,,1,Amica Wronki,,0
+2005-11-19T18:00:00,Odra Wodzislaw,,2,Lech Poznan,,1
+2005-11-19T18:00:00,Pogon Szczecin,,2,Polonia Warszawa,,0
+2005-11-18T20:00:00,Legia,,3,Gornik Z.,,2
+2005-11-06T14:30:00,Pogon Szczecin,,0,Arka Gdynia,,0
+2005-11-05T20:00:00,Amica Wronki,,0,Legia,,2
+2005-11-05T18:00:00,Gornik Z.,0,0,Wisla,1,1
+2005-11-05T18:00:00,Wisla Plock,,2,Groclin,,0
+2005-11-05T18:00:00,Zaglebie,,2,GKS Belchatow,,1
+2005-11-05T13:30:00,Korona Kielce,,1,Leczna,,1
+2005-11-04T20:00:00,Lech Poznan,,1,Cracovia,,0
+2005-10-30T17:00:00,Wisla,,0,Amica Wronki,,0
+2005-10-29T18:00:00,Arka Gdynia,,3,Gornik Z.,,0
+2005-10-29T18:00:00,Cracovia,,3,Polonia Warszawa,,0
+2005-10-29T18:00:00,GKS Belchatow,,3,Wisla Plock,,0
+2005-10-29T18:00:00,Leczna,,1,Zaglebie,,3
+2005-10-29T18:00:00,Legia,,1,Korona Kielce,,0
+2005-10-29T18:00:00,Odra Wodzislaw,,1,Pogon Szczecin,,0
+2005-10-28T20:00:00,Groclin,,3,Lech Poznan,,1
+2005-10-23T14:30:00,Wisla,,2,Korona Kielce,,2
+2005-10-22T20:00:00,Zaglebie,,0,Legia,,1
+2005-10-22T18:00:00,Amica Wronki,,3,Gornik Z.,,1
+2005-10-22T18:00:00,Groclin,,1,Polonia Warszawa,,2
+2005-10-22T18:00:00,Lech Poznan,,1,GKS Belchatow,,1
+2005-10-22T18:00:00,Odra Wodzislaw,,1,Arka Gdynia,,2
+2005-10-22T18:00:00,Wisla Plock,,2,Leczna,,1
+2005-10-21T20:00:00,Pogon Szczecin,,1,Cracovia,,2
+2005-10-16T17:00:00,Zaglebie,,2,Wisla,,1
+2005-10-15T20:00:00,Groclin,,1,Pogon Szczecin,,3
+2005-10-15T18:00:00,Arka Gdynia,,1,Amica Wronki,,1
+2005-10-15T18:00:00,Cracovia,,1,Odra Wodzislaw,,0
+2005-10-15T18:00:00,GKS Belchatow,,2,Polonia Warszawa,,0
+2005-10-15T18:00:00,Gornik Z.,0,0,Korona Kielce,2,3
+2005-10-15T18:00:00,Legia,,3,Wisla Plock,,0
+2005-10-14T20:00:00,Leczna,,0,Lech Poznan,,0
+2005-10-02T19:15:00,Wisla Plock,,1,Wisla,,2
+2005-10-02T17:00:00,Odra Wodzislaw,,1,Groclin,,0
+2005-10-01T18:15:00,Zaglebie,,3,Gornik Z.,,0
+2005-10-01T18:00:00,Cracovia,,2,Arka Gdynia,,1
+2005-10-01T18:00:00,Pogon Szczecin,,0,GKS Belchatow,,0
+2005-10-01T18:00:00,Polonia Warszawa,,0,Leczna,,3
+2005-10-01T14:00:00,Korona Kielce,,2,Amica Wronki,,1
+2005-09-30T20:00:00,Lech Poznan,,1,Legia,,0
+2005-09-25T15:00:00,Amica Wronki,,3,Zaglebie,,1
+2005-09-24T20:00:00,Wisla,,5,Lech Poznan,,1
+2005-09-24T18:00:00,Arka Gdynia,,0,Korona Kielce,,2
+2005-09-24T18:00:00,GKS Belchatow,,0,Odra Wodzislaw,,3
+2005-09-24T18:00:00,Gornik Z.,,4,Wisla Plock,,0
+2005-09-24T18:00:00,Groclin,,4,Cracovia,,1
+2005-09-24T18:00:00,Leczna,,0,Pogon Szczecin,,1
+2005-09-23T20:00:00,Legia,,1,Polonia Warszawa,,0
+2005-09-18T17:00:00,Groclin,,2,Arka Gdynia,,1
+2005-09-18T17:00:00,Polonia Warszawa,,0,Wisla,,1
+2005-09-17T18:15:00,Wisla Plock,,0,Amica Wronki,,1
+2005-09-17T18:00:00,Cracovia,,2,GKS Belchatow,,1
+2005-09-17T18:00:00,Lech Poznan,,3,Gornik Z.,,2
+2005-09-17T18:00:00,Odra Wodzislaw,,0,Leczna,,0
+2005-09-17T18:00:00,Zaglebie,,3,Korona Kielce,,3
+2005-09-16T20:00:00,Pogon Szczecin,,2,Legia,,2
+2005-09-11T17:00:00,Amica Wronki,,1,Lech Poznan,,4
+2005-09-10T18:00:00,Arka Gdynia,,0,Zaglebie,,1
+2005-09-10T18:00:00,Gornik Z.,,2,Polonia Warszawa,,1
+2005-09-10T18:00:00,Leczna,,1,Cracovia,,1
+2005-09-10T18:00:00,Legia,,2,Odra Wodzislaw,,1
+2005-09-10T18:00:00,Wisla,,2,Pogon Szczecin,,1
+2005-09-10T15:30:00,Korona Kielce,,2,Wisla Plock,,3
+2005-09-09T20:00:00,GKS Belchatow,,2,Groclin,,2
+2005-08-28T19:30:00,Cracovia,,1,Legia,,1
+2005-08-28T17:00:00,Groclin,,1,Leczna,,1
+2005-08-28T17:00:00,Wisla Plock,,3,Zaglebie,,2
+2005-08-27T19:00:00,GKS Belchatow,,1,Arka Gdynia,,1
+2005-08-27T19:00:00,Pogon Szczecin,,1,Gornik Z.,,1
+2005-08-27T19:00:00,Polonia Warszawa,,0,Amica Wronki,,0
+2005-08-27T18:15:00,Odra Wodzislaw,,1,Wisla,,1
+2005-08-26T20:00:00,Lech Poznan,,0,Korona Kielce,,0
+2005-08-21T19:10:00,Amica Wronki,,4,Pogon Szczecin,,1
+2005-08-20T19:00:00,Gornik Z.,,1,Odra Wodzislaw,,1
+2005-08-20T19:00:00,Leczna,,0,GKS Belchatow,,2
+2005-08-20T19:00:00,Wisla Plock,,1,Arka Gdynia,,1
+2005-08-20T19:00:00,Zaglebie,,4,Lech Poznan,,5
+2005-08-20T18:00:00,Legia,,0,Groclin,,2
+2005-08-20T17:00:00,Korona Kielce,,3,Polonia Warszawa,,2
+2005-08-07T18:30:00,Pogon Szczecin,,4,Korona Kielce,,2
+2005-08-06T20:00:00,Lech Poznan,,3,Wisla Plock,,2
+2005-08-06T19:00:00,Gornik Z.,,3,Cracovia,,0
+2005-08-06T19:00:00,Odra Wodzislaw,,0,Amica Wronki,,4
+2005-08-06T19:00:00,Polonia Warszawa,,1,Zaglebie,,1
+2005-08-06T17:00:00,Arka Gdynia,,1,Leczna,,1
+2005-08-05T20:00:00,Groclin,,2,Wisla,,4
+2005-08-05T19:00:00,GKS Belchatow,,0,Legia,,3
+2005-07-31T19:00:00,Cracovia,,1,Amica Wronki,,0
+2005-07-30T20:00:00,Leczna,,0,Legia,,0
+2005-07-30T19:00:00,Gornik Z.,,0,Groclin,,0
+2005-07-30T19:00:00,Polonia Warszawa,,0,Wisla Plock,,1
+2005-07-30T19:00:00,Wisla,,3,GKS Belchatow,,0
+2005-07-30T19:00:00,Zaglebie,,1,Pogon Szczecin,,1
+2005-07-30T17:00:00,Korona Kielce,,0,Odra Wodzislaw,,1
+2005-07-29T20:00:00,Lech Poznan,,1,Arka Gdynia,,1
+2005-07-27T20:00:00,Groclin,,2,Amica Wronki,,2
+2005-07-26T20:00:00,GKS Belchatow,,0,Gornik Z.,,0
+2005-07-26T20:00:00,Lech Poznan,,1,Polonia Warszawa,,2
+2005-07-26T20:00:00,Leczna,,1,Wisla,,1
+2005-07-26T19:00:00,Odra Wodzislaw,,0,Zaglebie,,0
+2005-07-26T19:00:00,Pogon Szczecin,,2,Wisla Plock,,0
+2005-07-26T17:30:00,Korona Kielce,,0,Cracovia,,0
+2005-07-24T17:00:00,Arka Gdynia,,0,Legia,,0

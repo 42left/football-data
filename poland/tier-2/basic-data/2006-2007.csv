@@ -1,0 +1,313 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2007-06-17T15:00:00,Kmita Zabierzow,,3,Pelikan,,2
+2007-06-17T15:00:00,S. Wola,,4,Kolejarz,,0
+2007-06-17T15:00:00,Unia Janikowo,,2,Warta Poznan,,2
+2007-06-14T15:00:00,Kolejarz,,2,S. Wola,,0
+2007-06-14T15:00:00,Pelikan,,2,Kmita Zabierzow,,0
+2007-06-14T15:00:00,Warta Poznan,,1,Unia Janikowo,,1
+2007-06-09T17:00:00,Jagiellonia,,2,Unia Janikowo,,2
+2007-06-09T17:00:00,Kmita Zabierzow,,1,Polkowice,,2
+2007-06-09T17:00:00,Legnica,,0,Polonia Bytom,,4
+2007-06-09T17:00:00,LKS Lomza,,1,Odra Opole,,1
+2007-06-09T17:00:00,Ostrowiec Swietokrzyski,,2,Zaglebie Sosnowiec,,2
+2007-06-09T17:00:00,Piast Gliwice,,3,Slask Wroclaw,,0
+2007-06-09T17:00:00,Ruch Chorzow,,4,Podbeskidzie,,0
+2007-06-09T17:00:00,S. Wola,,2,Lechia Gdansk,,1
+2007-06-09T17:00:00,Zawisza,,0,Polonia Warszawa,,3
+2007-06-03T17:00:00,Lechia Gdansk,,1,Ruch Chorzow,,1
+2007-06-03T17:00:00,Odra Opole,,0,Legnica,,1
+2007-06-03T17:00:00,Podbeskidzie,,0,Kmita Zabierzow,,3
+2007-06-03T17:00:00,Polonia Bytom,,3,Piast Gliwice,,2
+2007-06-03T17:00:00,Polonia Warszawa,,2,LKS Lomza,,4
+2007-06-03T17:00:00,Slask Wroclaw,,2,Ostrowiec Swietokrzyski,,0
+2007-06-03T17:00:00,Unia Janikowo,,2,S. Wola,,1
+2007-06-03T17:00:00,Zaglebie Sosnowiec,,0,Jagiellonia,,1
+2007-06-01T17:00:00,Polkowice,,3,Zawisza,,0
+2007-05-27T19:00:00,Piast Gliwice,,2,Odra Opole,,0
+2007-05-27T17:30:00,Jagiellonia,,2,S. Wola,,0
+2007-05-27T17:00:00,Kmita Zabierzow,,2,Lechia Gdansk,,3
+2007-05-26T19:00:00,Ostrowiec Swietokrzyski,,0,Polonia Bytom,,2
+2007-05-26T19:00:00,Ruch Chorzow,,3,Unia Janikowo,,1
+2007-05-26T17:00:00,Legnica,,4,Polonia Warszawa,,0
+2007-05-26T17:00:00,LKS Lomza,,2,Polkowice,,5
+2007-05-26T17:00:00,Zaglebie Sosnowiec,,1,Slask Wroclaw,,1
+2007-05-26T17:00:00,Zawisza,,0,Podbeskidzie,,3
+2007-05-23T19:00:00,Polkowice,,2,Legnica,,2
+2007-05-23T19:00:00,Polonia Warszawa,,3,Piast Gliwice,,0
+2007-05-23T18:00:00,Polonia Bytom,,1,Zaglebie Sosnowiec,,0
+2007-05-23T17:00:00,Lechia Gdansk,,3,Zawisza,,0
+2007-05-23T17:00:00,Odra Opole,,1,Ostrowiec Swietokrzyski,,0
+2007-05-23T17:00:00,Podbeskidzie,,2,LKS Lomza,,0
+2007-05-23T17:00:00,S. Wola,,0,Ruch Chorzow,,0
+2007-05-23T17:00:00,Slask Wroclaw,,0,Jagiellonia,,0
+2007-05-23T16:00:00,Unia Janikowo,,1,Kmita Zabierzow,,0
+2007-05-20T17:00:00,Kmita Zabierzow,,2,S. Wola,,0
+2007-05-19T19:00:00,Ostrowiec Swietokrzyski,,0,Polonia Warszawa,,1
+2007-05-19T18:30:00,Slask Wroclaw,,2,Polonia Bytom,,0
+2007-05-19T17:00:00,Legnica,,0,Podbeskidzie,,1
+2007-05-19T17:00:00,LKS Lomza,,1,Lechia Gdansk,,1
+2007-05-19T17:00:00,Zaglebie Sosnowiec,,2,Odra Opole,,0
+2007-05-19T16:30:00,Jagiellonia,,1,Ruch Chorzow,,0
+2007-05-19T16:30:00,Zawisza,,0,Unia Janikowo,,3
+2007-05-18T19:00:00,Piast Gliwice,,1,Polkowice,,1
+2007-05-13T18:30:00,Polonia Warszawa,,1,Zaglebie Sosnowiec,,0
+2007-05-13T17:00:00,Lechia Gdansk,,2,Legnica,,0
+2007-05-13T17:00:00,Podbeskidzie,,0,Piast Gliwice,,2
+2007-05-13T17:00:00,Polkowice,,2,Ostrowiec Swietokrzyski,,0
+2007-05-13T14:40:00,Polonia Bytom,,1,Jagiellonia,,3
+2007-05-12T19:00:00,Ruch Chorzow,,3,Kmita Zabierzow,,0
+2007-05-12T18:00:00,S. Wola,,3,Zawisza,,0
+2007-05-12T17:00:00,Odra Opole,,1,Slask Wroclaw,,1
+2007-05-12T16:00:00,Unia Janikowo,,1,LKS Lomza,,1
+2007-05-10T19:00:00,Piast Gliwice,,2,Lechia Gdansk,,3
+2007-05-09T19:00:00,Ostrowiec Swietokrzyski,,1,Podbeskidzie,,0
+2007-05-09T19:00:00,Slask Wroclaw,,0,Polonia Warszawa,,0
+2007-05-09T17:00:00,Jagiellonia,,1,Kmita Zabierzow,,0
+2007-05-09T17:00:00,Legnica,,0,Unia Janikowo,,1
+2007-05-09T17:00:00,LKS Lomza,,2,S. Wola,,0
+2007-05-09T17:00:00,Polonia Bytom,,3,Odra Opole,,1
+2007-05-09T17:00:00,Zaglebie Sosnowiec,,2,Polkowice,,1
+2007-05-09T17:00:00,Zawisza,,0,Ruch Chorzow,,3
+2007-05-06T17:00:00,Lechia Gdansk,,0,Ostrowiec Swietokrzyski,,0
+2007-05-06T14:40:00,Polkowice,,1,Slask Wroclaw,,0
+2007-05-05T19:00:00,Polonia Warszawa,,1,Polonia Bytom,,0
+2007-05-05T18:00:00,Kmita Zabierzow,,3,Zawisza,,0
+2007-05-05T17:00:00,Odra Opole,,0,Jagiellonia,,0
+2007-05-05T17:00:00,Podbeskidzie,,2,Zaglebie Sosnowiec,,1
+2007-05-05T17:00:00,S. Wola,,2,Legnica,,0
+2007-05-05T16:00:00,Unia Janikowo,,1,Piast Gliwice,,0
+2007-05-04T19:00:00,Ruch Chorzow,,1,LKS Lomza,,0
+2007-05-01T17:00:00,Polkowice,,3,Unia Janikowo,,1
+2007-04-30T18:30:00,Slask Wroclaw,,3,Podbeskidzie,,0
+2007-04-29T14:40:00,Zaglebie Sosnowiec,,2,Lechia Gdansk,,0
+2007-04-28T17:00:00,Odra Opole,,2,Polonia Warszawa,,2
+2007-04-28T16:00:00,Polonia Bytom,,2,Polkowice,,1
+2007-04-28T15:00:00,Jagiellonia,,3,Zawisza,,0
+2007-04-28T15:00:00,Legnica,,1,Ruch Chorzow,,3
+2007-04-28T15:00:00,LKS Lomza,,1,Kmita Zabierzow,,1
+2007-04-27T19:00:00,Ostrowiec Swietokrzyski,,0,Unia Janikowo,,0
+2007-04-27T19:00:00,Piast Gliwice,,4,S. Wola,,1
+2007-04-23T19:00:00,Polkowice,,0,Odra Opole,,0
+2007-04-22T19:00:00,Ruch Chorzow,,0,Piast Gliwice,,0
+2007-04-22T18:40:00,Polonia Warszawa,,1,Jagiellonia,,0
+2007-04-22T15:00:00,Kmita Zabierzow,,1,Legnica,,0
+2007-04-22T11:00:00,Podbeskidzie,,1,Polonia Bytom,,3
+2007-04-21T19:00:00,Zawisza,,0,LKS Lomza,,3
+2007-04-21T17:00:00,Lechia Gdansk,,0,Slask Wroclaw,,0
+2007-04-21T16:00:00,Unia Janikowo,,1,Zaglebie Sosnowiec,,2
+2007-04-21T15:00:00,S. Wola,,1,Ostrowiec Swietokrzyski,,0
+2007-04-18T19:00:00,Legnica,,3,Zawisza,,0
+2007-04-18T19:00:00,Polonia Warszawa,,4,Polkowice,,1
+2007-04-18T19:00:00,Slask Wroclaw,,1,Unia Janikowo,,0
+2007-04-18T18:00:00,Ostrowiec Swietokrzyski,,1,Ruch Chorzow,,2
+2007-04-18T17:00:00,Odra Opole,,2,Podbeskidzie,,0
+2007-04-18T16:00:00,LKS Lomza,,1,Jagiellonia,,1
+2007-04-18T16:00:00,Polonia Bytom,,1,Lechia Gdansk,,0
+2007-04-18T16:00:00,Zaglebie Sosnowiec,,2,S. Wola,,2
+2007-04-17T19:00:00,Piast Gliwice,,2,Kmita Zabierzow,,2
+2007-04-15T14:40:00,Jagiellonia,,0,Polkowice,,1
+2007-04-14T19:00:00,Ruch Chorzow,,0,Zaglebie Sosnowiec,,0
+2007-04-14T16:00:00,Lechia Gdansk,,0,Odra Opole,,2
+2007-04-14T16:00:00,Unia Janikowo,,1,Polonia Bytom,,0
+2007-04-14T15:00:00,Kmita Zabierzow,,0,Ostrowiec Swietokrzyski,,1
+2007-04-14T15:00:00,LKS Lomza,,0,Legnica,,0
+2007-04-14T15:00:00,Podbeskidzie,,2,Polonia Warszawa,,1
+2007-04-14T15:00:00,S. Wola,,0,Slask Wroclaw,,0
+2007-04-14T15:00:00,Zawisza,,0,Piast Gliwice,,3
+2007-04-07T18:30:00,Slask Wroclaw,,1,Ruch Chorzow,,0
+2007-04-07T16:00:00,Odra Opole,,1,Unia Janikowo,,0
+2007-04-07T16:00:00,Ostrowiec Swietokrzyski,,3,Zawisza,,0
+2007-04-07T16:00:00,Polkowice,,0,Podbeskidzie,,0
+2007-04-07T16:00:00,Polonia Warszawa,,3,Lechia Gdansk,,1
+2007-04-07T15:30:00,Polonia Bytom,,2,S. Wola,,2
+2007-04-07T15:00:00,Jagiellonia,,3,Legnica,,0
+2007-04-07T15:00:00,Zaglebie Sosnowiec,,3,Kmita Zabierzow,,0
+2007-04-04T19:00:00,Piast Gliwice,,3,LKS Lomza,,0
+2007-04-01T15:00:00,S. Wola,,1,Odra Opole,,1
+2007-04-01T14:40:00,Lechia Gdansk,,0,Polkowice,,0
+2007-04-01T14:35:00,Podbeskidzie,,0,Jagiellonia,,2
+2007-03-31T15:00:00,Unia Janikowo,,0,Polonia Warszawa,,4
+2007-03-31T15:00:00,Zawisza,,0,Zaglebie Sosnowiec,,3
+2007-03-31T14:00:00,Kmita Zabierzow,,2,Slask Wroclaw,,0
+2007-03-31T14:00:00,Legnica,,0,Piast Gliwice,,1
+2007-03-31T14:00:00,LKS Lomza,,0,Ostrowiec Swietokrzyski,,0
+2007-03-30T19:00:00,Ruch Chorzow,,1,Polonia Bytom,,0
+2007-03-26T18:30:00,Ostrowiec Swietokrzyski,,0,Legnica,,0
+2007-03-25T00:00:00,Odra Opole,,1,Ruch Chorzow,,0
+2007-03-25T00:00:00,Polonia Warszawa,,3,S. Wola,,0
+2007-03-25T00:00:00,Zaglebie Sosnowiec,,1,LKS Lomza,,2
+2007-03-24T00:00:00,Jagiellonia,,1,Piast Gliwice,,1
+2007-03-24T00:00:00,Podbeskidzie,,0,Lechia Gdansk,,2
+2007-03-24T00:00:00,Polonia Bytom,,2,Kmita Zabierzow,,0
+2007-03-24T00:00:00,Slask Wroclaw,,3,Zawisza,,0
+2007-03-19T18:30:00,Ruch Chorzow,,0,Polonia Warszawa,,2
+2007-03-18T15:00:00,Lechia Gdansk,,1,Jagiellonia,,0
+2007-03-18T14:40:00,Piast Gliwice,,0,Ostrowiec Swietokrzyski,,0
+2007-03-18T14:00:00,Kmita Zabierzow,,0,Odra Opole,,0
+2007-03-17T14:00:00,Legnica,,1,Zaglebie Sosnowiec,,1
+2007-03-17T14:00:00,LKS Lomza,,2,Slask Wroclaw,,1
+2007-03-17T14:00:00,S. Wola,,1,Polkowice,,1
+2007-03-17T14:00:00,Unia Janikowo,,0,Podbeskidzie,,0
+2007-03-17T14:00:00,Zawisza,,0,Polonia Bytom,,3
+2007-03-12T18:30:00,Slask Wroclaw,,3,Legnica,,1
+2007-03-11T18:40:00,Polonia Warszawa,,1,Kmita Zabierzow,,0
+2007-03-11T15:00:00,Lechia Gdansk,,5,Unia Janikowo,,1
+2007-03-11T14:00:00,Jagiellonia,,1,Ostrowiec Swietokrzyski,,2
+2007-03-10T14:00:00,LKS Lomza,,3,Polonia Bytom,,2
+2007-03-10T14:00:00,Odra Opole,,3,Zawisza,,0
+2007-03-10T14:00:00,Podbeskidzie,,0,S. Wola,,0
+2007-03-10T14:00:00,Zaglebie Sosnowiec,,1,Piast Gliwice,,0
+2007-03-09T18:30:00,Ruch Chorzow,,1,Polkowice,,0
+2006-11-19T13:00:00,Podbeskidzie,,0,Ruch Chorzow,,1
+2006-11-19T12:00:00,Polonia Bytom,,3,Legnica,,1
+2006-11-18T18:30:00,Polonia Warszawa,,2,Zawisza,,2
+2006-11-18T17:00:00,Slask Wroclaw,,2,Piast Gliwice,,0
+2006-11-18T13:30:00,Odra Opole,,1,LKS Lomza,,2
+2006-11-18T12:00:00,Lechia Gdansk,0,3,S. Wola,0,0
+2006-11-18T12:00:00,Unia Janikowo,,1,Jagiellonia,,2
+2006-11-10T00:00:00,Polkowice,,1,Kmita Zabierzow,,1
+2006-11-10T00:00:00,Zaglebie Sosnowiec,,1,Ostrowiec Swietokrzyski,,1
+2006-11-05T13:00:00,Ostrowiec Swietokrzyski,,2,Slask Wroclaw,,1
+2006-11-05T12:00:00,Kmita Zabierzow,,0,Podbeskidzie,,0
+2006-11-04T17:00:00,Zawisza,,2,Polkowice,,0
+2006-11-04T13:00:00,Jagiellonia,,0,Zaglebie Sosnowiec,,2
+2006-11-04T13:00:00,LKS Lomza,,1,Polonia Warszawa,,0
+2006-11-04T13:00:00,S. Wola,,2,Unia Janikowo,,1
+2006-11-04T11:00:00,Legnica,,2,Odra Opole,,1
+2006-11-03T00:00:00,Piast Gliwice,,2,Polonia Bytom,,1
+2006-11-03T00:00:00,Ruch Chorzow,,1,Lechia Gdansk,,0
+2006-10-29T14:00:00,Slask Wroclaw,,0,Zaglebie Sosnowiec,,1
+2006-10-29T12:00:00,Polonia Bytom,,2,Ostrowiec Swietokrzyski,,1
+2006-10-28T18:00:00,Polkowice,,0,LKS Lomza,,1
+2006-10-28T17:00:00,Polonia Warszawa,,5,Legnica,,0
+2006-10-28T15:00:00,Lechia Gdansk,,5,Kmita Zabierzow,,1
+2006-10-28T14:30:00,Podbeskidzie,,3,Zawisza,,2
+2006-10-28T14:00:00,Odra Opole,,1,Piast Gliwice,,0
+2006-10-28T14:00:00,S. Wola,,2,Jagiellonia,,2
+2006-10-28T14:00:00,Unia Janikowo,,4,Ruch Chorzow,,0
+2006-10-22T15:00:00,Kmita Zabierzow,,3,Unia Janikowo,,2
+2006-10-22T14:30:00,Zaglebie Sosnowiec,,0,Polonia Bytom,,1
+2006-10-22T14:30:00,Zawisza,,2,Lechia Gdansk,,1
+2006-10-21T18:00:00,Ostrowiec Swietokrzyski,,1,Odra Opole,,1
+2006-10-21T15:00:00,Jagiellonia,,3,Slask Wroclaw,,0
+2006-10-21T15:00:00,LKS Lomza,,1,Podbeskidzie,,1
+2006-10-21T11:00:00,Legnica,,0,Polkowice,,2
+2006-10-20T19:00:00,Ruch Chorzow,,2,S. Wola,,0
+2006-10-20T18:00:00,Piast Gliwice,,1,Polonia Warszawa,,0
+2006-10-18T00:00:00,Polonia Bytom,,3,LKS Lomza,,1
+2006-10-15T15:00:00,S. Wola,,0,Kmita Zabierzow,,0
+2006-10-15T14:30:00,Polkowice,,2,Piast Gliwice,,1
+2006-10-14T18:30:00,Polonia Warszawa,,0,Ostrowiec Swietokrzyski,,0
+2006-10-14T17:00:00,Odra Opole,,1,Zaglebie Sosnowiec,,3
+2006-10-14T15:00:00,Lechia Gdansk,,3,LKS Lomza,,1
+2006-10-14T15:00:00,Podbeskidzie,,1,Legnica,,0
+2006-10-14T15:00:00,Polonia Bytom,,1,Slask Wroclaw,,0
+2006-10-14T15:00:00,Unia Janikowo,,1,Zawisza,,1
+2006-10-13T00:00:00,Ruch Chorzow,,0,Jagiellonia,,1
+2006-10-11T00:00:00,Slask Wroclaw,,2,S. Wola,,0
+2006-10-08T15:00:00,Kmita Zabierzow,,1,Ruch Chorzow,,2
+2006-10-08T14:40:00,Jagiellonia,,2,Polonia Bytom,,2
+2006-10-07T15:00:00,Legnica,,1,Lechia Gdansk,,2
+2006-10-07T15:00:00,LKS Lomza,,1,Unia Janikowo,,3
+2006-10-07T15:00:00,Slask Wroclaw,,0,Odra Opole,,0
+2006-10-07T14:30:00,Zaglebie Sosnowiec,,3,Polonia Warszawa,,1
+2006-10-06T18:00:00,Ostrowiec Swietokrzyski,,5,Polkowice,,0
+2006-10-06T18:00:00,Piast Gliwice,,0,Podbeskidzie,,1
+2006-10-06T18:00:00,Zawisza,,2,S. Wola,,0
+2006-10-01T16:00:00,Kmita Zabierzow,,0,Jagiellonia,,0
+2006-09-30T18:30:00,Polonia Warszawa,,5,Slask Wroclaw,,1
+2006-09-30T18:00:00,Odra Opole,,0,Polonia Bytom,,3
+2006-09-30T18:00:00,Ruch Chorzow,,2,Zawisza,,0
+2006-09-30T16:00:00,Lechia Gdansk,1,1,Piast Gliwice,0,0
+2006-09-30T16:00:00,Podbeskidzie,,2,Ostrowiec Swietokrzyski,,0
+2006-09-30T16:00:00,Unia Janikowo,,1,Legnica,,5
+2006-09-30T15:00:00,S. Wola,,0,LKS Lomza,,0
+2006-09-29T19:00:00,Polkowice,,1,Zaglebie Sosnowiec,,2
+2006-09-24T14:40:00,Slask Wroclaw,,1,Polkowice,,0
+2006-09-23T19:00:00,LKS Lomza,,2,Ruch Chorzow,,3
+2006-09-23T16:30:00,Polonia Bytom,,1,Polonia Warszawa,,1
+2006-09-23T16:00:00,Jagiellonia,,2,Odra Opole,,1
+2006-09-23T16:00:00,Legnica,,3,S. Wola,,2
+2006-09-23T15:30:00,Zaglebie Sosnowiec,,5,Podbeskidzie,,2
+2006-09-22T19:00:00,Piast Gliwice,,1,Unia Janikowo,,0
+2006-09-22T19:00:00,Zawisza,,3,Kmita Zabierzow,,0
+2006-09-22T18:00:00,Ostrowiec Swietokrzyski,,0,Lechia Gdansk,,0
+2006-09-17T19:00:00,Kmita Zabierzow,,2,LKS Lomza,,1
+2006-09-17T16:00:00,Unia Janikowo,,0,Ostrowiec Swietokrzyski,,0
+2006-09-16T19:00:00,Zawisza,,3,Jagiellonia,,1
+2006-09-16T16:00:00,Lechia Gdansk,0,2,Zaglebie Sosnowiec,0,2
+2006-09-16T16:00:00,Podbeskidzie,,2,Slask Wroclaw,,1
+2006-09-16T16:00:00,Polonia Warszawa,,0,Odra Opole,,0
+2006-09-16T16:00:00,S. Wola,,0,Piast Gliwice,,0
+2006-09-15T19:00:00,Polkowice,,2,Polonia Bytom,,1
+2006-09-15T19:00:00,Ruch Chorzow,,1,Legnica,,0
+2006-09-13T17:00:00,Kmita Zabierzow,,2,Piast Gliwice,,1
+2006-09-10T14:30:00,Jagiellonia,,3,Polonia Warszawa,,2
+2006-09-09T19:00:00,Odra Opole,,1,Polkowice,,0
+2006-09-09T17:00:00,Legnica,,0,Kmita Zabierzow,,0
+2006-09-09T17:00:00,Polonia Bytom,,1,Podbeskidzie,,0
+2006-09-09T17:00:00,Slask Wroclaw,,1,Lechia Gdansk,,1
+2006-09-09T16:00:00,Zaglebie Sosnowiec,,3,Unia Janikowo,,0
+2006-09-08T19:00:00,Ostrowiec Swietokrzyski,,1,S. Wola,,0
+2006-09-08T19:00:00,Piast Gliwice,,2,Ruch Chorzow,,3
+2006-09-08T16:00:00,LKS Lomza,,1,Zawisza,,3
+2006-09-05T19:30:00,Zawisza,,0,Legnica,,1
+2006-09-03T17:00:00,Podbeskidzie,,0,Odra Opole,,0
+2006-09-03T17:00:00,Unia Janikowo,,2,Slask Wroclaw,,0
+2006-09-03T16:30:00,Jagiellonia,,3,LKS Lomza,,2
+2006-09-03T14:40:00,S. Wola,,0,Zaglebie Sosnowiec,,0
+2006-09-02T18:00:00,Ruch Chorzow,,2,Ostrowiec Swietokrzyski,,1
+2006-09-02T17:00:00,Polkowice,,3,Polonia Warszawa,,0
+2006-09-02T14:00:00,Lechia Gdansk,0,1,Polonia Bytom,1,1
+2006-08-30T20:00:00,Piast Gliwice,,0,Zawisza,,2
+2006-08-30T19:00:00,Odra Opole,,0,Lechia Gdansk,,2
+2006-08-30T19:00:00,Ostrowiec Swietokrzyski,,0,Kmita Zabierzow,,0
+2006-08-30T19:00:00,Polkowice,,1,Jagiellonia,,0
+2006-08-30T18:00:00,Polonia Warszawa,,2,Podbeskidzie,,0
+2006-08-30T17:00:00,Legnica,,0,LKS Lomza,,0
+2006-08-30T17:00:00,Polonia Bytom,,3,Unia Janikowo,,1
+2006-08-30T17:00:00,Zaglebie Sosnowiec,,2,Ruch Chorzow,,1
+2006-08-27T17:00:00,Kmita Zabierzow,,3,Zaglebie Sosnowiec,,2
+2006-08-27T17:00:00,Lechia Gdansk,1,2,Polonia Warszawa,0,0
+2006-08-26T20:00:00,Zawisza,,3,Ostrowiec Swietokrzyski,,1
+2006-08-26T19:00:00,Ruch Chorzow,,3,Slask Wroclaw,,0
+2006-08-26T17:00:00,Podbeskidzie,,0,Polkowice,,1
+2006-08-26T17:00:00,S. Wola,,0,Polonia Bytom,,5
+2006-08-26T17:00:00,Unia Janikowo,,2,Odra Opole,,3
+2006-08-26T14:00:00,Legnica,,1,Jagiellonia,,1
+2006-08-25T20:00:00,LKS Lomza,,0,Piast Gliwice,,1
+2006-08-20T14:30:00,Piast Gliwice,,3,Legnica,,1
+2006-08-19T19:00:00,Odra Opole,,0,S. Wola,,1
+2006-08-19T19:00:00,Ostrowiec Swietokrzyski,,1,LKS Lomza,,1
+2006-08-19T17:00:00,Jagiellonia,,2,Podbeskidzie,,0
+2006-08-19T17:00:00,Polkowice,,3,Lechia Gdansk,,1
+2006-08-19T17:00:00,Polonia Bytom,,0,Ruch Chorzow,,0
+2006-08-19T17:00:00,Polonia Warszawa,,2,Unia Janikowo,,2
+2006-08-19T17:00:00,Slask Wroclaw,,2,Kmita Zabierzow,,0
+2006-08-19T17:00:00,Zaglebie Sosnowiec,,0,Zawisza,,1
+2006-08-15T17:00:00,Slask Wroclaw,,0,LKS Lomza,,0
+2006-08-13T17:00:00,Kmita Zabierzow,,3,Polonia Bytom,,3
+2006-08-12T17:00:00,Lechia Gdansk,2,3,Podbeskidzie,1,1
+2006-08-12T17:00:00,LKS Lomza,,0,Zaglebie Sosnowiec,,3
+2006-08-12T17:00:00,S. Wola,,1,Polonia Warszawa,,0
+2006-08-12T17:00:00,Unia Janikowo,,0,Polkowice,,0
+2006-08-12T16:00:00,Legnica,,1,Ostrowiec Swietokrzyski,,2
+2006-08-11T20:00:00,Piast Gliwice,,0,Jagiellonia,,2
+2006-08-11T20:00:00,Zawisza,,2,Slask Wroclaw,,0
+2006-08-11T19:00:00,Ruch Chorzow,,1,Odra Opole,,0
+2006-08-05T18:00:00,Jagiellonia,,2,Lechia Gdansk,,1
+2006-08-05T17:00:00,Podbeskidzie,,1,Unia Janikowo,,0
+2006-08-05T17:00:00,Polonia Bytom,,0,Zawisza,,1
+2006-08-05T17:00:00,Polonia Warszawa,,3,Ruch Chorzow,,4
+2006-08-05T17:00:00,Zaglebie Sosnowiec,,2,Legnica,,1
+2006-08-04T20:00:00,Odra Opole,,3,Kmita Zabierzow,,2
+2006-08-04T19:00:00,Ostrowiec Swietokrzyski,,1,Piast Gliwice,,0
+2006-08-04T19:00:00,Polkowice,,2,S. Wola,,2
+2006-07-30T19:00:00,Polkowice,,1,Ruch Chorzow,,1
+2006-07-30T17:00:00,Kmita Zabierzow,,0,Polonia Warszawa,,1
+2006-07-30T17:00:00,S. Wola,,3,Podbeskidzie,,1
+2006-07-30T14:40:00,Ostrowiec Swietokrzyski,,0,Jagiellonia,,2
+2006-07-29T17:00:00,Unia Janikowo,,2,Lechia Gdansk,,2
+2006-07-29T16:00:00,Legnica,,0,Slask Wroclaw,,2
+2006-07-28T20:00:00,Piast Gliwice,,4,Zaglebie Sosnowiec,,0
+2006-07-28T20:00:00,Zawisza,,1,Odra Opole,,0

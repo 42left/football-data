@@ -1,0 +1,309 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2018-06-13T17:00:00,Pogon Siedlce,0,1,Garbarnia,1,2
+2018-06-09T17:00:00,Garbarnia,1,1,Pogon Siedlce,0,1
+2018-06-03T12:45:00,Chojniczanka,3,4,Bytovia Bytow,0,0
+2018-06-03T12:45:00,Chrobry Glogow,0,0,Stomil Olsztyn,0,1
+2018-06-03T12:45:00,GKS Katowice,0,1,Leczna,0,0
+2018-06-03T12:45:00,Puszcza,0,1,Legnica,0,1
+2018-06-03T12:45:00,Rakow,0,1,Pogon Siedlce,0,1
+2018-06-03T12:45:00,Stal Mielec,0,0,Podbeskidzie,3,4
+2018-06-03T12:45:00,Suwalki,2,6,Ruch Chorzow,0,0
+2018-06-03T12:45:00,Zaglebie Sosnowiec,0,0,Tychy,0,2
+2018-06-02T15:00:00,Odra Opole,0,1,Ol. Grudziadz,0,0
+2018-05-27T12:45:00,Bytovia Bytow,0,3,Chrobry Glogow,2,3
+2018-05-27T12:45:00,Leczna,2,2,Rakow,1,1
+2018-05-27T12:45:00,Legnica,2,5,Chojniczanka,0,1
+2018-05-27T12:45:00,Ol. Grudziadz,1,1,GKS Katowice,0,1
+2018-05-27T12:45:00,Podbeskidzie,0,1,Suwalki,0,0
+2018-05-27T12:45:00,Pogon Siedlce,0,0,Puszcza,0,0
+2018-05-27T12:45:00,Ruch Chorzow,0,0,Zaglebie Sosnowiec,1,1
+2018-05-27T12:45:00,Stomil Olsztyn,0,1,Stal Mielec,0,0
+2018-05-27T12:45:00,Tychy,1,3,Odra Opole,0,0
+2018-05-20T17:00:00,Puszcza,1,2,Leczna,0,0
+2018-05-19T20:00:00,Legnica,2,2,Pogon Siedlce,0,0
+2018-05-19T20:00:00,Stal Mielec,1,2,Bytovia Bytow,0,2
+2018-05-19T19:21:00,Rakow,0,0,Ol. Grudziadz,0,0
+2018-05-19T18:00:00,Chojniczanka,1,3,Chrobry Glogow,0,0
+2018-05-19T18:00:00,Zaglebie Sosnowiec,1,2,Podbeskidzie,0,0
+2018-05-19T16:00:00,Suwalki,0,1,Stomil Olsztyn,1,2
+2018-05-19T15:00:00,GKS Katowice,1,1,Tychy,0,2
+2018-05-18T20:45:00,Odra Opole,0,0,Ruch Chorzow,2,3
+2018-05-14T18:00:00,Tychy,0,0,Rakow,3,3
+2018-05-13T19:00:00,Leczna,0,1,Legnica,0,1
+2018-05-13T17:45:00,Chrobry Glogow,2,3,Stal Mielec,2,5
+2018-05-13T17:00:00,Pogon Siedlce,2,3,Chojniczanka,1,2
+2018-05-12T19:23:00,Ol. Grudziadz,0,0,Puszcza,0,0
+2018-05-12T19:00:00,Stomil Olsztyn,0,0,Zaglebie Sosnowiec,1,2
+2018-05-12T18:00:00,Bytovia Bytow,1,1,Suwalki,2,2
+2018-05-12T18:00:00,Podbeskidzie,0,1,Odra Opole,0,2
+2018-05-12T17:45:00,Ruch Chorzow,1,1,GKS Katowice,0,0
+2018-05-09T20:30:00,GKS Katowice,0,3,Podbeskidzie,0,0
+2018-05-09T20:00:00,Chojniczanka,1,1,Stal Mielec,0,0
+2018-05-09T20:00:00,Legnica,0,2,Ol. Grudziadz,1,1
+2018-05-09T19:45:00,Odra Opole,0,2,Stomil Olsztyn,2,4
+2018-05-09T19:00:00,Pogon Siedlce,1,1,Leczna,0,1
+2018-05-09T18:00:00,Rakow,2,2,Ruch Chorzow,0,1
+2018-05-09T18:00:00,Zaglebie Sosnowiec,1,2,Bytovia Bytow,0,1
+2018-05-09T17:30:00,Suwalki,1,1,Chrobry Glogow,0,1
+2018-05-09T17:00:00,Puszcza,0,1,Tychy,1,2
+2018-05-05T19:00:00,Ol. Grudziadz,2,4,Pogon Siedlce,0,2
+2018-05-05T19:00:00,Stomil Olsztyn,0,1,GKS Katowice,0,0
+2018-05-05T18:00:00,Podbeskidzie,0,1,Rakow,0,1
+2018-05-05T18:00:00,Ruch Chorzow,0,0,Puszcza,2,2
+2018-05-05T16:00:00,Leczna,1,3,Chojniczanka,0,0
+2018-05-05T15:00:00,Chrobry Glogow,1,1,Zaglebie Sosnowiec,2,2
+2018-05-04T20:45:00,Tychy,0,1,Legnica,0,0
+2018-05-04T20:00:00,Stal Mielec,0,3,Suwalki,0,0
+2018-05-04T18:00:00,Bytovia Bytow,0,1,Odra Opole,0,0
+2018-04-29T19:00:00,Chojniczanka,2,3,Suwalki,0,0
+2018-04-29T18:00:00,GKS Katowice,0,0,Bytovia Bytow,0,0
+2018-04-29T17:00:00,Puszcza,1,1,Podbeskidzie,2,3
+2018-04-29T13:15:00,Rakow,1,2,Stomil Olsztyn,1,1
+2018-04-28T19:00:00,Leczna,2,2,Ol. Grudziadz,0,0
+2018-04-28T17:00:00,Pogon Siedlce,0,0,Tychy,1,1
+2018-04-28T15:30:00,Zaglebie Sosnowiec,2,3,Stal Mielec,1,1
+2018-04-28T15:00:00,Legnica,3,6,Ruch Chorzow,1,1
+2018-04-27T20:45:00,Odra Opole,1,1,Chrobry Glogow,0,1
+2018-04-25T18:00:00,Bytovia Bytow,0,1,Tychy,0,0
+2018-04-25T18:00:00,Chojniczanka,0,0,Rakow,0,1
+2018-04-25T17:00:00,Puszcza,1,1,GKS Katowice,0,0
+2018-04-24T19:00:00,Ol. Grudziadz,0,2,Stal Mielec,2,2
+2018-04-24T19:00:00,Stomil Olsztyn,2,2,Ruch Chorzow,1,2
+2018-04-24T17:00:00,Leczna,1,2,Chrobry Glogow,0,1
+2018-04-22T15:30:00,Suwalki,0,1,Zaglebie Sosnowiec,0,0
+2018-04-21T18:00:00,Bytovia Bytow,1,1,Rakow,0,0
+2018-04-21T18:00:00,Podbeskidzie,0,0,Legnica,0,0
+2018-04-21T17:45:00,Chrobry Glogow,0,0,GKS Katowice,1,2
+2018-04-21T13:00:00,Ol. Grudziadz,0,0,Chojniczanka,0,1
+2018-04-21T12:30:00,Stomil Olsztyn,1,2,Puszcza,0,0
+2018-04-20T20:45:00,Stal Mielec,0,2,Odra Opole,0,2
+2018-04-20T19:00:00,Tychy,0,2,Leczna,0,0
+2018-04-20T18:00:00,Ruch Chorzow,0,0,Pogon Siedlce,0,6
+2018-04-18T19:00:00,Chojniczanka,0,0,GKS Katowice,1,2
+2018-04-15T19:00:00,Leczna,0,0,Ruch Chorzow,0,0
+2018-04-15T17:45:00,Rakow,0,1,Chrobry Glogow,2,3
+2018-04-15T17:00:00,Puszcza,2,2,Bytovia Bytow,0,0
+2018-04-15T16:00:00,Pogon Siedlce,0,0,Podbeskidzie,0,0
+2018-04-14T20:00:00,Legnica,0,1,Stomil Olsztyn,0,0
+2018-04-14T19:45:00,Odra Opole,0,0,Suwalki,0,0
+2018-04-14T19:00:00,Ol. Grudziadz,0,0,Tychy,0,1
+2018-04-14T17:45:00,GKS Katowice,0,0,Stal Mielec,0,2
+2018-04-14T17:00:00,Chojniczanka,0,0,Zaglebie Sosnowiec,2,2
+2018-04-11T19:00:00,Stal Mielec,0,1,Legnica,1,1
+2018-04-11T19:00:00,Stomil Olsztyn,1,1,Ol. Grudziadz,0,1
+2018-04-11T19:00:00,Zaglebie Sosnowiec,2,2,Rakow,0,0
+2018-04-11T18:30:00,Chrobry Glogow,2,3,Pogon Siedlce,1,1
+2018-04-11T18:00:00,Bytovia Bytow,2,2,Leczna,0,1
+2018-04-11T18:00:00,Podbeskidzie,0,1,Tychy,0,1
+2018-04-11T18:00:00,Ruch Chorzow,1,1,Chojniczanka,1,1
+2018-04-11T17:00:00,Suwalki,0,1,Puszcza,0,0
+2018-04-08T17:45:00,Zaglebie Sosnowiec,1,1,Odra Opole,0,0
+2018-04-07T18:00:00,Bytovia Bytow,0,0,Legnica,1,2
+2018-04-07T18:00:00,Chrobry Glogow,1,3,Puszcza,1,1
+2018-04-07T18:00:00,Ruch Chorzow,0,0,Ol. Grudziadz,0,0
+2018-04-07T18:00:00,Suwalki,0,0,GKS Katowice,1,2
+2018-04-07T18:00:00,Tychy,2,2,Chojniczanka,1,2
+2018-04-07T17:45:00,Stal Mielec,1,2,Rakow,2,3
+2018-04-07T17:00:00,Stomil Olsztyn,0,0,Pogon Siedlce,1,2
+2018-04-06T19:00:00,Podbeskidzie,0,0,Leczna,0,0
+2018-04-04T19:21:00,Rakow,0,0,Odra Opole,0,0
+2018-04-04T18:00:00,Stomil Olsztyn,1,1,Suwalki,1,2
+2018-03-31T20:15:00,GKS Katowice,0,1,Zaglebie Sosnowiec,0,0
+2018-03-31T18:00:00,Ol. Grudziadz,0,0,Podbeskidzie,0,0
+2018-03-31T17:45:00,Tychy,1,2,Ruch Chorzow,0,0
+2018-03-31T17:00:00,Chojniczanka,1,2,Odra Opole,0,1
+2018-03-31T16:00:00,Legnica,1,1,Chrobry Glogow,0,1
+2018-03-31T15:00:00,Pogon Siedlce,1,1,Bytovia Bytow,1,1
+2018-03-31T15:00:00,Puszcza,0,0,Stal Mielec,0,0
+2018-03-31T12:30:00,Leczna,1,1,Stomil Olsztyn,0,1
+2018-03-31T12:00:00,Rakow,0,0,Suwalki,0,1
+2018-03-25T17:45:00,Odra Opole,1,1,GKS Katowice,1,2
+2018-03-17T18:00:00,Ol. Grudziadz,1,2,Bytovia Bytow,0,1
+2018-03-17T18:00:00,Ruch Chorzow,0,0,Podbeskidzie,1,2
+2018-03-17T17:45:00,Tychy,0,1,Stomil Olsztyn,0,0
+2018-03-17T17:00:00,Pogon Siedlce,0,1,Stal Mielec,0,2
+2018-03-17T14:00:00,Puszcza,0,1,Zaglebie Sosnowiec,0,1
+2018-03-16T20:45:00,Legnica,0,2,Suwalki,0,0
+2018-03-10T18:00:00,Chrobry Glogow,2,3,Ol. Grudziadz,2,2
+2018-03-10T18:00:00,Podbeskidzie,0,0,Chojniczanka,0,0
+2018-03-10T17:45:00,GKS Katowice,2,2,Rakow,0,1
+2018-03-10T16:00:00,Suwalki,0,2,Pogon Siedlce,0,0
+2018-03-10T15:00:00,Odra Opole,0,0,Puszcza,0,0
+2018-03-09T20:45:00,Stal Mielec,0,1,Leczna,0,0
+2018-03-09T19:00:00,Zaglebie Sosnowiec,0,0,Legnica,1,2
+2018-03-04T17:00:00,Ruch Chorzow,2,2,Bytovia Bytow,0,0
+2018-03-03T17:45:00,Podbeskidzie,0,1,Stomil Olsztyn,0,0
+2018-03-03T17:00:00,Leczna,0,0,Suwalki,1,1
+2018-03-03T17:00:00,Pogon Siedlce,0,0,Zaglebie Sosnowiec,0,1
+2018-03-03T17:00:00,Tychy,2,2,Chrobry Glogow,0,1
+2018-03-02T20:45:00,Legnica,2,3,Odra Opole,1,1
+2017-11-26T16:00:00,Suwalki,0,1,Ol. Grudziadz,0,0
+2017-11-26T15:00:00,Chrobry Glogow,0,1,Ruch Chorzow,0,0
+2017-11-26T13:00:00,Rakow,1,3,Puszcza,0,1
+2017-11-25T18:00:00,Bytovia Bytow,0,1,Podbeskidzie,0,1
+2017-11-25T17:45:00,Stal Mielec,1,3,Tychy,0,0
+2017-11-25T16:00:00,GKS Katowice,0,1,Legnica,0,0
+2017-11-25T13:00:00,Odra Opole,0,1,Pogon Siedlce,1,1
+2017-11-24T20:45:00,Zaglebie Sosnowiec,1,2,Leczna,1,2
+2017-11-24T18:00:00,Stomil Olsztyn,0,0,Chojniczanka,1,1
+2017-11-22T18:00:00,Ruch Chorzow,1,2,Suwalki,2,2
+2017-11-21T17:30:00,Podbeskidzie,0,2,Stal Mielec,2,3
+2017-11-19T17:45:00,Legnica,1,1,Rakow,1,1
+2017-11-19T12:00:00,Leczna,0,0,Odra Opole,2,3
+2017-11-18T17:00:00,Pogon Siedlce,1,1,GKS Katowice,1,1
+2017-11-18T17:00:00,Tychy,0,0,Suwalki,2,3
+2017-11-18T16:00:00,Chojniczanka,0,1,Puszcza,1,1
+2017-11-18T16:00:00,Ol. Grudziadz,0,0,Zaglebie Sosnowiec,0,1
+2017-11-17T20:45:00,Ruch Chorzow,0,1,Stal Mielec,1,2
+2017-11-17T18:00:00,Podbeskidzie,0,1,Chrobry Glogow,0,0
+2017-11-17T18:00:00,Stomil Olsztyn,0,0,Bytovia Bytow,0,1
+2017-11-12T17:00:00,Legnica,0,2,Puszcza,2,2
+2017-11-12T16:00:00,Bytovia Bytow,0,0,Chojniczanka,1,3
+2017-11-12T16:00:00,Pogon Siedlce,0,0,Rakow,1,3
+2017-11-12T15:00:00,Stomil Olsztyn,1,1,Chrobry Glogow,0,2
+2017-11-12T12:45:00,Tychy,1,1,Zaglebie Sosnowiec,1,1
+2017-11-12T12:00:00,Leczna,1,1,GKS Katowice,0,3
+2017-11-11T16:00:00,Ol. Grudziadz,0,0,Odra Opole,1,2
+2017-11-05T16:00:00,Chrobry Glogow,0,0,Bytovia Bytow,0,0
+2017-11-04T18:00:00,GKS Katowice,0,2,Ol. Grudziadz,0,0
+2017-11-04T16:00:00,Chojniczanka,0,0,Legnica,0,0
+2017-11-04T16:00:00,Suwalki,2,3,Podbeskidzie,0,0
+2017-11-04T14:00:00,Rakow,1,3,Leczna,0,1
+2017-11-04T13:00:00,Puszcza,1,2,Pogon Siedlce,1,3
+2017-11-04T12:30:00,Odra Opole,1,1,Tychy,0,0
+2017-11-03T20:45:00,Zaglebie Sosnowiec,,3,Ruch Chorzow,,0
+2017-11-03T18:00:00,Stal Mielec,1,1,Stomil Olsztyn,2,3
+2017-10-29T18:00:00,Ruch Chorzow,1,3,Odra Opole,0,1
+2017-10-29T17:00:00,Chrobry Glogow,0,0,Chojniczanka,0,0
+2017-10-28T18:00:00,Bytovia Bytow,0,0,Stal Mielec,0,0
+2017-10-28T18:00:00,Ol. Grudziadz,1,1,Rakow,0,2
+2017-10-28T17:45:00,Tychy,1,1,GKS Katowice,0,0
+2017-10-28T17:00:00,Pogon Siedlce,2,2,Legnica,1,3
+2017-10-28T13:00:00,Leczna,0,0,Puszcza,1,1
+2017-10-27T20:45:00,Podbeskidzie,0,0,Zaglebie Sosnowiec,0,0
+2017-10-22T17:45:00,GKS Katowice,0,1,Ruch Chorzow,2,2
+2017-10-22T17:00:00,Zaglebie Sosnowiec,0,5,Stomil Olsztyn,1,1
+2017-10-22T15:00:00,Puszcza,2,2,Ol. Grudziadz,1,1
+2017-10-21T18:00:00,Legnica,0,0,Leczna,0,0
+2017-10-21T18:00:00,Stal Mielec,1,3,Chrobry Glogow,0,0
+2017-10-21T17:00:00,Chojniczanka,0,0,Pogon Siedlce,1,2
+2017-10-21T17:00:00,Suwalki,0,2,Bytovia Bytow,1,2
+2017-10-21T15:00:00,Odra Opole,1,2,Podbeskidzie,1,2
+2017-10-21T12:30:00,Rakow,1,2,Tychy,0,2
+2017-10-18T20:00:00,GKS Katowice,1,3,Stomil Olsztyn,0,1
+2017-10-18T19:00:00,Pogon Siedlce,0,1,Ol. Grudziadz,0,1
+2017-10-18T19:00:00,Zaglebie Sosnowiec,1,2,Chrobry Glogow,0,1
+2017-10-18T15:00:00,Puszcza,2,2,Ruch Chorzow,1,1
+2017-10-18T15:00:00,Rakow,0,1,Podbeskidzie,1,1
+2017-10-14T18:00:00,Bytovia Bytow,2,2,Zaglebie Sosnowiec,2,2
+2017-10-14T18:00:00,Ol. Grudziadz,0,0,Legnica,0,1
+2017-10-14T17:45:00,Podbeskidzie,1,1,GKS Katowice,1,2
+2017-10-14T17:15:00,Stomil Olsztyn,1,2,Odra Opole,0,0
+2017-10-14T17:00:00,Chrobry Glogow,2,3,Suwalki,0,3
+2017-10-14T17:00:00,Tychy,0,1,Puszcza,0,1
+2017-10-14T13:00:00,Leczna,0,1,Pogon Siedlce,0,1
+2017-10-13T20:45:00,Stal Mielec,1,1,Chojniczanka,1,2
+2017-10-13T18:00:00,Ruch Chorzow,0,1,Rakow,0,0
+2017-10-07T17:00:00,Chojniczanka,0,0,Leczna,0,0
+2017-10-07T17:00:00,Suwalki,0,2,Stal Mielec,0,0
+2017-10-07T12:30:00,Odra Opole,0,1,Bytovia Bytow,0,0
+2017-10-06T19:00:00,Legnica,1,2,Tychy,1,1
+2017-10-01T19:00:00,Ol. Grudziadz,0,1,Leczna,0,0
+2017-10-01T18:00:00,Suwalki,0,0,Chojniczanka,1,2
+2017-09-30T18:00:00,Bytovia Bytow,0,1,GKS Katowice,1,2
+2017-09-30T18:00:00,Podbeskidzie,1,2,Puszcza,0,1
+2017-09-30T18:00:00,Stal Mielec,0,1,Zaglebie Sosnowiec,1,1
+2017-09-30T18:00:00,Tychy,0,2,Pogon Siedlce,1,3
+2017-09-30T17:45:00,Chrobry Glogow,1,2,Odra Opole,0,0
+2017-09-30T17:00:00,Stomil Olsztyn,1,1,Rakow,2,3
+2017-09-29T20:45:00,Ruch Chorzow,0,1,Legnica,0,0
+2017-09-27T18:00:00,Suwalki,0,0,Rakow,1,3
+2017-09-24T16:00:00,Pogon Siedlce,0,1,Ruch Chorzow,0,3
+2017-09-23T19:00:00,Legnica,0,0,Podbeskidzie,1,2
+2017-09-23T18:00:00,Zaglebie Sosnowiec,0,0,Suwalki,0,1
+2017-09-23T17:00:00,Chojniczanka,0,0,Ol. Grudziadz,0,0
+2017-09-23T16:00:00,Leczna,0,1,Tychy,0,0
+2017-09-23T16:00:00,Puszcza,0,3,Stomil Olsztyn,1,1
+2017-09-23T16:00:00,Rakow,1,3,Bytovia Bytow,0,1
+2017-09-23T12:45:00,Odra Opole,0,1,Stal Mielec,0,0
+2017-09-22T20:45:00,GKS Katowice,2,2,Chrobry Glogow,0,2
+2017-09-18T19:00:00,Ruch Chorzow,0,1,Leczna,0,2
+2017-09-17T15:00:00,Tychy,1,2,Ol. Grudziadz,0,1
+2017-09-17T12:30:00,Stal Mielec,3,3,GKS Katowice,0,2
+2017-09-16T19:00:00,Stomil Olsztyn,1,2,Legnica,0,0
+2017-09-16T18:00:00,Bytovia Bytow,0,1,Puszcza,0,0
+2017-09-16T18:00:00,Podbeskidzie,1,2,Pogon Siedlce,0,0
+2017-09-16T18:00:00,Suwalki,1,2,Odra Opole,1,1
+2017-09-16T18:00:00,Zaglebie Sosnowiec,1,1,Chojniczanka,1,3
+2017-09-16T14:45:00,Chrobry Glogow,1,2,Rakow,3,3
+2017-09-14T18:00:00,Ruch Chorzow,1,2,Tychy,0,2
+2017-09-13T19:00:00,Podbeskidzie,1,3,Ol. Grudziadz,0,0
+2017-09-13T19:00:00,Stal Mielec,0,1,Puszcza,1,1
+2017-09-13T18:00:00,Zaglebie Sosnowiec,0,3,GKS Katowice,0,0
+2017-09-10T17:00:00,Chojniczanka,3,3,Tychy,0,0
+2017-09-09T18:00:00,GKS Katowice,0,0,Suwalki,1,1
+2017-09-09T18:00:00,Pogon Siedlce,1,1,Stomil Olsztyn,0,0
+2017-09-09T16:00:00,Odra Opole,0,1,Zaglebie Sosnowiec,0,0
+2017-09-09T16:00:00,Rakow,0,1,Stal Mielec,1,2
+2017-09-09T14:45:00,Leczna,0,1,Podbeskidzie,0,0
+2017-09-08T20:45:00,Legnica,0,2,Bytovia Bytow,0,1
+2017-09-08T19:00:00,Ol. Grudziadz,0,1,Ruch Chorzow,0,0
+2017-09-08T16:30:00,Puszcza,0,0,Chrobry Glogow,1,1
+2017-09-03T12:30:00,Chrobry Glogow,1,1,Legnica,1,2
+2017-09-02T19:00:00,Stomil Olsztyn,0,2,Leczna,1,1
+2017-09-02T18:00:00,Bytovia Bytow,2,4,Pogon Siedlce,0,1
+2017-09-02T15:00:00,Odra Opole,2,2,Chojniczanka,1,1
+2017-08-28T19:00:00,Pogon Siedlce,1,1,Chrobry Glogow,1,1
+2017-08-27T20:00:00,Legnica,0,0,Stal Mielec,0,0
+2017-08-27T17:00:00,Chojniczanka,0,4,Ruch Chorzow,0,3
+2017-08-27T17:00:00,Leczna,0,1,Bytovia Bytow,1,1
+2017-08-27T17:00:00,Ol. Grudziadz,1,1,Stomil Olsztyn,1,1
+2017-08-27T14:45:00,GKS Katowice,0,1,Odra Opole,0,1
+2017-08-26T17:00:00,Puszcza,0,2,Suwalki,0,1
+2017-08-26T17:00:00,Rakow,0,2,Zaglebie Sosnowiec,2,2
+2017-08-25T20:45:00,Tychy,1,3,Podbeskidzie,1,3
+2017-08-23T20:45:00,GKS Katowice,1,1,Chojniczanka,0,0
+2017-08-23T19:00:00,Bytovia Bytow,0,0,Ol. Grudziadz,1,1
+2017-08-23T19:00:00,Chrobry Glogow,0,2,Leczna,0,0
+2017-08-23T19:00:00,Stal Mielec,2,2,Pogon Siedlce,2,3
+2017-08-23T19:00:00,Zaglebie Sosnowiec,1,1,Puszcza,0,0
+2017-08-23T18:00:00,Suwalki,0,0,Legnica,1,2
+2017-08-23T17:00:00,Odra Opole,0,1,Rakow,0,0
+2017-08-22T20:45:00,Podbeskidzie,1,1,Ruch Chorzow,0,0
+2017-08-22T19:00:00,Stomil Olsztyn,2,2,Tychy,0,0
+2017-08-19T17:00:00,Ol. Grudziadz,0,0,Chrobry Glogow,0,1
+2017-08-19T17:00:00,Pogon Siedlce,0,0,Suwalki,0,0
+2017-08-19T17:00:00,Puszcza,1,1,Odra Opole,0,1
+2017-08-19T17:00:00,Rakow,0,1,GKS Katowice,2,3
+2017-08-19T14:45:00,Tychy,1,1,Bytovia Bytow,0,0
+2017-08-18T20:45:00,Leczna,0,3,Stal Mielec,2,4
+2017-08-18T20:45:00,Ruch Chorzow,2,3,Stomil Olsztyn,0,1
+2017-08-18T20:00:00,Chojniczanka,4,4,Podbeskidzie,0,0
+2017-08-18T20:00:00,Legnica,3,4,Zaglebie Sosnowiec,0,1
+2017-08-13T20:00:00,Zaglebie Sosnowiec,1,1,Pogon Siedlce,0,0
+2017-08-13T19:47:00,Suwalki,0,0,Leczna,0,0
+2017-08-13T19:00:00,Stal Mielec,1,1,Ol. Grudziadz,0,0
+2017-08-13T17:00:00,Chrobry Glogow,0,1,Tychy,0,0
+2017-08-12T19:00:00,Bytovia Bytow,0,2,Ruch Chorzow,1,1
+2017-08-12T17:30:00,Rakow,0,0,Chojniczanka,0,1
+2017-08-12T12:30:00,Odra Opole,1,2,Legnica,1,4
+2017-08-11T20:45:00,GKS Katowice,0,1,Puszcza,0,2
+2017-08-11T19:00:00,Stomil Olsztyn,0,3,Podbeskidzie,0,1
+2017-08-06T17:00:00,Puszcza,2,2,Rakow,3,3
+2017-08-05T20:00:00,Legnica,0,1,GKS Katowice,0,1
+2017-08-05T18:00:00,Chojniczanka,1,3,Stomil Olsztyn,0,0
+2017-08-05T18:00:00,Ol. Grudziadz,2,2,Suwalki,0,0
+2017-08-05T18:00:00,Podbeskidzie,0,0,Bytovia Bytow,0,2
+2017-08-05T17:45:00,Tychy,0,1,Stal Mielec,0,0
+2017-08-05T17:00:00,Leczna,0,2,Zaglebie Sosnowiec,0,1
+2017-08-05T17:00:00,Pogon Siedlce,0,1,Odra Opole,1,2
+2017-08-04T20:45:00,Ruch Chorzow,0,0,Chrobry Glogow,0,1
+2017-07-30T19:47:00,Suwalki,1,1,Tychy,1,2
+2017-07-29T19:00:00,Bytovia Bytow,1,3,Stomil Olsztyn,1,1
+2017-07-29T19:00:00,Chrobry Glogow,0,1,Podbeskidzie,1,1
+2017-07-29T19:00:00,GKS Katowice,1,1,Pogon Siedlce,0,2
+2017-07-29T18:00:00,Rakow,0,0,Legnica,0,0
+2017-07-29T17:00:00,Odra Opole,2,3,Leczna,0,0
+2017-07-29T17:00:00,Puszcza,1,2,Chojniczanka,0,0
+2017-07-29T15:30:00,Zaglebie Sosnowiec,0,0,Ol. Grudziadz,0,1
+2017-07-28T20:45:00,Stal Mielec,0,1,Ruch Chorzow,0,0

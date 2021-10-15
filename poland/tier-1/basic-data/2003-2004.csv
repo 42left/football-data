@@ -1,0 +1,185 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2004-06-26T17:00:00,Polkowice,,0,Cracovia,,4
+2004-06-19T15:30:00,Cracovia,,4,Polkowice,,0
+2004-06-11T19:00:00,GKS Katowice,,2,Legia,,4
+2004-06-11T19:00:00,Lech Poznan,,2,Wisla,,2
+2004-06-11T19:00:00,Leczna,,1,Amica Wronki,,0
+2004-06-11T19:00:00,Polonia Warszawa,,2,Gornik Z.,,0
+2004-06-11T19:00:00,Swit,,0,Polkowice,,0
+2004-06-11T19:00:00,Widzew Lodz,,0,Groclin,,1
+2004-06-08T19:00:00,Amica Wronki,,2,Odra Wodzislaw,,1
+2004-06-08T19:00:00,Gornik Z.,,0,Leczna,,1
+2004-06-08T19:00:00,Groclin,,3,Swit,,1
+2004-06-08T19:00:00,Legia,,6,Widzew Lodz,,0
+2004-06-08T19:00:00,Polkowice,,0,Lech Poznan,,2
+2004-06-08T19:00:00,Wisla,,4,Polonia Warszawa,,1
+2004-06-08T19:00:00,Wisla Plock,,1,GKS Katowice,,1
+2004-05-30T19:00:00,Odra Wodzislaw,,1,Wisla Plock,,2
+2004-05-23T15:00:00,Widzew Lodz,,2,Wisla Plock,,1
+2004-05-22T20:00:00,Groclin,,2,Legia,,2
+2004-05-22T19:00:00,GKS Katowice,,0,Amica Wronki,,0
+2004-05-22T19:00:00,Odra Wodzislaw,,1,Gornik Z.,,2
+2004-05-22T19:00:00,Polonia Warszawa,,0,Polkowice,,1
+2004-05-22T19:00:00,Swit,,1,Lech Poznan,,0
+2004-05-21T20:00:00,Leczna,,0,Wisla,,1
+2004-05-16T20:45:00,Wisla,,2,Odra Wodzislaw,,1
+2004-05-15T19:00:00,Amica Wronki,,6,Widzew Lodz,,0
+2004-05-15T19:00:00,Gornik Z.,,1,GKS Katowice,,1
+2004-05-15T19:00:00,Polkowice,,2,Leczna,,0
+2004-05-15T18:30:00,Wisla Plock,,0,Groclin,,1
+2004-05-14T20:00:00,Lech Poznan,,1,Polonia Warszawa,,0
+2004-05-14T20:00:00,Legia,,3,Swit,,1
+2004-05-09T17:15:00,GKS Katowice,,0,Wisla,,2
+2004-05-08T20:15:00,Legia,,2,Wisla Plock,,0
+2004-05-08T19:00:00,Leczna,,1,Lech Poznan,,2
+2004-05-08T19:00:00,Odra Wodzislaw,,0,Polkowice,,1
+2004-05-08T19:00:00,Swit,,2,Polonia Warszawa,,1
+2004-05-08T19:00:00,Widzew Lodz,,1,Gornik Z.,,2
+2004-05-07T20:00:00,Groclin,,1,Amica Wronki,,1
+2004-05-03T19:00:00,Amica Wronki,,0,Legia,,1
+2004-05-03T19:00:00,Gornik Z.,,2,Groclin,,2
+2004-05-03T19:00:00,Lech Poznan,,2,Odra Wodzislaw,,0
+2004-05-03T19:00:00,Polkowice,,0,GKS Katowice,,0
+2004-05-03T19:00:00,Polonia Warszawa,,3,Leczna,,0
+2004-05-03T19:00:00,Wisla Plock,,2,Swit,,0
+2004-05-02T19:15:00,Wisla,,3,Widzew Lodz,,1
+2004-04-25T17:15:00,Legia,,2,Gornik Z.,,0
+2004-04-24T19:00:00,GKS Katowice,,1,Lech Poznan,,2
+2004-04-24T19:00:00,Odra Wodzislaw,,1,Polonia Warszawa,,0
+2004-04-24T19:00:00,Swit,,1,Leczna,,0
+2004-04-24T19:00:00,Widzew Lodz,,2,Polkowice,,0
+2004-04-24T18:15:00,Wisla Plock,,3,Amica Wronki,,1
+2004-04-23T20:00:00,Groclin,,1,Wisla,,6
+2004-04-18T17:15:00,Lech Poznan,,1,Widzew Lodz,,1
+2004-04-17T19:00:00,Amica Wronki,,2,Swit,,2
+2004-04-17T19:00:00,Gornik Z.,0,1,Wisla Plock,1,1
+2004-04-17T19:00:00,Leczna,,0,Odra Wodzislaw,,1
+2004-04-17T19:00:00,Polonia Warszawa,,1,GKS Katowice,,0
+2004-04-17T18:30:00,Wisla,,1,Legia,,0
+2004-04-16T19:00:00,Polkowice,,0,Groclin,,3
+2004-04-10T19:00:00,Amica Wronki,,2,Gornik Z.,,0
+2004-04-10T19:00:00,GKS Katowice,,1,Leczna,,1
+2004-04-10T19:00:00,Polonia Warszawa,,1,Widzew Lodz,,1
+2004-04-10T19:00:00,Swit,,3,Odra Wodzislaw,,1
+2004-04-10T19:00:00,Wisla Plock,,4,Wisla,,4
+2004-04-10T18:15:00,Groclin,,2,Lech Poznan,,4
+2004-04-08T19:00:00,Legia,,3,Polkowice,,0
+2004-04-04T17:30:00,Wisla,,2,Amica Wronki,,1
+2004-04-03T19:00:00,Gornik Z.,,1,Swit,,0
+2004-04-03T19:00:00,Leczna,,2,Widzew Lodz,,1
+2004-04-03T19:00:00,Odra Wodzislaw,,1,GKS Katowice,,0
+2004-04-03T19:00:00,Polkowice,,1,Wisla Plock,,2
+2004-04-03T19:00:00,Polonia Warszawa,,3,Groclin,,1
+2004-04-03T18:30:00,Lech Poznan,,0,Legia,,1
+2004-03-28T15:00:00,Groclin,,4,Leczna,,0
+2004-03-27T18:15:00,Gornik Z.,0,0,Wisla,2,4
+2004-03-27T18:00:00,Amica Wronki,,3,Polkowice,,0
+2004-03-27T18:00:00,Swit,,2,GKS Katowice,,1
+2004-03-27T18:00:00,Widzew Lodz,,0,Odra Wodzislaw,,1
+2004-03-27T18:00:00,Wisla Plock,,4,Lech Poznan,,4
+2004-03-26T20:00:00,Legia,,7,Polonia Warszawa,,2
+2004-03-24T18:30:00,Gornik Z.,0,0,Lech Poznan,0,0
+2004-03-21T16:00:00,Leczna,,0,Legia,,3
+2004-03-20T18:15:00,Odra Wodzislaw,,0,Groclin,,2
+2004-03-20T18:00:00,GKS Katowice,,2,Widzew Lodz,,0
+2004-03-20T18:00:00,Polkowice,,3,Gornik Z.,,1
+2004-03-20T18:00:00,Polonia Warszawa,,0,Wisla Plock,,0
+2004-03-20T18:00:00,Swit,,1,Wisla,,2
+2004-03-19T19:00:00,Lech Poznan,,0,Amica Wronki,,0
+2004-03-14T17:15:00,Groclin,,6,GKS Katowice,,0
+2004-03-13T18:15:00,Wisla,,2,Polkowice,,1
+2004-03-13T18:00:00,Polonia Warszawa,,1,Amica Wronki,,5
+2004-03-13T18:00:00,Swit,,0,Widzew Lodz,,0
+2004-03-13T18:00:00,Wisla Plock,,0,Leczna,,0
+2004-03-12T19:00:00,Legia,,2,Odra Wodzislaw,,1
+2003-11-23T17:15:00,Amica Wronki,,3,Leczna,,2
+2003-11-22T18:15:00,Wisla,,4,Lech Poznan,,2
+2003-11-22T18:00:00,Gornik Z.,,1,Polonia Warszawa,,0
+2003-11-22T18:00:00,Groclin,,2,Widzew Lodz,,0
+2003-11-22T18:00:00,Legia,,1,GKS Katowice,,0
+2003-11-22T18:00:00,Polkowice,,1,Swit,,0
+2003-11-22T18:00:00,Wisla Plock,,2,Odra Wodzislaw,,0
+2003-11-15T18:30:00,Polonia Warszawa,,1,Swit,,0
+2003-11-09T18:10:00,Polonia Warszawa,,2,Wisla,,5
+2003-11-09T15:30:00,Swit,,0,Groclin,,4
+2003-11-08T18:15:00,Odra Wodzislaw,,2,Amica Wronki,,2
+2003-11-08T18:00:00,GKS Katowice,,2,Wisla Plock,,0
+2003-11-08T18:00:00,Lech Poznan,,1,Polkowice,,0
+2003-11-08T18:00:00,Leczna,,0,Gornik Z.,,2
+2003-11-07T20:00:00,Widzew Lodz,,0,Legia,,1
+2003-11-04T18:30:00,Polonia Warszawa,,1,Odra Wodzislaw,,0
+2003-10-30T18:00:00,Wisla,,4,Leczna,,0
+2003-10-29T20:00:00,Legia,,1,Groclin,,1
+2003-10-29T19:00:00,Amica Wronki,,4,GKS Katowice,,0
+2003-10-29T19:00:00,Gornik Z.,,3,Odra Wodzislaw,,1
+2003-10-29T19:00:00,Lech Poznan,,5,Swit,,1
+2003-10-29T19:00:00,Polkowice,,0,Polonia Warszawa,,0
+2003-10-29T19:00:00,Wisla Plock,,3,Widzew Lodz,,1
+2003-10-26T17:15:00,Swit,,1,Legia,,3
+2003-10-25T20:15:00,GKS Katowice,,0,Gornik Z.,,0
+2003-10-25T18:00:00,Groclin,,2,Wisla Plock,,2
+2003-10-25T18:00:00,Leczna,,1,Polkowice,,0
+2003-10-25T18:00:00,Polonia Warszawa,,1,Lech Poznan,,1
+2003-10-25T18:00:00,Widzew Lodz,,2,Amica Wronki,,2
+2003-10-24T19:00:00,Odra Wodzislaw,,3,Wisla,,2
+2003-10-19T17:15:00,Wisla,,5,GKS Katowice,,0
+2003-10-18T18:15:00,Amica Wronki,,1,Groclin,,0
+2003-10-18T18:15:00,Gornik Z.,,3,Widzew Lodz,,3
+2003-10-18T18:15:00,Polkowice,,3,Odra Wodzislaw,,3
+2003-10-18T18:15:00,Wisla Plock,,2,Legia,,1
+2003-10-17T20:00:00,Lech Poznan,,5,Leczna,,1
+2003-10-05T17:15:00,Groclin,,0,Gornik Z.,,0
+2003-10-04T18:15:00,GKS Katowice,,1,Polkowice,,0
+2003-10-04T18:15:00,Leczna,,2,Polonia Warszawa,,1
+2003-10-04T18:15:00,Odra Wodzislaw,,2,Lech Poznan,,0
+2003-10-04T18:15:00,Swit,,1,Wisla Plock,,2
+2003-10-04T18:15:00,Widzew Lodz,,1,Wisla,,3
+2003-10-03T19:00:00,Legia,,3,Amica Wronki,,1
+2003-09-28T18:00:00,Wisla,,3,Groclin,,2
+2003-09-27T19:00:00,Amica Wronki,,3,Wisla Plock,,2
+2003-09-27T19:00:00,Polkowice,,2,Widzew Lodz,,3
+2003-09-27T18:15:00,Lech Poznan,,1,GKS Katowice,,2
+2003-09-27T18:15:00,Leczna,,1,Swit,,0
+2003-09-26T20:00:00,Gornik Z.,,2,Legia,,2
+2003-09-21T19:15:00,Widzew Lodz,,1,Lech Poznan,,1
+2003-09-20T19:00:00,GKS Katowice,,1,Polonia Warszawa,,1
+2003-09-20T19:00:00,Odra Wodzislaw,,2,Leczna,,0
+2003-09-20T19:00:00,Swit,,0,Amica Wronki,,1
+2003-09-20T19:00:00,Wisla Plock,,2,Gornik Z.,,1
+2003-09-20T16:30:00,Groclin,,4,Polkowice,,1
+2003-09-19T20:00:00,Legia,,4,Wisla,,1
+2003-09-14T00:00:00,Leczna,,4,GKS Katowice,,1
+2003-09-13T00:00:00,Gornik Z.,,1,Amica Wronki,,2
+2003-09-13T00:00:00,Lech Poznan,,1,Groclin,,3
+2003-09-13T00:00:00,Odra Wodzislaw,,2,Swit,,2
+2003-09-13T00:00:00,Widzew Lodz,,2,Polonia Warszawa,,1
+2003-09-13T00:00:00,Wisla,,3,Wisla Plock,,1
+2003-09-12T00:00:00,Polkowice,,0,Legia,,0
+2003-08-31T00:00:00,GKS Katowice,,2,Odra Wodzislaw,,0
+2003-08-31T00:00:00,Groclin,,2,Polonia Warszawa,,2
+2003-08-31T00:00:00,Wisla Plock,,3,Polkowice,,0
+2003-08-30T00:00:00,Amica Wronki,,2,Wisla,,0
+2003-08-30T00:00:00,Swit,,0,Gornik Z.,,0
+2003-08-30T00:00:00,Widzew Lodz,,0,Leczna,,1
+2003-08-29T20:00:00,Legia,,2,Lech Poznan,,1
+2003-08-24T00:00:00,Polonia Warszawa,,0,Legia,,1
+2003-08-23T00:00:00,GKS Katowice,,0,Swit,,0
+2003-08-23T00:00:00,Lech Poznan,,4,Wisla Plock,,1
+2003-08-23T00:00:00,Leczna,,1,Groclin,,0
+2003-08-23T00:00:00,Odra Wodzislaw,,1,Widzew Lodz,,0
+2003-08-23T00:00:00,Polkowice,,1,Amica Wronki,,0
+2003-08-22T20:00:00,Wisla,,2,Gornik Z.,,0
+2003-08-17T00:00:00,Groclin,,4,Odra Wodzislaw,,0
+2003-08-17T00:00:00,Widzew Lodz,,1,GKS Katowice,,2
+2003-08-17T00:00:00,Wisla Plock,,0,Polonia Warszawa,,0
+2003-08-16T20:15:00,Gornik Z.,,1,Polkowice,,0
+2003-08-16T20:15:00,Legia,,0,Leczna,,0
+2003-08-16T20:15:00,Wisla,,4,Swit,,0
+2003-08-15T20:00:00,Amica Wronki,,1,Lech Poznan,,0
+2003-08-10T00:00:00,Odra Wodzislaw,,1,Legia,,1
+2003-08-09T00:00:00,Amica Wronki,,2,Polonia Warszawa,,0
+2003-08-09T00:00:00,Lech Poznan,,1,Gornik Z.,,2
+2003-08-09T00:00:00,Leczna,,3,Wisla Plock,,1
+2003-08-09T00:00:00,Polkowice,,0,Wisla,,2
+2003-08-09T00:00:00,Widzew Lodz,,2,Swit,,2
+2003-08-08T20:00:00,GKS Katowice,,0,Groclin,,4

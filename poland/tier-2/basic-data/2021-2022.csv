@@ -1,0 +1,105 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2021-10-15T20:30:00,Korona Kielce,0,0,Widzew Lodz,1,1
+2021-10-15T18:00:00,Puszcza,2,3,Odra Opole,0,0
+2021-10-10T18:00:00,Widzew Lodz,2,3,GKS Jastrzebie,1,1
+2021-10-10T15:00:00,Sandecja Nowy S.,0,1,Legnica,1,3
+2021-10-10T12:40:00,Zaglebie Sosnowiec,0,0,R. Rzeszow,1,1
+2021-10-09T12:40:00,GKS Katowice,2,2,Tychy,0,2
+2021-10-08T17:30:00,Arka Gdynia,0,0,Korona Kielce,0,0
+2021-10-04T18:00:00,GKS Jastrzebie,0,1,Arka Gdynia,1,5
+2021-10-03T18:00:00,GKS Katowice,0,2,Stomil Olsztyn,0,1
+2021-10-03T15:00:00,Polkowice,0,0,Skra,0,0
+2021-10-03T12:40:00,Tychy,1,2,Odra Opole,0,1
+2021-10-02T20:30:00,R. Rzeszow,0,0,Sandecja Nowy S.,1,1
+2021-10-02T18:00:00,Korona Kielce,1,2,Chrobry Glogow,1,2
+2021-10-02T12:40:00,Puszcza,0,0,Widzew Lodz,1,1
+2021-10-01T20:30:00,LKS Lodz,0,0,Zaglebie Sosnowiec,0,1
+2021-10-01T18:00:00,Legnica,2,4,Podbeskidzie,1,2
+2021-09-27T18:00:00,Zaglebie Sosnowiec,0,0,Korona Kielce,0,0
+2021-09-26T18:00:00,Sandecja Nowy S.,0,0,LKS Lodz,0,1
+2021-09-26T15:00:00,Stomil Olsztyn,1,3,Legnica,0,0
+2021-09-26T12:40:00,Podbeskidzie,1,2,R. Rzeszow,0,0
+2021-09-25T20:30:00,Chrobry Glogow,1,2,GKS Jastrzebie,0,0
+2021-09-25T18:00:00,Arka Gdynia,1,2,Puszcza,0,0
+2021-09-25T12:40:00,Odra Opole,3,4,GKS Katowice,1,2
+2021-09-24T20:30:00,Polkowice,0,0,Tychy,1,1
+2021-09-24T18:00:00,Widzew Lodz,1,4,Skra,0,0
+2021-09-20T20:30:00,Polkowice,0,1,GKS Katowice,0,1
+2021-09-20T18:00:00,Skra,1,2,Arka Gdynia,0,1
+2021-09-19T18:00:00,Puszcza,1,2,Chrobry Glogow,1,2
+2021-09-19T15:00:00,Odra Opole,1,2,Stomil Olsztyn,0,0
+2021-09-19T12:40:00,Tychy,0,1,Widzew Lodz,0,1
+2021-09-18T20:30:00,Korona Kielce,0,0,Sandecja Nowy S.,1,1
+2021-09-18T12:40:00,LKS Lodz,1,1,Podbeskidzie,1,2
+2021-09-17T18:00:00,GKS Jastrzebie,0,1,Zaglebie Sosnowiec,1,1
+2021-09-16T20:30:00,Polkowice,0,2,Stomil Olsztyn,0,2
+2021-09-16T20:30:00,Tychy,0,1,Chrobry Glogow,0,0
+2021-09-16T18:00:00,GKS Katowice,1,2,Arka Gdynia,1,4
+2021-09-15T18:00:00,Puszcza,1,1,Sandecja Nowy S.,1,2
+2021-09-13T18:00:00,Stomil Olsztyn,0,4,R. Rzeszow,1,2
+2021-09-12T18:00:00,Polkowice,0,1,Odra Opole,1,1
+2021-09-12T15:00:00,Zaglebie Sosnowiec,1,1,Puszcza,1,2
+2021-09-12T12:40:00,Arka Gdynia,0,0,Tychy,1,1
+2021-09-11T20:30:00,Legnica,0,0,LKS Lodz,0,2
+2021-09-11T18:00:00,GKS Jastrzebie,0,0,Sandecja Nowy S.,1,3
+2021-09-11T12:40:00,Podbeskidzie,1,2,Korona Kielce,1,3
+2021-09-10T20:30:00,Widzew Lodz,1,3,GKS Katowice,0,1
+2021-09-10T15:00:00,Chrobry Glogow,0,0,Skra,0,1
+2021-09-05T18:00:00,Odra Opole,0,0,Widzew Lodz,0,0
+2021-09-05T15:00:00,GKS Jastrzebie,0,0,Podbeskidzie,0,1
+2021-09-05T12:40:00,LKS Lodz,0,0,R. Rzeszow,2,3
+2021-09-04T12:40:00,Zaglebie Sosnowiec,0,0,Skra,0,0
+2021-09-03T20:30:00,Korona Kielce,0,0,Legnica,0,0
+2021-08-29T19:45:00,Zaglebie Sosnowiec,1,1,Tychy,2,2
+2021-08-29T15:00:00,Podbeskidzie,1,4,Puszcza,0,0
+2021-08-29T12:40:00,Chrobry Glogow,2,4,GKS Katowice,0,0
+2021-08-28T20:30:00,Legnica,0,1,GKS Jastrzebie,0,1
+2021-08-28T18:00:00,Widzew Lodz,1,4,Polkowice,1,2
+2021-08-28T12:40:00,Arka Gdynia,2,3,Odra Opole,0,0
+2021-08-27T20:30:00,Stomil Olsztyn,0,0,LKS Lodz,2,3
+2021-08-27T18:00:00,R. Rzeszow,0,0,Korona Kielce,0,1
+2021-08-23T20:30:00,Podbeskidzie,1,1,Skra,0,0
+2021-08-23T18:00:00,Odra Opole,0,1,Chrobry Glogow,0,0
+2021-08-22T18:00:00,Tychy,1,2,Sandecja Nowy S.,1,1
+2021-08-22T15:00:00,Polkowice,1,2,Arka Gdynia,0,1
+2021-08-22T12:40:00,GKS Katowice,0,3,Zaglebie Sosnowiec,2,2
+2021-08-21T20:30:00,Widzew Lodz,1,2,Stomil Olsztyn,0,0
+2021-08-21T18:00:00,Korona Kielce,0,1,LKS Lodz,0,0
+2021-08-21T12:40:00,GKS Jastrzebie,1,1,R. Rzeszow,1,1
+2021-08-20T18:00:00,Puszcza,0,0,Legnica,0,1
+2021-08-19T20:30:00,GKS Katowice,0,0,Sandecja Nowy S.,0,0
+2021-08-19T18:00:00,Odra Opole,1,1,Zaglebie Sosnowiec,0,0
+2021-08-19T18:00:00,Polkowice,0,0,Chrobry Glogow,0,0
+2021-08-18T20:30:00,Arka Gdynia,1,3,Widzew Lodz,1,1
+2021-08-18T18:00:00,LKS Lodz,1,2,GKS Jastrzebie,0,2
+2021-08-18T18:00:00,Stomil Olsztyn,0,0,Korona Kielce,1,1
+2021-08-17T20:30:00,Podbeskidzie,0,0,Tychy,0,0
+2021-08-17T18:00:00,Legnica,1,1,Skra,0,1
+2021-08-17T18:00:00,R. Rzeszow,1,1,Puszcza,1,1
+2021-08-15T18:00:00,Odra Opole,1,1,Sandecja Nowy S.,0,2
+2021-08-15T15:00:00,Polkowice,2,2,Zaglebie Sosnowiec,2,4
+2021-08-15T12:40:00,Widzew Lodz,1,2,Chrobry Glogow,0,0
+2021-08-14T20:30:00,GKS Katowice,1,2,Podbeskidzie,2,2
+2021-08-14T18:00:00,Stomil Olsztyn,0,0,Arka Gdynia,0,1
+2021-08-14T12:40:00,Korona Kielce,2,2,GKS Jastrzebie,1,1
+2021-08-13T20:30:00,Tychy,0,0,Legnica,0,3
+2021-08-13T18:00:00,Puszcza,0,0,LKS Lodz,0,2
+2021-08-12T20:00:00,R. Rzeszow,0,0,Skra,0,1
+2021-08-09T18:00:00,Korona Kielce,1,3,Puszcza,0,1
+2021-08-08T18:00:00,LKS Lodz,1,3,Skra,1,2
+2021-08-08T15:00:00,GKS Jastrzebie,0,1,Stomil Olsztyn,0,0
+2021-08-08T12:40:00,Zaglebie Sosnowiec,1,1,Widzew Lodz,2,2
+2021-08-07T20:30:00,Arka Gdynia,0,0,Chrobry Glogow,2,2
+2021-08-07T18:00:00,Polkowice,0,0,Sandecja Nowy S.,1,2
+2021-08-07T12:40:00,Legnica,1,1,GKS Katowice,0,0
+2021-08-06T20:30:00,Podbeskidzie,0,0,Odra Opole,1,3
+2021-08-06T18:00:00,R. Rzeszow,1,1,Tychy,0,0
+2021-08-01T18:00:00,Stomil Olsztyn,0,1,Chrobry Glogow,2,2
+2021-08-01T15:00:00,Polkowice,0,1,Podbeskidzie,1,1
+2021-08-01T12:40:00,Widzew Lodz,2,3,Sandecja Nowy S.,0,0
+2021-07-31T20:30:00,Arka Gdynia,0,1,Zaglebie Sosnowiec,0,1
+2021-07-31T18:00:00,GKS Jastrzebie,0,0,Puszcza,1,2
+2021-07-31T12:40:00,GKS Katowice,1,2,R. Rzeszow,0,2
+2021-07-30T20:30:00,Tychy,0,1,LKS Lodz,0,1
+2021-07-30T20:00:00,Korona Kielce,2,2,Skra,0,0
+2021-07-30T18:00:00,Odra Opole,0,1,Legnica,1,4

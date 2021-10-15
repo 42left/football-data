@@ -1,0 +1,553 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2000-06-21T00:00:00,Ceramika Opoczno,,3,Leczna,,0
+2000-06-21T00:00:00,GKS Katowice,0,0,GKS Belchatow,0,0
+2000-06-21T00:00:00,Grunwald,,2,Polonia Bytom,,0
+2000-06-21T00:00:00,Hutnik Krakow,,1,Lechia Gdansk,,1
+2000-06-21T00:00:00,Jeziorak,,2,Myszkow,,0
+2000-06-21T00:00:00,Kietrz,,1,Ostrowiec Swietokrzyski,,2
+2000-06-21T00:00:00,Korona Kielce,,0,Odra Opole,,4
+2000-06-21T00:00:00,Polar Wroclaw,,7,Gornik Konin,,3
+2000-06-21T00:00:00,Radomsko,0,0,Swit,0,0
+2000-06-21T00:00:00,Rakow,,2,Hetman Zamosc,,1
+2000-06-21T00:00:00,Siarka Tarnobrzeg,,1,Slask Wroclaw,,5
+2000-06-21T00:00:00,Stal Szczecin,,1,S. Wola,,0
+2000-06-18T00:00:00,GKS Belchatow,,2,Jeziorak,,0
+2000-06-18T00:00:00,Gornik Konin,0,0,Kietrz,0,0
+2000-06-18T00:00:00,Hetman Zamosc,,3,Ceramika Opoczno,,2
+2000-06-18T00:00:00,Lechia Gdansk,,4,Rakow,,1
+2000-06-18T00:00:00,Leczna,,2,Korona Kielce,,0
+2000-06-18T00:00:00,Myszkow,,4,Stal Szczecin,,0
+2000-06-18T00:00:00,Odra Opole,,3,Siarka Tarnobrzeg,,1
+2000-06-18T00:00:00,Ostrowiec Swietokrzyski,,1,GKS Katowice,,2
+2000-06-18T00:00:00,Polonia Bytom,,0,Polar Wroclaw,,2
+2000-06-18T00:00:00,S. Wola,,2,Radomsko,,1
+2000-06-18T00:00:00,Slask Wroclaw,,4,Grunwald,,0
+2000-06-18T00:00:00,Swit,,1,Hutnik Krakow,,1
+2000-06-11T00:00:00,GKS Katowice,,4,Gornik Konin,,0
+2000-06-11T00:00:00,Grunwald,,4,Odra Opole,,0
+2000-06-11T00:00:00,Jeziorak,,2,Ostrowiec Swietokrzyski,,1
+2000-06-11T00:00:00,Polar Wroclaw,,1,Slask Wroclaw,,4
+2000-06-11T00:00:00,Radomsko,,0,Hutnik Krakow,,1
+2000-06-11T00:00:00,S. Wola,,5,Myszkow,,0
+2000-06-10T00:00:00,Ceramika Opoczno,,1,Lechia Gdansk,,1
+2000-06-10T00:00:00,Kietrz,,1,Polonia Bytom,,0
+2000-06-10T00:00:00,Korona Kielce,,0,Hetman Zamosc,,5
+2000-06-10T00:00:00,Rakow,,1,Swit,,2
+2000-06-10T00:00:00,Siarka Tarnobrzeg,,2,Leczna,,2
+2000-06-10T00:00:00,Stal Szczecin,0,0,GKS Belchatow,0,0
+2000-06-07T00:00:00,GKS Belchatow,,3,S. Wola,,0
+2000-06-07T00:00:00,Gornik Konin,,2,Jeziorak,,0
+2000-06-07T00:00:00,Hetman Zamosc,,2,Siarka Tarnobrzeg,,1
+2000-06-07T00:00:00,Hutnik Krakow,,4,Rakow,,3
+2000-06-07T00:00:00,Lechia Gdansk,,2,Korona Kielce,,0
+2000-06-07T00:00:00,Leczna,,2,Grunwald,,1
+2000-06-07T00:00:00,Myszkow,,3,Radomsko,,2
+2000-06-07T00:00:00,Odra Opole,0,0,Polar Wroclaw,0,0
+2000-06-07T00:00:00,Ostrowiec Swietokrzyski,,3,Stal Szczecin,,0
+2000-06-07T00:00:00,Polonia Bytom,,1,GKS Katowice,,1
+2000-06-07T00:00:00,Slask Wroclaw,,1,Kietrz,,0
+2000-06-07T00:00:00,Swit,,0,Ceramika Opoczno,,2
+2000-06-04T00:00:00,GKS Katowice,0,0,Slask Wroclaw,0,0
+2000-06-04T00:00:00,Grunwald,,0,Hetman Zamosc,,1
+2000-06-03T00:00:00,Jeziorak,0,0,Polonia Bytom,0,0
+2000-06-03T00:00:00,Kietrz,,2,Odra Opole,,0
+2000-06-03T00:00:00,Korona Kielce,,0,Swit,,6
+2000-06-03T00:00:00,Myszkow,,1,GKS Belchatow,,1
+2000-06-03T00:00:00,Polar Wroclaw,,1,Leczna,,2
+2000-06-03T00:00:00,Radomsko,,2,Rakow,,1
+2000-06-03T00:00:00,S. Wola,,2,Ostrowiec Swietokrzyski,,1
+2000-06-03T00:00:00,Stal Szczecin,,1,Gornik Konin,,1
+2000-06-02T00:00:00,Siarka Tarnobrzeg,,2,Lechia Gdansk,,1
+2000-05-31T00:00:00,Ceramika Opoczno,,4,Hutnik Krakow,,2
+2000-05-28T00:00:00,Gornik Konin,,1,S. Wola,,4
+2000-05-28T00:00:00,Hetman Zamosc,,4,Polar Wroclaw,,0
+2000-05-28T00:00:00,Leczna,,3,Kietrz,,1
+2000-05-28T00:00:00,Ostrowiec Swietokrzyski,,2,Myszkow,,1
+2000-05-28T00:00:00,Polonia Bytom,,2,Stal Szczecin,,1
+2000-05-28T00:00:00,Slask Wroclaw,,1,Jeziorak,,0
+2000-05-28T00:00:00,Swit,,1,Siarka Tarnobrzeg,,1
+2000-05-27T00:00:00,GKS Belchatow,,2,Radomsko,,1
+2000-05-27T00:00:00,Hutnik Krakow,,4,Korona Kielce,,1
+2000-05-27T00:00:00,Lechia Gdansk,,2,Grunwald,,1
+2000-05-27T00:00:00,Odra Opole,,0,GKS Katowice,,1
+2000-05-27T00:00:00,Rakow,,0,Ceramika Opoczno,,1
+2000-05-24T00:00:00,GKS Belchatow,,3,Ostrowiec Swietokrzyski,,0
+2000-05-24T00:00:00,GKS Katowice,,1,Leczna,,0
+2000-05-24T00:00:00,Grunwald,,2,Swit,,2
+2000-05-24T00:00:00,Jeziorak,,2,Odra Opole,,0
+2000-05-24T00:00:00,Kietrz,,4,Hetman Zamosc,,1
+2000-05-24T00:00:00,Korona Kielce,,1,Rakow,,0
+2000-05-24T00:00:00,Myszkow,,3,Gornik Konin,,0
+2000-05-24T00:00:00,Polar Wroclaw,,2,Lechia Gdansk,,0
+2000-05-24T00:00:00,Radomsko,,1,Ceramika Opoczno,,0
+2000-05-24T00:00:00,S. Wola,,1,Polonia Bytom,,0
+2000-05-24T00:00:00,Siarka Tarnobrzeg,,2,Hutnik Krakow,,1
+2000-05-24T00:00:00,Stal Szczecin,,1,Slask Wroclaw,,1
+2000-05-20T00:00:00,Ceramika Opoczno,,1,Korona Kielce,,2
+2000-05-20T00:00:00,Gornik Konin,,0,GKS Belchatow,,2
+2000-05-20T00:00:00,Hetman Zamosc,,1,GKS Katowice,,1
+2000-05-20T00:00:00,Hutnik Krakow,,2,Grunwald,,1
+2000-05-20T00:00:00,Lechia Gdansk,,2,Kietrz,,1
+2000-05-20T00:00:00,Leczna,,1,Jeziorak,,1
+2000-05-20T00:00:00,Ostrowiec Swietokrzyski,0,0,Radomsko,0,0
+2000-05-20T00:00:00,Polonia Bytom,,1,Myszkow,,2
+2000-05-20T00:00:00,Rakow,,1,Siarka Tarnobrzeg,,3
+2000-05-20T00:00:00,Slask Wroclaw,,7,S. Wola,,2
+2000-05-20T00:00:00,Swit,,1,Polar Wroclaw,,1
+2000-05-19T00:00:00,Odra Opole,,3,Stal Szczecin,,1
+2000-05-17T00:00:00,Radomsko,,6,Siarka Tarnobrzeg,,1
+2000-05-14T00:00:00,Grunwald,0,0,Rakow,0,0
+2000-05-14T00:00:00,Radomsko,,7,Korona Kielce,,1
+2000-05-13T00:00:00,GKS Belchatow,,2,Polonia Bytom,,1
+2000-05-13T00:00:00,GKS Katowice,,2,Lechia Gdansk,,0
+2000-05-13T00:00:00,Jeziorak,,1,Hetman Zamosc,,2
+2000-05-13T00:00:00,Kietrz,,0,Swit,,1
+2000-05-13T00:00:00,Myszkow,,1,Slask Wroclaw,,3
+2000-05-13T00:00:00,Ostrowiec Swietokrzyski,,2,Gornik Konin,,0
+2000-05-13T00:00:00,Polar Wroclaw,0,0,Hutnik Krakow,0,0
+2000-05-13T00:00:00,S. Wola,,1,Odra Opole,,0
+2000-05-13T00:00:00,Siarka Tarnobrzeg,,1,Ceramika Opoczno,,0
+2000-05-13T00:00:00,Stal Szczecin,,0,Leczna,,1
+2000-05-07T00:00:00,Leczna,,3,S. Wola,,0
+2000-05-07T00:00:00,Slask Wroclaw,,3,GKS Belchatow,,2
+2000-05-06T00:00:00,Ceramika Opoczno,,3,Grunwald,,0
+2000-05-06T00:00:00,Gornik Konin,,0,Radomsko,,2
+2000-05-06T00:00:00,Hetman Zamosc,,3,Stal Szczecin,,0
+2000-05-06T00:00:00,Hutnik Krakow,0,0,Kietrz,0,0
+2000-05-06T00:00:00,Korona Kielce,,0,Siarka Tarnobrzeg,,3
+2000-05-06T00:00:00,Lechia Gdansk,,5,Jeziorak,,3
+2000-05-06T00:00:00,Odra Opole,,2,Myszkow,,1
+2000-05-06T00:00:00,Polonia Bytom,,2,Ostrowiec Swietokrzyski,,1
+2000-05-06T00:00:00,Rakow,,1,Polar Wroclaw,,3
+2000-05-06T00:00:00,Swit,,0,GKS Katowice,,1
+2000-05-02T00:00:00,GKS Belchatow,,0,Odra Opole,,2
+2000-05-02T00:00:00,GKS Katowice,,2,Hutnik Krakow,,0
+2000-05-02T00:00:00,Gornik Konin,,0,Polonia Bytom,,1
+2000-05-02T00:00:00,Grunwald,,4,Korona Kielce,,1
+2000-05-02T00:00:00,Jeziorak,0,0,Swit,0,0
+2000-05-02T00:00:00,Kietrz,0,0,Rakow,0,0
+2000-05-02T00:00:00,Myszkow,,3,Leczna,,1
+2000-05-02T00:00:00,Ostrowiec Swietokrzyski,,0,Slask Wroclaw,,1
+2000-05-02T00:00:00,Polar Wroclaw,0,0,Ceramika Opoczno,0,0
+2000-05-02T00:00:00,S. Wola,,1,Hetman Zamosc,,1
+2000-05-02T00:00:00,Stal Szczecin,,0,Lechia Gdansk,,1
+2000-04-29T00:00:00,Ceramika Opoczno,,2,Kietrz,,0
+2000-04-29T00:00:00,Hetman Zamosc,,2,Myszkow,,1
+2000-04-29T00:00:00,Hutnik Krakow,,3,Jeziorak,,0
+2000-04-29T00:00:00,Korona Kielce,,1,Polar Wroclaw,,2
+2000-04-29T00:00:00,Lechia Gdansk,,2,S. Wola,,0
+2000-04-29T00:00:00,Leczna,,1,GKS Belchatow,,0
+2000-04-29T00:00:00,Polonia Bytom,0,0,Radomsko,0,0
+2000-04-29T00:00:00,Rakow,,0,GKS Katowice,,1
+2000-04-29T00:00:00,Siarka Tarnobrzeg,,1,Grunwald,,0
+2000-04-29T00:00:00,Slask Wroclaw,,3,Gornik Konin,,0
+2000-04-29T00:00:00,Swit,,2,Stal Szczecin,,2
+2000-04-28T00:00:00,Odra Opole,,2,Ostrowiec Swietokrzyski,,0
+2000-04-26T00:00:00,GKS Belchatow,0,0,Swit,0,0
+2000-04-26T00:00:00,Radomsko,,0,Polar Wroclaw,,3
+2000-04-22T00:00:00,GKS Belchatow,,1,Hetman Zamosc,,0
+2000-04-22T00:00:00,GKS Katowice,,2,Ceramika Opoczno,,1
+2000-04-22T00:00:00,Jeziorak,,2,Rakow,,0
+2000-04-22T00:00:00,Kietrz,,3,Korona Kielce,,1
+2000-04-22T00:00:00,Myszkow,,1,Lechia Gdansk,,1
+2000-04-22T00:00:00,Ostrowiec Swietokrzyski,,1,Leczna,,0
+2000-04-22T00:00:00,Polar Wroclaw,,2,Siarka Tarnobrzeg,,1
+2000-04-22T00:00:00,Polonia Bytom,,0,Slask Wroclaw,,1
+2000-04-22T00:00:00,Radomsko,,6,Grunwald,,1
+2000-04-22T00:00:00,S. Wola,,0,Swit,,1
+2000-04-21T00:00:00,Gornik Konin,0,0,Odra Opole,0,0
+2000-04-21T00:00:00,Stal Szczecin,0,0,Hutnik Krakow,0,0
+2000-04-16T00:00:00,Ceramika Opoczno,0,0,Jeziorak,0,0
+2000-04-16T00:00:00,Grunwald,,1,Polar Wroclaw,,2
+2000-04-16T00:00:00,Hetman Zamosc,,2,Ostrowiec Swietokrzyski,,0
+2000-04-16T00:00:00,Lechia Gdansk,0,0,GKS Belchatow,0,0
+2000-04-16T00:00:00,Leczna,,2,Gornik Konin,,0
+2000-04-16T00:00:00,Odra Opole,,1,Polonia Bytom,,0
+2000-04-16T00:00:00,Slask Wroclaw,,1,Radomsko,,0
+2000-04-15T00:00:00,Hutnik Krakow,,4,S. Wola,,1
+2000-04-15T00:00:00,Korona Kielce,,0,GKS Katowice,,2
+2000-04-15T00:00:00,Rakow,,2,Stal Szczecin,,1
+2000-04-15T00:00:00,Siarka Tarnobrzeg,,2,Kietrz,,2
+2000-04-15T00:00:00,Swit,,4,Myszkow,,2
+2000-04-12T00:00:00,GKS Katowice,,2,Siarka Tarnobrzeg,,2
+2000-04-12T00:00:00,Gornik Konin,,1,Hetman Zamosc,,1
+2000-04-12T00:00:00,Jeziorak,,2,Korona Kielce,,0
+2000-04-12T00:00:00,Kietrz,,0,Grunwald,,3
+2000-04-12T00:00:00,Myszkow,,4,Hutnik Krakow,,0
+2000-04-12T00:00:00,Ostrowiec Swietokrzyski,,1,Lechia Gdansk,,0
+2000-04-12T00:00:00,Polonia Bytom,,3,Leczna,,0
+2000-04-12T00:00:00,S. Wola,,1,Rakow,,0
+2000-04-12T00:00:00,Slask Wroclaw,,2,Odra Opole,,0
+2000-04-12T00:00:00,Stal Szczecin,,2,Ceramika Opoczno,,0
+2000-04-09T00:00:00,Grunwald,,1,GKS Katowice,,2
+2000-04-09T00:00:00,Lechia Gdansk,,3,Gornik Konin,,0
+2000-04-08T00:00:00,Ceramika Opoczno,,1,S. Wola,,1
+2000-04-08T00:00:00,Hetman Zamosc,,1,Polonia Bytom,,3
+2000-04-08T00:00:00,Hutnik Krakow,,1,GKS Belchatow,,4
+2000-04-08T00:00:00,Korona Kielce,,1,Stal Szczecin,,1
+2000-04-08T00:00:00,Leczna,,1,Slask Wroclaw,,0
+2000-04-08T00:00:00,Odra Opole,,2,Radomsko,,2
+2000-04-08T00:00:00,Polar Wroclaw,,1,Kietrz,,1
+2000-04-08T00:00:00,Rakow,,3,Myszkow,,3
+2000-04-08T00:00:00,Siarka Tarnobrzeg,,1,Jeziorak,,0
+2000-04-08T00:00:00,Swit,0,0,Ostrowiec Swietokrzyski,0,0
+2000-04-02T00:00:00,GKS Katowice,,1,Polar Wroclaw,,0
+2000-04-02T00:00:00,Myszkow,0,0,Ceramika Opoczno,0,0
+2000-04-02T00:00:00,Ostrowiec Swietokrzyski,0,0,Hutnik Krakow,0,0
+2000-04-02T00:00:00,Polonia Bytom,,1,Lechia Gdansk,,1
+2000-04-02T00:00:00,Radomsko,,1,Kietrz,,3
+2000-04-02T00:00:00,S. Wola,,2,Korona Kielce,,0
+2000-04-02T00:00:00,Slask Wroclaw,,3,Hetman Zamosc,,0
+2000-04-01T00:00:00,GKS Belchatow,,3,Rakow,,0
+2000-04-01T00:00:00,Gornik Konin,,1,Swit,,3
+2000-04-01T00:00:00,Jeziorak,,1,Grunwald,,1
+2000-04-01T00:00:00,Odra Opole,,0,Leczna,,1
+2000-04-01T00:00:00,Stal Szczecin,,2,Siarka Tarnobrzeg,,2
+2000-03-29T00:00:00,Ceramika Opoczno,,1,GKS Belchatow,,0
+2000-03-29T00:00:00,Grunwald,,4,Stal Szczecin,,0
+2000-03-29T00:00:00,Hetman Zamosc,,1,Odra Opole,,1
+2000-03-29T00:00:00,Hutnik Krakow,,2,Gornik Konin,,0
+2000-03-29T00:00:00,Kietrz,,0,GKS Katowice,,1
+2000-03-29T00:00:00,Korona Kielce,,0,Myszkow,,3
+2000-03-29T00:00:00,Lechia Gdansk,,0,Slask Wroclaw,,1
+2000-03-29T00:00:00,Leczna,,2,Radomsko,,0
+2000-03-29T00:00:00,Polar Wroclaw,,3,Jeziorak,,3
+2000-03-29T00:00:00,Rakow,,0,Ostrowiec Swietokrzyski,,3
+2000-03-29T00:00:00,Siarka Tarnobrzeg,,0,S. Wola,,1
+2000-03-29T00:00:00,Swit,,2,Polonia Bytom,,0
+2000-03-26T00:00:00,GKS Belchatow,,4,Korona Kielce,,1
+2000-03-26T00:00:00,Gornik Konin,,0,Rakow,,2
+2000-03-26T00:00:00,Jeziorak,,0,Kietrz,,1
+2000-03-26T00:00:00,Leczna,,1,Hetman Zamosc,,2
+2000-03-26T00:00:00,Myszkow,,0,Siarka Tarnobrzeg,,1
+2000-03-26T00:00:00,Odra Opole,,1,Lechia Gdansk,,0
+2000-03-26T00:00:00,Ostrowiec Swietokrzyski,,1,Ceramika Opoczno,,0
+2000-03-26T00:00:00,Polonia Bytom,,1,Hutnik Krakow,,1
+2000-03-26T00:00:00,Radomsko,0,0,GKS Katowice,0,0
+2000-03-26T00:00:00,S. Wola,,1,Grunwald,,0
+2000-03-26T00:00:00,Slask Wroclaw,,1,Swit,,0
+2000-03-26T00:00:00,Stal Szczecin,,1,Polar Wroclaw,,3
+2000-03-19T00:00:00,Ceramika Opoczno,,2,Gornik Konin,,0
+2000-03-19T00:00:00,GKS Katowice,,1,Jeziorak,,0
+2000-03-19T00:00:00,Grunwald,,1,Myszkow,,4
+2000-03-19T00:00:00,Hetman Zamosc,,0,Radomsko,,2
+2000-03-19T00:00:00,Hutnik Krakow,,3,Slask Wroclaw,,1
+2000-03-19T00:00:00,Kietrz,0,0,Stal Szczecin,0,0
+2000-03-19T00:00:00,Korona Kielce,,1,Ostrowiec Swietokrzyski,,1
+2000-03-19T00:00:00,Lechia Gdansk,,2,Leczna,,2
+2000-03-19T00:00:00,Polar Wroclaw,,2,S. Wola,,0
+2000-03-19T00:00:00,Rakow,,0,Polonia Bytom,,2
+2000-03-19T00:00:00,Siarka Tarnobrzeg,,1,GKS Belchatow,,1
+2000-03-19T00:00:00,Swit,,4,Odra Opole,,1
+2000-03-15T00:00:00,GKS Belchatow,,1,Grunwald,,0
+2000-03-15T00:00:00,Gornik Konin,,1,Korona Kielce,,1
+2000-03-15T00:00:00,Hetman Zamosc,,3,Lechia Gdansk,,2
+2000-03-15T00:00:00,Leczna,,3,Swit,,1
+2000-03-15T00:00:00,Myszkow,,3,Polar Wroclaw,,2
+2000-03-15T00:00:00,Odra Opole,,3,Hutnik Krakow,,1
+2000-03-15T00:00:00,Ostrowiec Swietokrzyski,,3,Siarka Tarnobrzeg,,0
+2000-03-15T00:00:00,Polonia Bytom,,2,Ceramika Opoczno,,0
+2000-03-15T00:00:00,Radomsko,,2,Jeziorak,,0
+2000-03-15T00:00:00,S. Wola,,0,Kietrz,,2
+2000-03-15T00:00:00,Slask Wroclaw,,1,Rakow,,0
+2000-03-15T00:00:00,Stal Szczecin,,0,GKS Katowice,,1
+2000-03-12T00:00:00,Ceramika Opoczno,,1,Slask Wroclaw,,1
+2000-03-12T00:00:00,GKS Katowice,,2,S. Wola,,0
+2000-03-12T00:00:00,Grunwald,,2,Ostrowiec Swietokrzyski,,2
+2000-03-12T00:00:00,Hutnik Krakow,,1,Leczna,,2
+2000-03-12T00:00:00,Jeziorak,,1,Stal Szczecin,,0
+2000-03-12T00:00:00,Kietrz,,3,Myszkow,,1
+2000-03-12T00:00:00,Korona Kielce,,0,Polonia Bytom,,3
+2000-03-12T00:00:00,Lechia Gdansk,,2,Radomsko,,0
+2000-03-12T00:00:00,Polar Wroclaw,,1,GKS Belchatow,,1
+2000-03-12T00:00:00,Rakow,,0,Odra Opole,,1
+2000-03-12T00:00:00,Siarka Tarnobrzeg,,1,Gornik Konin,,0
+2000-03-12T00:00:00,Swit,,4,Hetman Zamosc,,1
+2000-03-05T00:00:00,GKS Belchatow,,3,Kietrz,,0
+2000-03-05T00:00:00,Gornik Konin,,0,Grunwald,,1
+2000-03-05T00:00:00,Hetman Zamosc,,1,Hutnik Krakow,,1
+2000-03-05T00:00:00,Lechia Gdansk,,0,Swit,,2
+2000-03-05T00:00:00,Leczna,,5,Rakow,,0
+2000-03-05T00:00:00,Myszkow,,1,GKS Katowice,,2
+2000-03-05T00:00:00,Odra Opole,,2,Ceramika Opoczno,,0
+2000-03-05T00:00:00,Ostrowiec Swietokrzyski,,1,Polar Wroclaw,,1
+2000-03-05T00:00:00,Polonia Bytom,,1,Siarka Tarnobrzeg,,0
+2000-03-05T00:00:00,Radomsko,,3,Stal Szczecin,,0
+2000-03-05T00:00:00,S. Wola,,2,Jeziorak,,1
+2000-03-05T00:00:00,Slask Wroclaw,,7,Korona Kielce,,0
+1999-11-14T00:00:00,Slask Wroclaw,,5,Siarka Tarnobrzeg,,1
+1999-11-13T00:00:00,GKS Belchatow,0,0,GKS Katowice,0,0
+1999-11-13T00:00:00,Gornik Konin,,1,Polar Wroclaw,,0
+1999-11-13T00:00:00,Hetman Zamosc,,1,Rakow,,2
+1999-11-13T00:00:00,Lechia Gdansk,,2,Hutnik Krakow,,1
+1999-11-13T00:00:00,Leczna,,2,Ceramika Opoczno,,0
+1999-11-13T00:00:00,Myszkow,,1,Jeziorak,,0
+1999-11-13T00:00:00,Odra Opole,,2,Korona Kielce,,1
+1999-11-13T00:00:00,Ostrowiec Swietokrzyski,,1,Kietrz,,0
+1999-11-13T00:00:00,Polonia Bytom,0,0,Grunwald,0,0
+1999-11-13T00:00:00,S. Wola,0,0,Stal Szczecin,0,0
+1999-11-13T00:00:00,Swit,,3,Radomsko,,2
+1999-11-07T00:00:00,Jeziorak,,1,GKS Belchatow,,1
+1999-11-07T00:00:00,Korona Kielce,,0,Leczna,,3
+1999-11-07T00:00:00,Rakow,,1,Lechia Gdansk,,1
+1999-11-06T00:00:00,Ceramika Opoczno,,4,Hetman Zamosc,,1
+1999-11-06T00:00:00,GKS Katowice,,2,Ostrowiec Swietokrzyski,,0
+1999-11-06T00:00:00,Grunwald,,2,Slask Wroclaw,,4
+1999-11-06T00:00:00,Hutnik Krakow,,2,Swit,,0
+1999-11-06T00:00:00,Kietrz,,1,Gornik Konin,,3
+1999-11-06T00:00:00,Polar Wroclaw,,2,Polonia Bytom,,1
+1999-11-06T00:00:00,Radomsko,,2,S. Wola,,2
+1999-11-06T00:00:00,Siarka Tarnobrzeg,,0,Odra Opole,,2
+1999-11-06T00:00:00,Stal Szczecin,0,0,Myszkow,0,0
+1999-10-30T00:00:00,GKS Belchatow,,2,Stal Szczecin,,0
+1999-10-30T00:00:00,Gornik Konin,0,0,GKS Katowice,0,0
+1999-10-30T00:00:00,Hetman Zamosc,,1,Korona Kielce,,1
+1999-10-30T00:00:00,Hutnik Krakow,0,0,Radomsko,0,0
+1999-10-30T00:00:00,Lechia Gdansk,,1,Ceramika Opoczno,,2
+1999-10-30T00:00:00,Leczna,,3,Siarka Tarnobrzeg,,0
+1999-10-30T00:00:00,Myszkow,,2,S. Wola,,1
+1999-10-30T00:00:00,Ostrowiec Swietokrzyski,,2,Jeziorak,,0
+1999-10-30T00:00:00,Polonia Bytom,,3,Kietrz,,1
+1999-10-30T00:00:00,Slask Wroclaw,,1,Polar Wroclaw,,1
+1999-10-30T00:00:00,Swit,,6,Rakow,,3
+1999-10-29T00:00:00,Odra Opole,,2,Grunwald,,0
+1999-10-24T00:00:00,GKS Katowice,,1,Polonia Bytom,,0
+1999-10-24T00:00:00,Korona Kielce,,1,Lechia Gdansk,,1
+1999-10-24T00:00:00,S. Wola,,1,GKS Belchatow,,2
+1999-10-23T00:00:00,Ceramika Opoczno,,3,Swit,,1
+1999-10-23T00:00:00,Grunwald,,0,Leczna,,1
+1999-10-23T00:00:00,Jeziorak,,1,Gornik Konin,,0
+1999-10-23T00:00:00,Kietrz,,3,Slask Wroclaw,,0
+1999-10-23T00:00:00,Polar Wroclaw,0,0,Odra Opole,0,0
+1999-10-23T00:00:00,Radomsko,,3,Myszkow,,1
+1999-10-23T00:00:00,Rakow,,1,Hutnik Krakow,,0
+1999-10-23T00:00:00,Siarka Tarnobrzeg,,0,Hetman Zamosc,,1
+1999-10-23T00:00:00,Stal Szczecin,0,0,Ostrowiec Swietokrzyski,0,0
+1999-10-17T00:00:00,Odra Opole,,0,Kietrz,,1
+1999-10-17T00:00:00,Ostrowiec Swietokrzyski,,2,S. Wola,,3
+1999-10-17T00:00:00,Slask Wroclaw,,3,GKS Katowice,,2
+1999-10-16T00:00:00,GKS Belchatow,,2,Myszkow,,1
+1999-10-16T00:00:00,Gornik Konin,,1,Stal Szczecin,,2
+1999-10-16T00:00:00,Hetman Zamosc,,2,Grunwald,,0
+1999-10-16T00:00:00,Hutnik Krakow,,1,Ceramika Opoczno,,1
+1999-10-16T00:00:00,Lechia Gdansk,0,0,Siarka Tarnobrzeg,0,0
+1999-10-16T00:00:00,Leczna,,3,Polar Wroclaw,,0
+1999-10-16T00:00:00,Polonia Bytom,,1,Jeziorak,,0
+1999-10-16T00:00:00,Rakow,,2,Radomsko,,3
+1999-10-16T00:00:00,Swit,,2,Korona Kielce,,1
+1999-10-09T00:00:00,GKS Katowice,,2,Odra Opole,,0
+1999-10-09T00:00:00,Jeziorak,0,0,Slask Wroclaw,0,0
+1999-10-09T00:00:00,Korona Kielce,,3,Hutnik Krakow,,2
+1999-10-09T00:00:00,Myszkow,,2,Ostrowiec Swietokrzyski,,1
+1999-10-09T00:00:00,Polar Wroclaw,,1,Hetman Zamosc,,0
+1999-10-09T00:00:00,Radomsko,,1,GKS Belchatow,,0
+1999-10-09T00:00:00,S. Wola,,2,Gornik Konin,,1
+1999-10-09T00:00:00,Stal Szczecin,,0,Polonia Bytom,,2
+1999-10-08T00:00:00,Ceramika Opoczno,,4,Rakow,,1
+1999-10-08T00:00:00,Grunwald,,2,Lechia Gdansk,,0
+1999-10-08T00:00:00,Kietrz,,2,Leczna,,1
+1999-10-08T00:00:00,Siarka Tarnobrzeg,,2,Swit,,4
+1999-10-06T00:00:00,Ceramika Opoczno,,0,Radomsko,,1
+1999-10-06T00:00:00,Gornik Konin,,0,Myszkow,,1
+1999-10-06T00:00:00,Hetman Zamosc,,1,Kietrz,,2
+1999-10-06T00:00:00,Hutnik Krakow,,2,Siarka Tarnobrzeg,,1
+1999-10-06T00:00:00,Lechia Gdansk,,3,Polar Wroclaw,,2
+1999-10-06T00:00:00,Leczna,,1,GKS Katowice,,1
+1999-10-06T00:00:00,Odra Opole,0,0,Jeziorak,0,0
+1999-10-06T00:00:00,Ostrowiec Swietokrzyski,,0,GKS Belchatow,,2
+1999-10-06T00:00:00,Polonia Bytom,,3,S. Wola,,0
+1999-10-06T00:00:00,Rakow,,1,Korona Kielce,,0
+1999-10-06T00:00:00,Slask Wroclaw,,3,Stal Szczecin,,2
+1999-10-06T00:00:00,Swit,,3,Grunwald,,1
+1999-10-02T00:00:00,GKS Belchatow,,3,Gornik Konin,,0
+1999-10-02T00:00:00,GKS Katowice,,1,Hetman Zamosc,,1
+1999-10-02T00:00:00,Grunwald,,2,Hutnik Krakow,,0
+1999-10-02T00:00:00,Jeziorak,,1,Leczna,,3
+1999-10-02T00:00:00,Kietrz,,5,Lechia Gdansk,,0
+1999-10-02T00:00:00,Korona Kielce,,0,Ceramika Opoczno,,2
+1999-10-02T00:00:00,Myszkow,,1,Polonia Bytom,,0
+1999-10-02T00:00:00,Polar Wroclaw,,3,Swit,,0
+1999-10-02T00:00:00,Radomsko,,2,Ostrowiec Swietokrzyski,,0
+1999-10-02T00:00:00,S. Wola,0,0,Slask Wroclaw,0,0
+1999-10-02T00:00:00,Siarka Tarnobrzeg,,1,Rakow,,1
+1999-10-02T00:00:00,Stal Szczecin,,1,Odra Opole,,0
+1999-09-26T00:00:00,Hetman Zamosc,,0,Jeziorak,,1
+1999-09-26T00:00:00,Odra Opole,,1,S. Wola,,1
+1999-09-26T00:00:00,Slask Wroclaw,,2,Myszkow,,1
+1999-09-25T00:00:00,Ceramika Opoczno,,5,Siarka Tarnobrzeg,,0
+1999-09-25T00:00:00,Gornik Konin,0,0,Ostrowiec Swietokrzyski,0,0
+1999-09-25T00:00:00,Hutnik Krakow,,4,Polar Wroclaw,,1
+1999-09-25T00:00:00,Korona Kielce,,0,Radomsko,,4
+1999-09-25T00:00:00,Lechia Gdansk,,1,GKS Katowice,,0
+1999-09-25T00:00:00,Leczna,,6,Stal Szczecin,,0
+1999-09-25T00:00:00,Polonia Bytom,,0,GKS Belchatow,,1
+1999-09-25T00:00:00,Rakow,,0,Grunwald,,1
+1999-09-25T00:00:00,Swit,,1,Kietrz,,1
+1999-09-22T00:00:00,GKS Belchatow,,1,Slask Wroclaw,,0
+1999-09-22T00:00:00,GKS Katowice,,1,Swit,,0
+1999-09-22T00:00:00,Grunwald,,2,Ceramika Opoczno,,2
+1999-09-22T00:00:00,Jeziorak,,1,Lechia Gdansk,,2
+1999-09-22T00:00:00,Kietrz,,2,Hutnik Krakow,,1
+1999-09-22T00:00:00,Myszkow,,1,Odra Opole,,1
+1999-09-22T00:00:00,Ostrowiec Swietokrzyski,,1,Polonia Bytom,,1
+1999-09-22T00:00:00,Polar Wroclaw,,0,Rakow,,1
+1999-09-22T00:00:00,Radomsko,,3,Gornik Konin,,0
+1999-09-22T00:00:00,S. Wola,,1,Leczna,,1
+1999-09-22T00:00:00,Siarka Tarnobrzeg,,1,Korona Kielce,,1
+1999-09-22T00:00:00,Stal Szczecin,,2,Hetman Zamosc,,1
+1999-09-18T00:00:00,Ceramika Opoczno,,1,Polar Wroclaw,,0
+1999-09-18T00:00:00,Hetman Zamosc,,1,S. Wola,,1
+1999-09-18T00:00:00,Hutnik Krakow,,0,GKS Katowice,,1
+1999-09-18T00:00:00,Korona Kielce,,2,Grunwald,,1
+1999-09-18T00:00:00,Lechia Gdansk,,2,Stal Szczecin,,0
+1999-09-18T00:00:00,Leczna,,1,Myszkow,,0
+1999-09-18T00:00:00,Odra Opole,,1,GKS Belchatow,,1
+1999-09-18T00:00:00,Polonia Bytom,,2,Gornik Konin,,1
+1999-09-18T00:00:00,Rakow,,1,Kietrz,,3
+1999-09-18T00:00:00,Siarka Tarnobrzeg,,1,Radomsko,,0
+1999-09-18T00:00:00,Slask Wroclaw,,0,Ostrowiec Swietokrzyski,,1
+1999-09-18T00:00:00,Swit,,1,Jeziorak,,1
+1999-09-11T00:00:00,GKS Belchatow,,2,Leczna,,0
+1999-09-11T00:00:00,GKS Katowice,,4,Rakow,,3
+1999-09-11T00:00:00,Gornik Konin,0,0,Slask Wroclaw,0,0
+1999-09-11T00:00:00,Grunwald,,1,Siarka Tarnobrzeg,,0
+1999-09-11T00:00:00,Jeziorak,0,0,Hutnik Krakow,0,0
+1999-09-11T00:00:00,Kietrz,0,0,Ceramika Opoczno,0,0
+1999-09-11T00:00:00,Myszkow,,3,Hetman Zamosc,,2
+1999-09-11T00:00:00,Ostrowiec Swietokrzyski,,0,Odra Opole,,1
+1999-09-11T00:00:00,Polar Wroclaw,,1,Korona Kielce,,0
+1999-09-11T00:00:00,Radomsko,,2,Polonia Bytom,,0
+1999-09-11T00:00:00,S. Wola,,2,Lechia Gdansk,,0
+1999-09-11T00:00:00,Stal Szczecin,,1,Swit,,0
+1999-09-07T00:00:00,Radomsko,,3,Odra Opole,,0
+1999-09-07T00:00:00,Swit,,0,S. Wola,,1
+1999-09-05T00:00:00,Hetman Zamosc,0,0,GKS Belchatow,0,0
+1999-09-05T00:00:00,Leczna,,3,Ostrowiec Swietokrzyski,,1
+1999-09-05T00:00:00,Odra Opole,,2,Gornik Konin,,1
+1999-09-05T00:00:00,Rakow,,1,Jeziorak,,0
+1999-09-05T00:00:00,Slask Wroclaw,,1,Polonia Bytom,,0
+1999-09-04T00:00:00,Ceramika Opoczno,,1,GKS Katowice,,2
+1999-09-04T00:00:00,Grunwald,,1,Radomsko,,3
+1999-09-04T00:00:00,Hutnik Krakow,,1,Stal Szczecin,,0
+1999-09-04T00:00:00,Korona Kielce,,2,Kietrz,,1
+1999-09-04T00:00:00,Lechia Gdansk,,1,Myszkow,,1
+1999-09-04T00:00:00,Siarka Tarnobrzeg,,3,Polar Wroclaw,,1
+1999-09-01T00:00:00,GKS Belchatow,,3,Lechia Gdansk,,1
+1999-09-01T00:00:00,GKS Katowice,,3,Korona Kielce,,0
+1999-09-01T00:00:00,Gornik Konin,,1,Leczna,,3
+1999-09-01T00:00:00,Jeziorak,,0,Ceramika Opoczno,,1
+1999-09-01T00:00:00,Kietrz,,1,Siarka Tarnobrzeg,,0
+1999-09-01T00:00:00,Myszkow,0,0,Swit,0,0
+1999-09-01T00:00:00,Ostrowiec Swietokrzyski,,0,Hetman Zamosc,,1
+1999-09-01T00:00:00,Polar Wroclaw,,2,Grunwald,,0
+1999-09-01T00:00:00,Polonia Bytom,0,0,Odra Opole,0,0
+1999-09-01T00:00:00,Radomsko,,0,Slask Wroclaw,,3
+1999-09-01T00:00:00,S. Wola,,1,Hutnik Krakow,,0
+1999-09-01T00:00:00,Stal Szczecin,0,0,Rakow,0,0
+1999-08-29T00:00:00,Hetman Zamosc,0,0,Gornik Konin,0,0
+1999-08-28T00:00:00,Ceramika Opoczno,,2,Stal Szczecin,,0
+1999-08-28T00:00:00,Grunwald,,1,Kietrz,,1
+1999-08-28T00:00:00,Hutnik Krakow,,1,Myszkow,,1
+1999-08-28T00:00:00,Korona Kielce,,3,Jeziorak,,0
+1999-08-28T00:00:00,Lechia Gdansk,,1,Ostrowiec Swietokrzyski,,1
+1999-08-28T00:00:00,Leczna,,1,Polonia Bytom,,0
+1999-08-28T00:00:00,Odra Opole,0,0,Slask Wroclaw,0,0
+1999-08-28T00:00:00,Polar Wroclaw,,2,Radomsko,,0
+1999-08-28T00:00:00,Rakow,,6,S. Wola,,0
+1999-08-28T00:00:00,Siarka Tarnobrzeg,0,0,GKS Katowice,0,0
+1999-08-28T00:00:00,Swit,,0,GKS Belchatow,,2
+1999-08-25T00:00:00,GKS Belchatow,,2,Hutnik Krakow,,0
+1999-08-25T00:00:00,GKS Katowice,,2,Grunwald,,1
+1999-08-25T00:00:00,Gornik Konin,,1,Lechia Gdansk,,1
+1999-08-25T00:00:00,Jeziorak,,1,Siarka Tarnobrzeg,,0
+1999-08-25T00:00:00,Kietrz,,2,Polar Wroclaw,,1
+1999-08-25T00:00:00,Myszkow,,0,Rakow,,1
+1999-08-25T00:00:00,Ostrowiec Swietokrzyski,,3,Swit,,0
+1999-08-25T00:00:00,Polonia Bytom,,1,Hetman Zamosc,,0
+1999-08-25T00:00:00,S. Wola,,1,Ceramika Opoczno,,2
+1999-08-25T00:00:00,Slask Wroclaw,,3,Leczna,,1
+1999-08-25T00:00:00,Stal Szczecin,,2,Korona Kielce,,0
+1999-08-21T00:00:00,Ceramika Opoczno,,0,Myszkow,,1
+1999-08-21T00:00:00,Grunwald,,3,Jeziorak,,0
+1999-08-21T00:00:00,Hetman Zamosc,0,0,Slask Wroclaw,0,0
+1999-08-21T00:00:00,Hutnik Krakow,,0,Ostrowiec Swietokrzyski,,1
+1999-08-21T00:00:00,Kietrz,,4,Radomsko,,0
+1999-08-21T00:00:00,Korona Kielce,,1,S. Wola,,3
+1999-08-21T00:00:00,Leczna,,2,Odra Opole,,0
+1999-08-21T00:00:00,Polar Wroclaw,,2,GKS Katowice,,1
+1999-08-21T00:00:00,Rakow,,0,GKS Belchatow,,2
+1999-08-21T00:00:00,Siarka Tarnobrzeg,,1,Stal Szczecin,,1
+1999-08-21T00:00:00,Swit,,2,Gornik Konin,,0
+1999-08-20T00:00:00,Lechia Gdansk,,1,Polonia Bytom,,2
+1999-08-15T00:00:00,Ostrowiec Swietokrzyski,,2,Rakow,,1
+1999-08-15T00:00:00,S. Wola,,2,Siarka Tarnobrzeg,,2
+1999-08-15T00:00:00,Slask Wroclaw,,5,Lechia Gdansk,,1
+1999-08-14T00:00:00,GKS Belchatow,,1,Ceramika Opoczno,,0
+1999-08-14T00:00:00,GKS Katowice,,1,Kietrz,,0
+1999-08-14T00:00:00,Gornik Konin,,0,Hutnik Krakow,,1
+1999-08-14T00:00:00,Jeziorak,,1,Polar Wroclaw,,0
+1999-08-14T00:00:00,Myszkow,,1,Korona Kielce,,0
+1999-08-14T00:00:00,Polonia Bytom,,1,Swit,,1
+1999-08-14T00:00:00,Radomsko,,0,Leczna,,1
+1999-08-14T00:00:00,Stal Szczecin,,1,Grunwald,,0
+1999-08-13T00:00:00,Odra Opole,,2,Hetman Zamosc,,0
+1999-08-07T00:00:00,Ceramika Opoczno,,2,Ostrowiec Swietokrzyski,,4
+1999-08-07T00:00:00,GKS Katowice,,4,Radomsko,,2
+1999-08-07T00:00:00,Grunwald,,1,S. Wola,,1
+1999-08-07T00:00:00,Hetman Zamosc,,1,Leczna,,1
+1999-08-07T00:00:00,Hutnik Krakow,,0,Polonia Bytom,,2
+1999-08-07T00:00:00,Kietrz,,1,Jeziorak,,0
+1999-08-07T00:00:00,Korona Kielce,,0,GKS Belchatow,,5
+1999-08-07T00:00:00,Lechia Gdansk,,3,Odra Opole,,1
+1999-08-07T00:00:00,Polar Wroclaw,,0,Stal Szczecin,,2
+1999-08-07T00:00:00,Rakow,,3,Gornik Konin,,3
+1999-08-07T00:00:00,Siarka Tarnobrzeg,,2,Myszkow,,0
+1999-08-07T00:00:00,Swit,,0,Slask Wroclaw,,1
+1999-08-01T00:00:00,Leczna,,5,Lechia Gdansk,,0
+1999-08-01T00:00:00,Myszkow,,2,Grunwald,,3
+1999-08-01T00:00:00,Odra Opole,,4,Swit,,1
+1999-08-01T00:00:00,Ostrowiec Swietokrzyski,0,0,Korona Kielce,0,0
+1999-08-01T00:00:00,Polonia Bytom,,0,Rakow,,2
+1999-08-01T00:00:00,Radomsko,,1,Hetman Zamosc,,0
+1999-08-01T00:00:00,S. Wola,,2,Polar Wroclaw,,1
+1999-08-01T00:00:00,Slask Wroclaw,,1,Hutnik Krakow,,0
+1999-07-31T00:00:00,GKS Belchatow,,1,Siarka Tarnobrzeg,,1
+1999-07-31T00:00:00,Gornik Konin,,2,Ceramika Opoczno,,1
+1999-07-31T00:00:00,Jeziorak,,1,GKS Katowice,,0
+1999-07-31T00:00:00,Stal Szczecin,,1,Kietrz,,1
+1999-07-28T00:00:00,Ceramika Opoczno,,5,Polonia Bytom,,0
+1999-07-28T00:00:00,GKS Katowice,,6,Stal Szczecin,,2
+1999-07-28T00:00:00,Grunwald,0,0,GKS Belchatow,0,0
+1999-07-28T00:00:00,Hutnik Krakow,,4,Odra Opole,,0
+1999-07-28T00:00:00,Jeziorak,,1,Radomsko,,0
+1999-07-28T00:00:00,Kietrz,,4,S. Wola,,1
+1999-07-28T00:00:00,Korona Kielce,,1,Gornik Konin,,0
+1999-07-28T00:00:00,Lechia Gdansk,,0,Hetman Zamosc,,1
+1999-07-28T00:00:00,Polar Wroclaw,,2,Myszkow,,1
+1999-07-28T00:00:00,Rakow,,1,Slask Wroclaw,,3
+1999-07-28T00:00:00,Siarka Tarnobrzeg,,1,Ostrowiec Swietokrzyski,,1
+1999-07-28T00:00:00,Swit,,1,Leczna,,5
+1999-07-25T00:00:00,Odra Opole,,1,Rakow,,0
+1999-07-24T00:00:00,GKS Belchatow,,3,Polar Wroclaw,,1
+1999-07-24T00:00:00,Gornik Konin,,1,Siarka Tarnobrzeg,,0
+1999-07-24T00:00:00,Hetman Zamosc,,1,Swit,,0
+1999-07-24T00:00:00,Leczna,0,0,Hutnik Krakow,0,0
+1999-07-24T00:00:00,Myszkow,,1,Kietrz,,3
+1999-07-24T00:00:00,Ostrowiec Swietokrzyski,,3,Grunwald,,0
+1999-07-24T00:00:00,Polonia Bytom,,1,Korona Kielce,,0
+1999-07-24T00:00:00,Radomsko,0,0,Lechia Gdansk,0,0
+1999-07-24T00:00:00,S. Wola,0,0,GKS Katowice,0,0
+1999-07-24T00:00:00,Slask Wroclaw,,4,Ceramika Opoczno,,0
+1999-07-24T00:00:00,Stal Szczecin,,1,Jeziorak,,0
+1999-07-17T00:00:00,Ceramika Opoczno,,2,Odra Opole,,0
+1999-07-17T00:00:00,GKS Katowice,,1,Myszkow,,0
+1999-07-17T00:00:00,Grunwald,,2,Gornik Konin,,0
+1999-07-17T00:00:00,Hutnik Krakow,,1,Hetman Zamosc,,0
+1999-07-17T00:00:00,Jeziorak,0,0,S. Wola,0,0
+1999-07-17T00:00:00,Kietrz,0,0,GKS Belchatow,0,0
+1999-07-17T00:00:00,Korona Kielce,0,0,Slask Wroclaw,0,0
+1999-07-17T00:00:00,Polar Wroclaw,,1,Ostrowiec Swietokrzyski,,0
+1999-07-17T00:00:00,Rakow,,0,Leczna,,1
+1999-07-17T00:00:00,Siarka Tarnobrzeg,,2,Polonia Bytom,,0
+1999-07-17T00:00:00,Stal Szczecin,0,0,Radomsko,0,0
+1999-07-17T00:00:00,Swit,,0,Lechia Gdansk,,1

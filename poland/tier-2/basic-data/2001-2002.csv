@@ -1,0 +1,381 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2002-05-05T00:00:00,Arka Gdynia,,2,Hetman Zamosc,,2
+2002-05-05T00:00:00,Ceramika Opoczno,,1,Radzionkow,,1
+2002-05-05T00:00:00,Hutnik Krakow,,4,Odra Opole,,3
+2002-05-05T00:00:00,Jagiellonia,,4,Swit,,2
+2002-05-05T00:00:00,Kietrz,,0,Polar Wroclaw,,5
+2002-05-05T00:00:00,Leczna,,1,Polkowice,,0
+2002-05-05T00:00:00,LKS Lodz,,2,Lech Poznan,,1
+2002-05-05T00:00:00,Szczakowianka,,3,GKS Belchatow,,1
+2002-05-05T00:00:00,Wisla Plock,,2,Myszkow,,1
+2002-05-05T00:00:00,Zaglebie Sosnowiec,,3,Tloki Gorzyce,,1
+2002-05-01T00:00:00,GKS Belchatow,,3,Wisla Plock,,2
+2002-05-01T00:00:00,Hetman Zamosc,,1,Ceramika Opoczno,,1
+2002-05-01T00:00:00,Lech Poznan,,2,Hutnik Krakow,,1
+2002-05-01T00:00:00,Myszkow,,1,Arka Gdynia,,1
+2002-05-01T00:00:00,Odra Opole,,3,Zaglebie Sosnowiec,,2
+2002-05-01T00:00:00,Polar Wroclaw,,1,Leczna,,3
+2002-05-01T00:00:00,Polkowice,0,0,LKS Lodz,0,0
+2002-05-01T00:00:00,Radzionkow,,2,Kietrz,,0
+2002-05-01T00:00:00,Swit,,3,Szczakowianka,,1
+2002-05-01T00:00:00,Tloki Gorzyce,,2,Jagiellonia,,0
+2002-04-27T00:00:00,Ceramika Opoczno,,0,Arka Gdynia,,2
+2002-04-27T00:00:00,Hutnik Krakow,,3,Polkowice,,2
+2002-04-27T00:00:00,Jagiellonia,,3,Odra Opole,,1
+2002-04-27T00:00:00,Kietrz,,3,Hetman Zamosc,,0
+2002-04-27T00:00:00,Leczna,,3,Radzionkow,,2
+2002-04-27T00:00:00,LKS Lodz,,0,Polar Wroclaw,,2
+2002-04-27T00:00:00,Myszkow,,1,GKS Belchatow,,1
+2002-04-27T00:00:00,Szczakowianka,,2,Tloki Gorzyce,,0
+2002-04-27T00:00:00,Wisla Plock,,1,Swit,,0
+2002-04-27T00:00:00,Zaglebie Sosnowiec,,2,Lech Poznan,,4
+2002-04-24T00:00:00,Arka Gdynia,,1,GKS Belchatow,,0
+2002-04-24T00:00:00,Ceramika Opoczno,,3,Kietrz,,0
+2002-04-24T00:00:00,Hetman Zamosc,,1,Leczna,,0
+2002-04-24T00:00:00,Lech Poznan,,1,Jagiellonia,,0
+2002-04-24T00:00:00,Odra Opole,,1,Szczakowianka,,0
+2002-04-24T00:00:00,Polar Wroclaw,,6,Hutnik Krakow,,2
+2002-04-24T00:00:00,Polkowice,,1,Zaglebie Sosnowiec,,0
+2002-04-24T00:00:00,Radzionkow,,2,LKS Lodz,,0
+2002-04-24T00:00:00,Swit,,1,Myszkow,,0
+2002-04-24T00:00:00,Tloki Gorzyce,,1,Wisla Plock,,1
+2002-04-20T00:00:00,GKS Belchatow,,2,Swit,,0
+2002-04-20T00:00:00,Hutnik Krakow,,0,Radzionkow,,2
+2002-04-20T00:00:00,Jagiellonia,,3,Polkowice,,1
+2002-04-20T00:00:00,Kietrz,,1,Arka Gdynia,,2
+2002-04-20T00:00:00,Leczna,,1,Ceramika Opoczno,,0
+2002-04-20T00:00:00,LKS Lodz,,2,Hetman Zamosc,,1
+2002-04-20T00:00:00,Myszkow,,1,Tloki Gorzyce,,1
+2002-04-20T00:00:00,Szczakowianka,0,0,Lech Poznan,0,0
+2002-04-20T00:00:00,Wisla Plock,,2,Odra Opole,,0
+2002-04-20T00:00:00,Zaglebie Sosnowiec,,1,Polar Wroclaw,,2
+2002-04-14T00:00:00,Arka Gdynia,,1,Swit,,1
+2002-04-14T00:00:00,Ceramika Opoczno,,0,LKS Lodz,,1
+2002-04-14T00:00:00,Hetman Zamosc,,1,Hutnik Krakow,,1
+2002-04-14T00:00:00,Kietrz,,3,Leczna,,0
+2002-04-14T00:00:00,Lech Poznan,,1,Wisla Plock,,0
+2002-04-14T00:00:00,Odra Opole,,2,Myszkow,,1
+2002-04-14T00:00:00,Polar Wroclaw,,2,Jagiellonia,,2
+2002-04-14T00:00:00,Polkowice,,2,Szczakowianka,,1
+2002-04-14T00:00:00,Radzionkow,,3,Zaglebie Sosnowiec,,1
+2002-04-14T00:00:00,Tloki Gorzyce,,3,GKS Belchatow,,1
+2002-04-07T00:00:00,GKS Belchatow,,4,Odra Opole,,1
+2002-04-07T00:00:00,Hutnik Krakow,,1,Ceramika Opoczno,,2
+2002-04-07T00:00:00,Jagiellonia,,1,Radzionkow,,1
+2002-04-07T00:00:00,Leczna,,1,Arka Gdynia,,1
+2002-04-07T00:00:00,LKS Lodz,,2,Kietrz,,1
+2002-04-07T00:00:00,Myszkow,,0,Lech Poznan,,2
+2002-04-07T00:00:00,Swit,,1,Tloki Gorzyce,,3
+2002-04-07T00:00:00,Szczakowianka,,1,Polar Wroclaw,,0
+2002-04-07T00:00:00,Wisla Plock,0,0,Polkowice,0,0
+2002-04-07T00:00:00,Zaglebie Sosnowiec,0,0,Hetman Zamosc,0,0
+2002-04-03T00:00:00,Arka Gdynia,,2,Tloki Gorzyce,,1
+2002-04-03T00:00:00,Ceramika Opoczno,,1,Zaglebie Sosnowiec,,1
+2002-04-03T00:00:00,Hetman Zamosc,0,0,Jagiellonia,0,0
+2002-04-03T00:00:00,Kietrz,,2,Hutnik Krakow,,4
+2002-04-03T00:00:00,Lech Poznan,,2,GKS Belchatow,,1
+2002-04-03T00:00:00,Leczna,,1,LKS Lodz,,0
+2002-04-03T00:00:00,Odra Opole,,1,Swit,,0
+2002-04-03T00:00:00,Polar Wroclaw,,2,Wisla Plock,,0
+2002-04-03T00:00:00,Polkowice,,1,Myszkow,,0
+2002-04-03T00:00:00,Radzionkow,,1,Szczakowianka,,1
+2002-03-30T00:00:00,GKS Belchatow,,2,Polkowice,,0
+2002-03-30T00:00:00,Hutnik Krakow,,1,Leczna,,0
+2002-03-30T00:00:00,Jagiellonia,,1,Ceramika Opoczno,,0
+2002-03-30T00:00:00,LKS Lodz,,1,Arka Gdynia,,0
+2002-03-30T00:00:00,Myszkow,,0,Polar Wroclaw,,2
+2002-03-30T00:00:00,Swit,,1,Lech Poznan,,3
+2002-03-30T00:00:00,Szczakowianka,,2,Hetman Zamosc,,1
+2002-03-30T00:00:00,Tloki Gorzyce,,3,Odra Opole,,3
+2002-03-30T00:00:00,Wisla Plock,,3,Radzionkow,,1
+2002-03-30T00:00:00,Zaglebie Sosnowiec,,2,Kietrz,,1
+2002-03-24T00:00:00,Arka Gdynia,,1,Odra Opole,,0
+2002-03-24T00:00:00,Hetman Zamosc,,1,Wisla Plock,,2
+2002-03-24T00:00:00,Leczna,,2,Zaglebie Sosnowiec,,1
+2002-03-23T00:00:00,Ceramika Opoczno,,2,Szczakowianka,,1
+2002-03-23T00:00:00,Kietrz,0,0,Jagiellonia,0,0
+2002-03-23T00:00:00,Lech Poznan,,3,Tloki Gorzyce,,0
+2002-03-23T00:00:00,LKS Lodz,,0,Hutnik Krakow,,1
+2002-03-23T00:00:00,Polar Wroclaw,,1,GKS Belchatow,,2
+2002-03-23T00:00:00,Polkowice,,2,Swit,,0
+2002-03-23T00:00:00,Radzionkow,,0,Myszkow,,2
+2002-03-20T00:00:00,GKS Belchatow,,1,Radzionkow,,2
+2002-03-20T00:00:00,Hutnik Krakow,,1,Arka Gdynia,,1
+2002-03-20T00:00:00,Jagiellonia,,1,Leczna,,0
+2002-03-20T00:00:00,Myszkow,,2,Hetman Zamosc,,2
+2002-03-20T00:00:00,Odra Opole,,1,Lech Poznan,,0
+2002-03-20T00:00:00,Swit,,1,Polar Wroclaw,,1
+2002-03-20T00:00:00,Szczakowianka,,1,Kietrz,,0
+2002-03-20T00:00:00,Tloki Gorzyce,,1,Polkowice,,1
+2002-03-20T00:00:00,Wisla Plock,,2,Ceramika Opoczno,,0
+2002-03-20T00:00:00,Zaglebie Sosnowiec,,0,LKS Lodz,,3
+2002-03-17T00:00:00,Polkowice,,2,Odra Opole,,0
+2002-03-16T00:00:00,Arka Gdynia,,1,Lech Poznan,,1
+2002-03-16T00:00:00,Ceramika Opoczno,,2,Myszkow,,1
+2002-03-16T00:00:00,Hetman Zamosc,,4,GKS Belchatow,,1
+2002-03-16T00:00:00,Hutnik Krakow,,3,Zaglebie Sosnowiec,,1
+2002-03-16T00:00:00,Kietrz,,1,Wisla Plock,,1
+2002-03-16T00:00:00,Leczna,,2,Szczakowianka,,3
+2002-03-16T00:00:00,LKS Lodz,,2,Jagiellonia,,1
+2002-03-16T00:00:00,Polar Wroclaw,,2,Tloki Gorzyce,,0
+2002-03-16T00:00:00,Radzionkow,,3,Swit,,1
+2002-03-13T00:00:00,GKS Belchatow,,1,Ceramika Opoczno,,4
+2002-03-13T00:00:00,Jagiellonia,,2,Hutnik Krakow,,0
+2002-03-13T00:00:00,Lech Poznan,,2,Polkowice,,0
+2002-03-13T00:00:00,Myszkow,0,0,Kietrz,0,0
+2002-03-13T00:00:00,Odra Opole,,0,Polar Wroclaw,,1
+2002-03-13T00:00:00,Swit,0,0,Hetman Zamosc,0,0
+2002-03-13T00:00:00,Szczakowianka,,1,LKS Lodz,,0
+2002-03-13T00:00:00,Tloki Gorzyce,,2,Radzionkow,,4
+2002-03-13T00:00:00,Wisla Plock,,1,Leczna,,2
+2002-03-13T00:00:00,Zaglebie Sosnowiec,0,0,Arka Gdynia,0,0
+2002-03-09T00:00:00,Arka Gdynia,0,0,Polkowice,0,0
+2002-03-09T00:00:00,Ceramika Opoczno,,2,Swit,,0
+2002-03-09T00:00:00,Hetman Zamosc,0,0,Tloki Gorzyce,0,0
+2002-03-09T00:00:00,Hutnik Krakow,,1,Szczakowianka,,2
+2002-03-09T00:00:00,Kietrz,,2,GKS Belchatow,,0
+2002-03-09T00:00:00,Leczna,,4,Myszkow,,0
+2002-03-09T00:00:00,LKS Lodz,0,0,Wisla Plock,0,0
+2002-03-09T00:00:00,Polar Wroclaw,,0,Lech Poznan,,1
+2002-03-09T00:00:00,Radzionkow,,2,Odra Opole,,0
+2002-03-09T00:00:00,Zaglebie Sosnowiec,,1,Jagiellonia,,0
+2002-03-03T00:00:00,Jagiellonia,0,0,Arka Gdynia,0,0
+2002-03-02T00:00:00,GKS Belchatow,,3,Leczna,,1
+2002-03-02T00:00:00,Lech Poznan,,1,Radzionkow,,0
+2002-03-02T00:00:00,Myszkow,,1,LKS Lodz,,0
+2002-03-02T00:00:00,Odra Opole,,3,Hetman Zamosc,,0
+2002-03-02T00:00:00,Polkowice,,1,Polar Wroclaw,,1
+2002-03-02T00:00:00,Swit,,0,Kietrz,,1
+2002-03-02T00:00:00,Szczakowianka,,1,Zaglebie Sosnowiec,,1
+2002-03-02T00:00:00,Tloki Gorzyce,,0,Ceramika Opoczno,,1
+2002-03-02T00:00:00,Wisla Plock,,2,Hutnik Krakow,,0
+2001-12-02T00:00:00,LKS Lodz,,1,GKS Belchatow,,0
+2001-12-01T00:00:00,Hutnik Krakow,,1,Myszkow,,1
+2001-12-01T00:00:00,Leczna,,1,Swit,,0
+2001-12-01T00:00:00,Zaglebie Sosnowiec,0,0,Wisla Plock,0,0
+2001-11-28T00:00:00,Arka Gdynia,,3,Polar Wroclaw,,1
+2001-11-28T00:00:00,Ceramika Opoczno,,5,Odra Opole,,2
+2001-11-28T00:00:00,Hetman Zamosc,,0,Lech Poznan,,2
+2001-11-28T00:00:00,Jagiellonia,,3,Szczakowianka,,1
+2001-11-28T00:00:00,Kietrz,,1,Tloki Gorzyce,,2
+2001-11-28T00:00:00,Radzionkow,,0,Polkowice,,2
+2001-11-24T00:00:00,GKS Belchatow,,2,Hutnik Krakow,,0
+2001-11-24T00:00:00,Lech Poznan,,2,Ceramika Opoczno,,0
+2001-11-24T00:00:00,Myszkow,,1,Zaglebie Sosnowiec,,0
+2001-11-24T00:00:00,Odra Opole,,1,Kietrz,,1
+2001-11-24T00:00:00,Polar Wroclaw,,0,Radzionkow,,2
+2001-11-24T00:00:00,Polkowice,,1,Hetman Zamosc,,1
+2001-11-24T00:00:00,Swit,,1,LKS Lodz,,1
+2001-11-24T00:00:00,Szczakowianka,,3,Arka Gdynia,,1
+2001-11-24T00:00:00,Tloki Gorzyce,,1,Leczna,,4
+2001-11-24T00:00:00,Wisla Plock,,1,Jagiellonia,,0
+2001-11-18T00:00:00,Hutnik Krakow,,1,Swit,,1
+2001-11-17T00:00:00,Arka Gdynia,0,0,Radzionkow,0,0
+2001-11-17T00:00:00,Ceramika Opoczno,,0,Polkowice,,3
+2001-11-17T00:00:00,Hetman Zamosc,,1,Polar Wroclaw,,1
+2001-11-17T00:00:00,Jagiellonia,0,0,Myszkow,0,0
+2001-11-17T00:00:00,Kietrz,,1,Lech Poznan,,1
+2001-11-17T00:00:00,Leczna,,1,Odra Opole,,0
+2001-11-17T00:00:00,LKS Lodz,,1,Tloki Gorzyce,,0
+2001-11-17T00:00:00,Szczakowianka,0,0,Wisla Plock,0,0
+2001-11-17T00:00:00,Zaglebie Sosnowiec,,2,GKS Belchatow,,2
+2001-11-14T00:00:00,GKS Belchatow,,2,Jagiellonia,,1
+2001-11-14T00:00:00,Hetman Zamosc,,3,Radzionkow,,2
+2001-11-14T00:00:00,Myszkow,,1,Szczakowianka,,2
+2001-11-14T00:00:00,Odra Opole,,1,LKS Lodz,,0
+2001-11-14T00:00:00,Polar Wroclaw,,3,Ceramika Opoczno,,1
+2001-11-14T00:00:00,Polkowice,,3,Kietrz,,1
+2001-11-14T00:00:00,Swit,,1,Zaglebie Sosnowiec,,0
+2001-11-14T00:00:00,Tloki Gorzyce,,2,Hutnik Krakow,,0
+2001-11-14T00:00:00,Wisla Plock,0,0,Arka Gdynia,0,0
+2001-11-10T00:00:00,GKS Belchatow,,3,Szczakowianka,,1
+2001-11-10T00:00:00,Hetman Zamosc,,2,Arka Gdynia,,0
+2001-11-10T00:00:00,Polar Wroclaw,,1,Kietrz,,2
+2001-11-10T00:00:00,Radzionkow,,1,Ceramika Opoczno,,2
+2001-11-10T00:00:00,Tloki Gorzyce,,1,Zaglebie Sosnowiec,,1
+2001-11-07T00:00:00,Lech Poznan,,3,LKS Lodz,,1
+2001-11-07T00:00:00,Myszkow,,0,Wisla Plock,,2
+2001-11-07T00:00:00,Odra Opole,,2,Hutnik Krakow,,0
+2001-11-07T00:00:00,Polkowice,,0,Leczna,,1
+2001-11-07T00:00:00,Swit,,2,Jagiellonia,,1
+2001-11-04T00:00:00,Arka Gdynia,,1,Myszkow,,1
+2001-11-04T00:00:00,Ceramika Opoczno,,2,Hetman Zamosc,,1
+2001-11-04T00:00:00,Hutnik Krakow,,1,Lech Poznan,,2
+2001-11-04T00:00:00,Jagiellonia,,1,Tloki Gorzyce,,1
+2001-11-04T00:00:00,Kietrz,,2,Radzionkow,,1
+2001-11-04T00:00:00,Leczna,,1,Polar Wroclaw,,1
+2001-11-04T00:00:00,LKS Lodz,,1,Polkowice,,1
+2001-11-04T00:00:00,Szczakowianka,,4,Swit,,1
+2001-11-04T00:00:00,Wisla Plock,,1,GKS Belchatow,,1
+2001-11-04T00:00:00,Zaglebie Sosnowiec,,1,Odra Opole,,0
+2001-10-31T00:00:00,Lech Poznan,,1,Leczna,,0
+2001-10-28T00:00:00,Arka Gdynia,,1,Ceramika Opoczno,,0
+2001-10-28T00:00:00,GKS Belchatow,,2,Myszkow,,0
+2001-10-28T00:00:00,Hetman Zamosc,,1,Kietrz,,0
+2001-10-28T00:00:00,Lech Poznan,,2,Zaglebie Sosnowiec,,1
+2001-10-28T00:00:00,Odra Opole,,1,Jagiellonia,,1
+2001-10-28T00:00:00,Polar Wroclaw,,2,LKS Lodz,,0
+2001-10-28T00:00:00,Polkowice,,0,Hutnik Krakow,,2
+2001-10-28T00:00:00,Radzionkow,,1,Leczna,,0
+2001-10-28T00:00:00,Swit,,0,Wisla Plock,,2
+2001-10-28T00:00:00,Tloki Gorzyce,,1,Szczakowianka,,0
+2001-10-24T00:00:00,GKS Belchatow,,3,Arka Gdynia,,1
+2001-10-24T00:00:00,Hutnik Krakow,,2,Polar Wroclaw,,0
+2001-10-24T00:00:00,Jagiellonia,,1,Lech Poznan,,1
+2001-10-24T00:00:00,Kietrz,,3,Ceramika Opoczno,,2
+2001-10-24T00:00:00,Leczna,0,0,Hetman Zamosc,0,0
+2001-10-24T00:00:00,LKS Lodz,,1,Radzionkow,,1
+2001-10-24T00:00:00,Myszkow,,2,Swit,,0
+2001-10-24T00:00:00,Szczakowianka,,3,Odra Opole,,0
+2001-10-24T00:00:00,Wisla Plock,,2,Tloki Gorzyce,,0
+2001-10-24T00:00:00,Zaglebie Sosnowiec,,1,Polkowice,,0
+2001-10-20T00:00:00,Arka Gdynia,,3,Kietrz,,0
+2001-10-20T00:00:00,Ceramika Opoczno,,0,Leczna,,2
+2001-10-20T00:00:00,Hetman Zamosc,0,0,LKS Lodz,0,0
+2001-10-20T00:00:00,Lech Poznan,,4,Szczakowianka,,0
+2001-10-20T00:00:00,Odra Opole,,0,Wisla Plock,,2
+2001-10-20T00:00:00,Polar Wroclaw,,0,Zaglebie Sosnowiec,,1
+2001-10-20T00:00:00,Polkowice,0,0,Jagiellonia,0,0
+2001-10-20T00:00:00,Radzionkow,,2,Hutnik Krakow,,3
+2001-10-20T00:00:00,Swit,,2,GKS Belchatow,,1
+2001-10-20T00:00:00,Tloki Gorzyce,,2,Myszkow,,1
+2001-10-13T00:00:00,GKS Belchatow,,0,Tloki Gorzyce,,3
+2001-10-13T00:00:00,Hutnik Krakow,,2,Hetman Zamosc,,0
+2001-10-13T00:00:00,Jagiellonia,,4,Polar Wroclaw,,0
+2001-10-13T00:00:00,Leczna,,3,Kietrz,,0
+2001-10-13T00:00:00,LKS Lodz,,4,Ceramika Opoczno,,1
+2001-10-13T00:00:00,Myszkow,,1,Odra Opole,,0
+2001-10-13T00:00:00,Swit,,3,Arka Gdynia,,1
+2001-10-13T00:00:00,Szczakowianka,,1,Polkowice,,0
+2001-10-13T00:00:00,Wisla Plock,0,0,Lech Poznan,0,0
+2001-10-13T00:00:00,Zaglebie Sosnowiec,,3,Radzionkow,,0
+2001-10-07T00:00:00,Arka Gdynia,,1,Leczna,,1
+2001-10-07T00:00:00,Ceramika Opoczno,,5,Hutnik Krakow,,2
+2001-10-07T00:00:00,Hetman Zamosc,,2,Zaglebie Sosnowiec,,0
+2001-10-07T00:00:00,Kietrz,,1,LKS Lodz,,0
+2001-10-07T00:00:00,Lech Poznan,,2,Myszkow,,0
+2001-10-07T00:00:00,Odra Opole,,0,GKS Belchatow,,4
+2001-10-07T00:00:00,Polar Wroclaw,,1,Szczakowianka,,3
+2001-10-07T00:00:00,Polkowice,,0,Wisla Plock,,1
+2001-10-07T00:00:00,Radzionkow,,1,Jagiellonia,,0
+2001-10-07T00:00:00,Tloki Gorzyce,,0,Swit,,1
+2001-09-30T00:00:00,GKS Belchatow,0,0,Lech Poznan,0,0
+2001-09-30T00:00:00,Hutnik Krakow,0,0,Kietrz,0,0
+2001-09-30T00:00:00,Jagiellonia,,1,Hetman Zamosc,,2
+2001-09-30T00:00:00,LKS Lodz,0,0,Leczna,0,0
+2001-09-30T00:00:00,Myszkow,,0,Polkowice,,2
+2001-09-30T00:00:00,Swit,,0,Odra Opole,,1
+2001-09-30T00:00:00,Szczakowianka,,3,Radzionkow,,2
+2001-09-30T00:00:00,Tloki Gorzyce,,2,Arka Gdynia,,1
+2001-09-30T00:00:00,Wisla Plock,,3,Polar Wroclaw,,0
+2001-09-30T00:00:00,Zaglebie Sosnowiec,,1,Ceramika Opoczno,,1
+2001-09-26T00:00:00,Tloki Gorzyce,,1,LKS Lodz,,0
+2001-09-22T00:00:00,Arka Gdynia,0,0,LKS Lodz,0,0
+2001-09-22T00:00:00,Ceramika Opoczno,,1,Jagiellonia,,0
+2001-09-22T00:00:00,Hetman Zamosc,,1,Szczakowianka,,0
+2001-09-22T00:00:00,Kietrz,,1,Zaglebie Sosnowiec,,0
+2001-09-22T00:00:00,Lech Poznan,,1,Swit,,1
+2001-09-22T00:00:00,Leczna,,2,Hutnik Krakow,,0
+2001-09-22T00:00:00,Odra Opole,,1,Tloki Gorzyce,,2
+2001-09-22T00:00:00,Polar Wroclaw,,1,Myszkow,,0
+2001-09-22T00:00:00,Polkowice,0,0,GKS Belchatow,0,0
+2001-09-22T00:00:00,Radzionkow,,1,Wisla Plock,,2
+2001-09-15T00:00:00,GKS Belchatow,0,0,Polar Wroclaw,0,0
+2001-09-15T00:00:00,Hutnik Krakow,,1,LKS Lodz,,1
+2001-09-15T00:00:00,Jagiellonia,,1,Kietrz,,0
+2001-09-15T00:00:00,Myszkow,,3,Radzionkow,,2
+2001-09-15T00:00:00,Odra Opole,,3,Arka Gdynia,,0
+2001-09-15T00:00:00,Swit,,1,Polkowice,,1
+2001-09-15T00:00:00,Szczakowianka,,4,Ceramika Opoczno,,0
+2001-09-15T00:00:00,Tloki Gorzyce,,0,Lech Poznan,,4
+2001-09-15T00:00:00,Wisla Plock,,2,Hetman Zamosc,,1
+2001-09-15T00:00:00,Zaglebie Sosnowiec,,1,Leczna,,1
+2001-09-08T00:00:00,Arka Gdynia,,2,Hutnik Krakow,,3
+2001-09-08T00:00:00,Ceramika Opoczno,,1,Wisla Plock,,1
+2001-09-08T00:00:00,Hetman Zamosc,,2,Myszkow,,0
+2001-09-08T00:00:00,Kietrz,,2,Szczakowianka,,2
+2001-09-08T00:00:00,Lech Poznan,,1,Odra Opole,,0
+2001-09-08T00:00:00,Leczna,,3,Jagiellonia,,0
+2001-09-08T00:00:00,LKS Lodz,,1,Zaglebie Sosnowiec,,1
+2001-09-08T00:00:00,Polar Wroclaw,,1,Swit,,0
+2001-09-08T00:00:00,Polkowice,0,0,Tloki Gorzyce,0,0
+2001-09-08T00:00:00,Radzionkow,0,0,GKS Belchatow,0,0
+2001-09-05T00:00:00,GKS Belchatow,,2,Hetman Zamosc,,2
+2001-09-05T00:00:00,Jagiellonia,,2,LKS Lodz,,0
+2001-09-05T00:00:00,Lech Poznan,,2,Arka Gdynia,,0
+2001-09-05T00:00:00,Myszkow,,1,Ceramika Opoczno,,1
+2001-09-05T00:00:00,Odra Opole,,2,Polkowice,,2
+2001-09-05T00:00:00,Swit,,2,Radzionkow,,1
+2001-09-05T00:00:00,Szczakowianka,,4,Leczna,,1
+2001-09-05T00:00:00,Tloki Gorzyce,,0,Polar Wroclaw,,3
+2001-09-05T00:00:00,Wisla Plock,,1,Kietrz,,1
+2001-09-05T00:00:00,Zaglebie Sosnowiec,,2,Hutnik Krakow,,1
+2001-09-03T00:00:00,LKS Lodz,,4,Odra Opole,,0
+2001-09-01T00:00:00,Arka Gdynia,,2,Zaglebie Sosnowiec,,0
+2001-09-01T00:00:00,Ceramika Opoczno,,2,GKS Belchatow,,1
+2001-09-01T00:00:00,Hetman Zamosc,,2,Swit,,0
+2001-09-01T00:00:00,Hutnik Krakow,,1,Jagiellonia,,1
+2001-09-01T00:00:00,Kietrz,,2,Myszkow,,1
+2001-09-01T00:00:00,Leczna,,3,Wisla Plock,,0
+2001-09-01T00:00:00,LKS Lodz,,4,Szczakowianka,,0
+2001-09-01T00:00:00,Polar Wroclaw,,2,Odra Opole,,1
+2001-09-01T00:00:00,Polkowice,0,0,Lech Poznan,0,0
+2001-09-01T00:00:00,Radzionkow,,2,Tloki Gorzyce,,3
+2001-08-29T00:00:00,Jagiellonia,,2,Zaglebie Sosnowiec,,2
+2001-08-25T00:00:00,GKS Belchatow,,2,Kietrz,,0
+2001-08-25T00:00:00,Lech Poznan,,5,Polar Wroclaw,,2
+2001-08-25T00:00:00,Myszkow,,1,Leczna,,2
+2001-08-25T00:00:00,Odra Opole,,1,Radzionkow,,2
+2001-08-25T00:00:00,Polkowice,,2,Arka Gdynia,,2
+2001-08-25T00:00:00,Swit,,2,Ceramika Opoczno,,1
+2001-08-25T00:00:00,Szczakowianka,,2,Hutnik Krakow,,1
+2001-08-25T00:00:00,Tloki Gorzyce,,2,Hetman Zamosc,,2
+2001-08-25T00:00:00,Wisla Plock,,4,LKS Lodz,,0
+2001-08-18T00:00:00,Arka Gdynia,,1,Jagiellonia,,0
+2001-08-18T00:00:00,Ceramika Opoczno,,4,Tloki Gorzyce,,0
+2001-08-18T00:00:00,Hetman Zamosc,,4,Odra Opole,,1
+2001-08-18T00:00:00,Hutnik Krakow,0,0,Wisla Plock,0,0
+2001-08-18T00:00:00,Kietrz,,0,Swit,,1
+2001-08-18T00:00:00,Leczna,,2,GKS Belchatow,,2
+2001-08-18T00:00:00,LKS Lodz,,1,Myszkow,,3
+2001-08-18T00:00:00,Polar Wroclaw,,1,Polkowice,,2
+2001-08-18T00:00:00,Radzionkow,0,0,Lech Poznan,0,0
+2001-08-18T00:00:00,Zaglebie Sosnowiec,,5,Szczakowianka,,1
+2001-08-12T00:00:00,GKS Belchatow,,1,LKS Lodz,,0
+2001-08-12T00:00:00,Lech Poznan,,3,Hetman Zamosc,,0
+2001-08-12T00:00:00,Myszkow,,3,Hutnik Krakow,,1
+2001-08-12T00:00:00,Odra Opole,0,0,Ceramika Opoczno,0,0
+2001-08-12T00:00:00,Polkowice,,1,Radzionkow,,0
+2001-08-12T00:00:00,Swit,,1,Leczna,,0
+2001-08-12T00:00:00,Szczakowianka,,1,Jagiellonia,,0
+2001-08-12T00:00:00,Tloki Gorzyce,,1,Kietrz,,0
+2001-08-12T00:00:00,Wisla Plock,0,0,Zaglebie Sosnowiec,0,0
+2001-08-11T00:00:00,Polar Wroclaw,0,0,Arka Gdynia,0,0
+2001-08-05T00:00:00,Arka Gdynia,,1,Szczakowianka,,1
+2001-08-05T00:00:00,Ceramika Opoczno,,1,Lech Poznan,,1
+2001-08-05T00:00:00,Hetman Zamosc,,4,Polkowice,,0
+2001-08-05T00:00:00,Hutnik Krakow,,0,GKS Belchatow,,1
+2001-08-05T00:00:00,Jagiellonia,,1,Wisla Plock,,3
+2001-08-05T00:00:00,Leczna,0,0,Tloki Gorzyce,0,0
+2001-08-05T00:00:00,LKS Lodz,,2,Swit,,2
+2001-08-05T00:00:00,Radzionkow,,1,Polar Wroclaw,,0
+2001-08-05T00:00:00,Zaglebie Sosnowiec,,2,Myszkow,,1
+2001-08-04T00:00:00,Kietrz,,0,Odra Opole,,2
+2001-07-28T00:00:00,GKS Belchatow,,1,Zaglebie Sosnowiec,,1
+2001-07-28T00:00:00,Lech Poznan,,2,Kietrz,,0
+2001-07-28T00:00:00,Myszkow,,2,Jagiellonia,,3
+2001-07-28T00:00:00,Odra Opole,,2,Leczna,,0
+2001-07-28T00:00:00,Polar Wroclaw,,1,Hetman Zamosc,,1
+2001-07-28T00:00:00,Polkowice,,1,Ceramika Opoczno,,1
+2001-07-28T00:00:00,Radzionkow,,2,Arka Gdynia,,2
+2001-07-28T00:00:00,Swit,,2,Hutnik Krakow,,1
+2001-07-28T00:00:00,Wisla Plock,,2,Szczakowianka,,1
+2001-07-22T00:00:00,Jagiellonia,,0,GKS Belchatow,,2
+2001-07-21T00:00:00,Arka Gdynia,,1,Wisla Plock,,2
+2001-07-21T00:00:00,Ceramika Opoczno,,3,Polar Wroclaw,,0
+2001-07-21T00:00:00,Hutnik Krakow,,2,Tloki Gorzyce,,0
+2001-07-21T00:00:00,Kietrz,,1,Polkowice,,0
+2001-07-21T00:00:00,Leczna,,0,Lech Poznan,,1
+2001-07-21T00:00:00,Radzionkow,,2,Hetman Zamosc,,1
+2001-07-21T00:00:00,Szczakowianka,,4,Myszkow,,1
+2001-07-21T00:00:00,Zaglebie Sosnowiec,,0,Swit,,1

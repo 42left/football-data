@@ -1,0 +1,307 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2019-05-18T17:30:00,Chrobry Glogow,0,1,Podbeskidzie,1,1
+2019-05-18T17:30:00,GKS Jastrzebie,3,5,Sandecja Nowy S.,0,0
+2019-05-18T17:30:00,GKS Katowice,1,1,Bytovia Bytow,1,2
+2019-05-18T17:30:00,Odra Opole,0,3,LKS Lodz,3,3
+2019-05-18T17:30:00,Puszcza,2,3,Garbarnia,1,2
+2019-05-18T17:30:00,Rakow,0,1,Suwalki,1,2
+2019-05-18T17:30:00,Stomil Olsztyn,0,2,Stal Mielec,1,5
+2019-05-18T17:30:00,Termalica B-B.,0,1,Warta Poznan,0,0
+2019-05-17T18:30:00,Chojniczanka,2,4,Tychy,0,1
+2019-05-11T17:45:00,Bytovia Bytow,1,1,Chrobry Glogow,0,1
+2019-05-11T17:45:00,Garbarnia,0,0,Stomil Olsztyn,0,2
+2019-05-11T17:45:00,LKS Lodz,1,2,Chojniczanka,0,0
+2019-05-11T17:45:00,Podbeskidzie,0,3,Odra Opole,1,1
+2019-05-11T17:45:00,Sandecja Nowy S.,1,2,Rakow,0,2
+2019-05-11T17:45:00,Stal Mielec,1,5,Termalica B-B.,2,4
+2019-05-11T17:45:00,Suwalki,0,2,Puszcza,0,1
+2019-05-11T12:15:00,Warta Poznan,0,0,GKS Katowice,1,1
+2019-05-05T19:00:00,Puszcza,1,1,Stomil Olsztyn,0,2
+2019-05-05T18:00:00,Chojniczanka,0,2,Podbeskidzie,0,2
+2019-05-05T17:00:00,Suwalki,1,1,Sandecja Nowy S.,1,2
+2019-05-04T20:45:00,GKS Jastrzebie,0,0,LKS Lodz,2,2
+2019-05-04T20:00:00,Termalica B-B.,1,1,Garbarnia,0,0
+2019-05-04T19:45:00,Odra Opole,1,2,Bytovia Bytow,1,1
+2019-05-04T19:00:00,Rakow,0,0,Tychy,0,0
+2019-05-03T20:45:00,GKS Katowice,0,0,Stal Mielec,0,2
+2019-05-03T18:00:00,Chrobry Glogow,0,1,Warta Poznan,0,1
+2019-05-01T18:00:00,Tychy,1,2,GKS Jastrzebie,0,1
+2019-04-29T17:00:00,Garbarnia,0,0,GKS Katowice,1,2
+2019-04-28T20:00:00,Stal Mielec,3,5,Chrobry Glogow,0,1
+2019-04-28T18:00:00,Tychy,3,5,Suwalki,0,0
+2019-04-28T17:45:00,Podbeskidzie,1,2,GKS Jastrzebie,2,2
+2019-04-28T17:00:00,Sandecja Nowy S.,1,2,Puszcza,0,1
+2019-04-28T16:00:00,Warta Poznan,1,2,Odra Opole,0,1
+2019-04-27T19:45:00,Stomil Olsztyn,0,3,Termalica B-B.,0,0
+2019-04-27T17:45:00,LKS Lodz,2,2,Rakow,0,0
+2019-04-27T16:00:00,Bytovia Bytow,1,2,Chojniczanka,0,1
+2019-04-24T20:00:00,Chojniczanka,0,0,Warta Poznan,2,2
+2019-04-24T20:00:00,GKS Katowice,0,1,Stomil Olsztyn,0,1
+2019-04-24T19:10:00,Sandecja Nowy S.,0,1,Tychy,1,3
+2019-04-24T19:00:00,Odra Opole,1,1,Stal Mielec,0,1
+2019-04-24T19:00:00,Puszcza,1,1,Termalica B-B.,0,0
+2019-04-24T18:00:00,Chrobry Glogow,1,3,Garbarnia,0,0
+2019-04-24T18:00:00,GKS Jastrzebie,1,4,Bytovia Bytow,0,0
+2019-04-24T17:30:00,Rakow,0,2,Podbeskidzie,0,0
+2019-04-24T17:00:00,Suwalki,0,1,LKS Lodz,0,1
+2019-04-20T18:00:00,Tychy,1,3,Puszcza,0,0
+2019-04-20T17:30:00,Stal Mielec,3,4,Chojniczanka,1,2
+2019-04-20T16:30:00,Termalica B-B.,0,1,GKS Katowice,1,1
+2019-04-20T16:00:00,Warta Poznan,0,0,GKS Jastrzebie,0,0
+2019-04-20T13:00:00,Garbarnia,0,0,Odra Opole,0,0
+2019-04-19T20:30:00,LKS Lodz,1,2,Sandecja Nowy S.,0,0
+2019-04-18T19:45:00,Stomil Olsztyn,0,0,Chrobry Glogow,0,2
+2019-04-18T18:00:00,Bytovia Bytow,1,2,Rakow,2,2
+2019-04-18T18:00:00,Podbeskidzie,1,3,Suwalki,2,3
+2019-04-14T18:00:00,Puszcza,1,1,GKS Katowice,2,2
+2019-04-14T17:00:00,Rakow,0,3,Warta Poznan,0,0
+2019-04-13T19:10:00,Sandecja Nowy S.,1,2,Podbeskidzie,0,0
+2019-04-13T18:00:00,Chrobry Glogow,0,0,Termalica B-B.,0,1
+2019-04-13T17:45:00,Tychy,0,0,LKS Lodz,1,2
+2019-04-13T17:00:00,Chojniczanka,2,5,Garbarnia,1,1
+2019-04-13T17:00:00,Odra Opole,0,2,Stomil Olsztyn,0,2
+2019-04-13T16:00:00,Suwalki,1,4,Bytovia Bytow,0,2
+2019-04-12T20:30:00,GKS Jastrzebie,0,1,Stal Mielec,0,0
+2019-04-07T19:08:00,LKS Lodz,0,0,Puszcza,1,1
+2019-04-07T18:00:00,Termalica B-B.,2,3,Odra Opole,0,0
+2019-04-07T17:45:00,Podbeskidzie,1,2,Tychy,0,0
+2019-04-07T16:00:00,GKS Katowice,1,2,Chrobry Glogow,2,2
+2019-04-07T15:00:00,Garbarnia,0,0,GKS Jastrzebie,0,1
+2019-04-06T18:00:00,Stomil Olsztyn,0,0,Chojniczanka,0,0
+2019-04-06T16:00:00,Bytovia Bytow,0,1,Sandecja Nowy S.,1,1
+2019-04-06T16:00:00,Warta Poznan,1,1,Suwalki,0,0
+2019-04-06T15:00:00,Stal Mielec,2,3,Rakow,0,1
+2019-04-03T19:30:00,GKS Katowice,1,2,Chojniczanka,2,2
+2019-04-03T18:00:00,Bytovia Bytow,0,0,LKS Lodz,2,2
+2019-04-03T18:00:00,Chrobry Glogow,0,1,Odra Opole,0,2
+2019-04-03T18:00:00,Podbeskidzie,1,3,Puszcza,0,1
+2019-04-03T18:00:00,Termalica B-B.,0,0,GKS Jastrzebie,0,0
+2019-04-03T17:45:00,Stal Mielec,0,0,Sandecja Nowy S.,0,0
+2019-03-30T19:00:00,Tychy,1,1,Bytovia Bytow,0,0
+2019-03-30T18:00:00,Rakow,1,1,Garbarnia,0,0
+2019-03-30T18:00:00,Stomil Olsztyn,1,1,GKS Jastrzebie,0,1
+2019-03-30T17:45:00,Odra Opole,0,0,GKS Katowice,3,4
+2019-03-30T17:00:00,Chojniczanka,0,1,Termalica B-B.,0,1
+2019-03-30T17:00:00,Sandecja Nowy S.,1,2,Warta Poznan,0,1
+2019-03-30T14:00:00,Suwalki,0,0,Stal Mielec,1,1
+2019-03-29T18:00:00,Puszcza,1,3,Chrobry Glogow,0,0
+2019-03-29T17:45:00,LKS Lodz,2,3,Podbeskidzie,0,0
+2019-03-24T15:00:00,Warta Poznan,1,1,Tychy,0,1
+2019-03-23T17:00:00,Garbarnia,0,0,Suwalki,0,0
+2019-03-23T15:00:00,Stomil Olsztyn,0,1,Rakow,1,1
+2019-03-17T18:00:00,Rakow,1,1,Termalica B-B.,0,0
+2019-03-17T17:00:00,Puszcza,0,0,Odra Opole,0,0
+2019-03-16T18:00:00,Podbeskidzie,2,3,Bytovia Bytow,1,1
+2019-03-16T17:00:00,Chojniczanka,1,1,Chrobry Glogow,1,2
+2019-03-16T17:00:00,GKS Jastrzebie,0,1,GKS Katowice,1,2
+2019-03-16T17:00:00,LKS Lodz,2,3,Warta Poznan,0,0
+2019-03-16T17:00:00,Sandecja Nowy S.,0,0,Garbarnia,0,1
+2019-03-16T16:00:00,Stomil Olsztyn,2,2,Suwalki,0,1
+2019-03-15T18:00:00,Tychy,0,1,Stal Mielec,1,1
+2019-03-10T15:00:00,Warta Poznan,1,4,Podbeskidzie,1,3
+2019-03-09T20:00:00,Termalica B-B.,1,1,Suwalki,0,0
+2019-03-09T18:00:00,Chrobry Glogow,0,1,GKS Jastrzebie,0,0
+2019-03-09T18:00:00,GKS Katowice,0,0,Rakow,1,3
+2019-03-09T17:00:00,Garbarnia,0,1,Tychy,1,3
+2019-03-09T16:00:00,Bytovia Bytow,0,0,Puszcza,0,0
+2019-03-09T16:00:00,Stomil Olsztyn,0,0,Sandecja Nowy S.,0,0
+2019-03-08T18:00:00,Odra Opole,0,3,Chojniczanka,0,0
+2019-03-08T18:00:00,Stal Mielec,0,0,LKS Lodz,0,1
+2019-03-03T15:00:00,Suwalki,2,2,GKS Katowice,0,0
+2019-03-02T17:00:00,GKS Jastrzebie,2,3,Odra Opole,1,1
+2019-03-02T17:00:00,LKS Lodz,2,3,Garbarnia,0,0
+2019-03-02T17:00:00,Puszcza,0,0,Chojniczanka,1,2
+2019-03-02T17:00:00,Sandecja Nowy S.,0,0,Termalica B-B.,0,0
+2019-03-02T16:00:00,Bytovia Bytow,0,0,Warta Poznan,0,0
+2019-03-02T16:00:00,Stomil Olsztyn,1,2,Tychy,0,0
+2019-03-02T13:45:00,Podbeskidzie,0,0,Stal Mielec,0,2
+2019-03-01T18:00:00,Rakow,0,1,Chrobry Glogow,0,0
+2019-02-27T17:00:00,Suwalki,0,2,Odra Opole,1,3
+2018-12-03T13:00:00,Chojniczanka,1,1,GKS Jastrzebie,1,1
+2018-12-02T16:00:00,GKS Katowice,0,0,Sandecja Nowy S.,0,0
+2018-12-02T16:00:00,Stal Mielec,2,2,Bytovia Bytow,1,1
+2018-12-02T12:45:00,Odra Opole,0,0,Rakow,0,2
+2018-12-01T16:00:00,Garbarnia,0,0,Podbeskidzie,1,2
+2018-12-01T16:00:00,Stomil Olsztyn,1,2,LKS Lodz,1,2
+2018-12-01T16:00:00,Termalica B-B.,1,3,Tychy,0,1
+2018-12-01T15:00:00,Chrobry Glogow,0,0,Suwalki,0,2
+2018-12-01T13:00:00,Warta Poznan,0,2,Puszcza,0,0
+2018-11-28T19:00:00,Chojniczanka,2,3,Suwalki,0,1
+2018-11-28T19:00:00,Stal Mielec,1,1,Puszcza,0,0
+2018-11-28T18:00:00,GKS Katowice,0,1,LKS Lodz,0,1
+2018-11-28T18:00:00,Sandecja Nowy S.,1,2,Odra Opole,0,0
+2018-11-28T18:00:00,Termalica B-B.,0,1,Podbeskidzie,0,0
+2018-11-24T17:45:00,Tychy,2,4,GKS Katowice,0,0
+2018-11-24T17:00:00,Sandecja Nowy S.,1,1,Chrobry Glogow,0,0
+2018-11-24T16:00:00,Bytovia Bytow,1,1,Garbarnia,0,1
+2018-11-24T16:00:00,Puszcza,0,2,GKS Jastrzebie,0,0
+2018-11-24T16:00:00,Stomil Olsztyn,0,0,Podbeskidzie,1,2
+2018-11-24T13:00:00,LKS Lodz,1,1,Termalica B-B.,0,1
+2018-11-23T20:45:00,Rakow,1,1,Chojniczanka,0,0
+2018-11-23T19:00:00,Stal Mielec,1,2,Warta Poznan,0,0
+2018-11-17T17:00:00,GKS Jastrzebie,1,1,Rakow,2,5
+2018-11-17T16:00:00,Chrobry Glogow,0,0,Tychy,0,1
+2018-11-17T16:00:00,Stomil Olsztyn,3,3,Bytovia Bytow,0,2
+2018-11-17T12:45:00,Garbarnia,0,2,Warta Poznan,1,1
+2018-11-11T18:00:00,Puszcza,1,1,Rakow,1,3
+2018-11-10T19:00:00,Suwalki,0,1,GKS Jastrzebie,0,3
+2018-11-10T17:45:00,Podbeskidzie,0,0,GKS Katowice,1,2
+2018-11-10T17:00:00,Sandecja Nowy S.,1,2,Chojniczanka,0,0
+2018-11-10T16:00:00,Bytovia Bytow,0,2,Termalica B-B.,2,2
+2018-11-10T16:00:00,Stal Mielec,3,6,Garbarnia,0,1
+2018-11-10T13:00:00,LKS Lodz,2,2,Chrobry Glogow,0,0
+2018-11-10T13:00:00,Warta Poznan,0,0,Stomil Olsztyn,0,1
+2018-11-09T20:45:00,Tychy,1,4,Odra Opole,0,2
+2018-11-04T13:00:00,Podbeskidzie,1,3,Chrobry Glogow,0,0
+2018-11-03T17:45:00,Sandecja Nowy S.,1,1,GKS Jastrzebie,0,1
+2018-11-03T17:00:00,Garbarnia,0,0,Puszcza,0,1
+2018-11-03T16:00:00,Bytovia Bytow,0,2,GKS Katowice,0,2
+2018-11-03T16:00:00,Stal Mielec,1,4,Stomil Olsztyn,0,0
+2018-11-03T15:00:00,Suwalki,0,0,Rakow,1,3
+2018-11-03T14:00:00,LKS Lodz,1,5,Odra Opole,0,1
+2018-11-03T13:00:00,Warta Poznan,0,1,Termalica B-B.,0,2
+2018-11-02T18:00:00,Tychy,0,0,Chojniczanka,0,1
+2018-10-28T17:45:00,GKS Jastrzebie,0,1,Tychy,1,1
+2018-10-28T17:00:00,Chojniczanka,0,1,LKS Lodz,1,2
+2018-10-28T17:00:00,Puszcza,0,1,Suwalki,0,1
+2018-10-28T16:00:00,Termalica B-B.,1,1,Stal Mielec,0,2
+2018-10-27T19:00:00,Rakow,1,2,Sandecja Nowy S.,0,0
+2018-10-27T18:00:00,Odra Opole,0,0,Podbeskidzie,0,1
+2018-10-27T18:00:00,Stomil Olsztyn,0,1,Garbarnia,0,0
+2018-10-27T17:45:00,GKS Katowice,0,0,Warta Poznan,2,2
+2018-10-26T18:00:00,Chrobry Glogow,0,0,Bytovia Bytow,0,0
+2018-10-24T19:00:00,Odra Opole,2,2,Warta Poznan,1,1
+2018-10-24T18:00:00,GKS Jastrzebie,1,2,Podbeskidzie,0,1
+2018-10-24T18:00:00,Termalica B-B.,0,1,Stomil Olsztyn,0,1
+2018-10-24T17:00:00,Puszcza,1,1,Sandecja Nowy S.,0,0
+2018-10-24T17:00:00,Rakow,0,1,LKS Lodz,1,1
+2018-10-23T17:00:00,GKS Katowice,0,1,Garbarnia,2,2
+2018-10-21T14:00:00,Warta Poznan,1,2,Chrobry Glogow,1,1
+2018-10-20T18:00:00,Podbeskidzie,1,2,Chojniczanka,0,1
+2018-10-20T17:45:00,Tychy,0,0,Rakow,0,0
+2018-10-20T16:00:00,Bytovia Bytow,0,1,Odra Opole,1,1
+2018-10-20T15:30:00,Stomil Olsztyn,1,2,Puszcza,2,2
+2018-10-20T15:00:00,LKS Lodz,0,2,GKS Jastrzebie,0,0
+2018-10-19T20:45:00,Stal Mielec,0,2,GKS Katowice,0,0
+2018-10-19T19:10:00,Sandecja Nowy S.,1,2,Suwalki,0,0
+2018-10-19T18:00:00,Garbarnia,0,1,Termalica B-B.,0,3
+2018-10-13T17:00:00,Chojniczanka,1,1,Bytovia Bytow,0,1
+2018-10-13T17:00:00,Chrobry Glogow,0,0,Stal Mielec,0,0
+2018-10-13T16:00:00,Suwalki,1,2,Tychy,2,2
+2018-10-06T19:00:00,Stomil Olsztyn,0,0,GKS Katowice,1,1
+2018-10-06T18:00:00,Podbeskidzie,0,0,Rakow,0,0
+2018-10-06T18:00:00,Tychy,0,0,Sandecja Nowy S.,0,1
+2018-10-06T17:00:00,Garbarnia,0,0,Chrobry Glogow,1,1
+2018-10-06T17:00:00,Termalica B-B.,2,2,Puszcza,1,2
+2018-10-06T16:00:00,Bytovia Bytow,0,1,GKS Jastrzebie,0,2
+2018-10-06T15:00:00,LKS Lodz,1,2,Suwalki,0,1
+2018-10-06T15:00:00,Warta Poznan,0,1,Chojniczanka,1,1
+2018-10-05T20:45:00,Stal Mielec,0,1,Odra Opole,0,1
+2018-10-03T19:00:00,Stomil Olsztyn,0,0,Warta Poznan,0,1
+2018-09-30T19:00:00,Chojniczanka,1,2,Stal Mielec,1,2
+2018-09-30T18:00:00,Puszcza,1,1,Tychy,0,0
+2018-09-30T18:00:00,Sandecja Nowy S.,0,0,LKS Lodz,0,0
+2018-09-30T17:00:00,Suwalki,0,0,Podbeskidzie,2,5
+2018-09-29T20:00:00,Rakow,1,2,Bytovia Bytow,0,1
+2018-09-29T18:00:00,GKS Katowice,0,1,Termalica B-B.,0,2
+2018-09-29T15:00:00,GKS Jastrzebie,0,0,Warta Poznan,0,0
+2018-09-29T12:45:00,Odra Opole,3,3,Garbarnia,0,0
+2018-09-28T18:00:00,Chrobry Glogow,1,2,Stomil Olsztyn,0,0
+2018-09-23T12:45:00,GKS Katowice,1,1,Puszcza,1,1
+2018-09-23T12:30:00,Podbeskidzie,0,1,Sandecja Nowy S.,0,1
+2018-09-22T19:00:00,Stal Mielec,0,0,GKS Jastrzebie,0,0
+2018-09-22T19:00:00,Stomil Olsztyn,2,2,Odra Opole,0,1
+2018-09-22T17:00:00,Termalica B-B.,1,1,Chrobry Glogow,0,2
+2018-09-22T16:00:00,Bytovia Bytow,0,1,Suwalki,1,1
+2018-09-22T16:00:00,LKS Lodz,0,0,Tychy,0,0
+2018-09-22T13:00:00,Garbarnia,0,1,Chojniczanka,2,2
+2018-09-22T12:45:00,Warta Poznan,0,0,Rakow,1,2
+2018-09-19T19:00:00,GKS Jastrzebie,0,2,Stomil Olsztyn,1,1
+2018-09-19T19:00:00,GKS Katowice,2,2,Odra Opole,0,2
+2018-09-19T19:00:00,Podbeskidzie,0,0,LKS Lodz,2,3
+2018-09-19T19:00:00,Stal Mielec,0,0,Suwalki,0,0
+2018-09-19T18:00:00,Chrobry Glogow,1,2,Puszcza,3,3
+2018-09-19T18:00:00,Termalica B-B.,1,2,Chojniczanka,1,1
+2018-09-16T12:30:00,Rakow,1,1,Stal Mielec,1,1
+2018-09-15T19:10:00,Sandecja Nowy S.,1,1,Bytovia Bytow,0,1
+2018-09-15T19:00:00,Chojniczanka,1,2,Stomil Olsztyn,0,1
+2018-09-15T15:00:00,GKS Jastrzebie,0,1,Garbarnia,0,2
+2018-09-15T12:45:00,Tychy,0,2,Podbeskidzie,2,2
+2018-09-14T19:00:00,Chrobry Glogow,0,2,GKS Katowice,0,0
+2018-09-14T19:00:00,Odra Opole,1,4,Termalica B-B.,1,1
+2018-09-14T18:00:00,Puszcza,0,0,LKS Lodz,0,2
+2018-09-14T18:00:00,Suwalki,0,1,Warta Poznan,0,1
+2018-09-09T12:30:00,Garbarnia,1,1,Rakow,1,1
+2018-09-08T16:00:00,Bytovia Bytow,1,4,Tychy,0,1
+2018-09-08T16:00:00,Warta Poznan,0,1,Sandecja Nowy S.,1,3
+2018-09-05T16:45:00,Warta Poznan,0,2,Bytovia Bytow,1,2
+2018-09-01T19:10:00,Sandecja Nowy S.,0,2,Stal Mielec,0,0
+2018-09-01T19:00:00,Puszcza,1,3,Podbeskidzie,2,2
+2018-09-01T18:00:00,Tychy,0,1,Warta Poznan,0,0
+2018-09-01T17:00:00,Chojniczanka,0,2,GKS Katowice,1,1
+2018-09-01T17:00:00,GKS Jastrzebie,1,4,Termalica B-B.,2,2
+2018-09-01T16:45:00,LKS Lodz,0,2,Bytovia Bytow,1,3
+2018-09-01T15:00:00,Rakow,0,2,Stomil Olsztyn,0,0
+2018-08-31T18:00:00,Suwalki,1,2,Garbarnia,0,1
+2018-08-31T17:45:00,Odra Opole,2,3,Chrobry Glogow,0,0
+2018-08-27T18:00:00,Stal Mielec,1,1,Tychy,0,1
+2018-08-26T20:00:00,Termalica B-B.,0,0,Rakow,0,1
+2018-08-26T19:00:00,Chrobry Glogow,2,2,Chojniczanka,0,0
+2018-08-26T17:00:00,Garbarnia,0,0,Sandecja Nowy S.,0,1
+2018-08-26T17:00:00,Odra Opole,0,1,Puszcza,0,1
+2018-08-26T17:00:00,Suwalki,2,2,Stomil Olsztyn,0,0
+2018-08-25T20:00:00,GKS Katowice,0,0,GKS Jastrzebie,1,1
+2018-08-25T17:00:00,Warta Poznan,0,0,LKS Lodz,2,2
+2018-08-25T16:00:00,Bytovia Bytow,1,1,Podbeskidzie,0,1
+2018-08-22T20:30:00,Tychy,2,5,Garbarnia,0,0
+2018-08-22T20:00:00,Chojniczanka,3,4,Odra Opole,0,1
+2018-08-22T20:00:00,GKS Jastrzebie,0,0,Chrobry Glogow,0,0
+2018-08-22T20:00:00,Rakow,1,2,GKS Katowice,0,0
+2018-08-22T19:10:00,Sandecja Nowy S.,0,1,Stomil Olsztyn,0,0
+2018-08-22T19:00:00,Puszcza,0,1,Bytovia Bytow,2,3
+2018-08-22T18:00:00,Podbeskidzie,1,4,Warta Poznan,0,1
+2018-08-22T18:00:00,Suwalki,1,3,Termalica B-B.,1,2
+2018-08-22T17:45:00,LKS Lodz,0,0,Stal Mielec,1,2
+2018-08-18T20:00:00,GKS Katowice,1,2,Suwalki,0,0
+2018-08-18T17:45:00,Chrobry Glogow,0,0,Rakow,1,1
+2018-08-18T17:00:00,Garbarnia,1,3,LKS Lodz,2,2
+2018-08-17T20:30:00,Stal Mielec,0,0,Podbeskidzie,0,1
+2018-08-17T20:00:00,Chojniczanka,1,1,Puszcza,0,1
+2018-08-17T19:00:00,Odra Opole,0,1,GKS Jastrzebie,1,2
+2018-08-17T19:00:00,Termalica B-B.,1,1,Sandecja Nowy S.,0,1
+2018-08-17T19:00:00,Tychy,0,0,Stomil Olsztyn,1,3
+2018-08-11T19:10:00,Sandecja Nowy S.,0,1,GKS Katowice,0,0
+2018-08-11T19:00:00,Puszcza,0,0,Warta Poznan,0,1
+2018-08-11T19:00:00,Tychy,2,2,Termalica B-B.,1,1
+2018-08-11T18:00:00,Podbeskidzie,0,0,Garbarnia,0,0
+2018-08-11T17:45:00,GKS Jastrzebie,0,0,Chojniczanka,0,0
+2018-08-11T17:00:00,LKS Lodz,0,1,Stomil Olsztyn,0,0
+2018-08-11T17:00:00,Suwalki,0,0,Chrobry Glogow,1,1
+2018-08-11T16:00:00,Bytovia Bytow,0,1,Stal Mielec,1,2
+2018-08-10T20:30:00,Rakow,0,1,Odra Opole,0,0
+2018-08-05T17:00:00,Garbarnia,0,0,Bytovia Bytow,1,3
+2018-08-04T18:00:00,Podbeskidzie,0,1,Stomil Olsztyn,1,3
+2018-08-04T17:45:00,Chrobry Glogow,0,0,Sandecja Nowy S.,0,0
+2018-08-04T17:00:00,GKS Jastrzebie,0,0,Puszcza,1,2
+2018-08-04T17:00:00,Termalica B-B.,0,1,LKS Lodz,0,1
+2018-08-04T17:00:00,Warta Poznan,1,1,Stal Mielec,0,0
+2018-08-03T20:30:00,GKS Katowice,1,1,Tychy,1,1
+2018-08-03T20:00:00,Chojniczanka,1,2,Rakow,0,1
+2018-08-03T19:00:00,Odra Opole,1,2,Suwalki,1,2
+2018-07-29T19:23:00,Puszcza,0,1,Stal Mielec,0,0
+2018-07-28T20:00:00,Rakow,1,2,GKS Jastrzebie,0,2
+2018-07-28T19:00:00,Tychy,1,1,Chrobry Glogow,0,1
+2018-07-28T18:00:00,Odra Opole,1,1,Sandecja Nowy S.,0,0
+2018-07-28T18:00:00,Podbeskidzie,0,1,Termalica B-B.,1,2
+2018-07-28T17:45:00,LKS Lodz,0,0,GKS Katowice,1,1
+2018-07-28T17:00:00,Suwalki,0,1,Chojniczanka,1,1
+2018-07-28T15:00:00,Bytovia Bytow,0,0,Stomil Olsztyn,0,0
+2018-07-27T17:45:00,Warta Poznan,0,1,Garbarnia,1,1
+2018-07-21T20:30:00,GKS Jastrzebie,0,1,Suwalki,0,2
+2018-07-21T20:00:00,Rakow,1,3,Puszcza,0,0
+2018-07-21T18:00:00,GKS Katowice,0,0,Podbeskidzie,1,1
+2018-07-21T17:45:00,Odra Opole,0,2,Tychy,1,1
+2018-07-21T17:00:00,Termalica B-B.,0,1,Bytovia Bytow,1,2
+2018-07-20T20:00:00,Chojniczanka,2,3,Sandecja Nowy S.,1,3
+2018-07-20T19:30:00,Chrobry Glogow,0,0,LKS Lodz,1,1
+2018-07-20T17:45:00,Garbarnia,0,0,Stal Mielec,1,2

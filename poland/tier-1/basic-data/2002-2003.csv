@@ -1,0 +1,245 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2003-06-21T16:00:00,Szczakowianka,,0,Swit,,3
+2003-06-21T16:00:00,Zaglebie,,1,Leczna,,2
+2003-06-14T16:00:00,Leczna,,1,Zaglebie,,0
+2003-06-14T16:00:00,Swit,,1,Szczakowianka,,0
+2003-06-03T18:00:00,Amica Wronki,0,0,Groclin,0,1
+2003-06-03T18:00:00,Polonia Warszawa,0,1,GKS Katowice,1,1
+2003-06-03T18:00:00,Ruch Chorzow,3,3,Pogon Szczecin,0,0
+2003-06-03T18:00:00,Szczakowianka,1,1,Gornik Z.,1,1
+2003-06-03T18:00:00,Widzew Lodz,1,2,Ostrowiec Swietokrzyski,0,1
+2003-06-03T18:00:00,Wisla Plock,0,0,Odra Wodzislaw,0,1
+2003-06-03T18:00:00,Zaglebie,1,1,Legia,2,3
+2003-06-03T00:00:00,Lech Poznan,1,2,Wisla,0,4
+2003-05-31T16:00:00,GKS Katowice,0,1,Amica Wronki,1,1
+2003-05-31T16:00:00,Gornik Z.,0,0,Lech Poznan,0,0
+2003-05-31T16:00:00,Groclin,1,4,Zaglebie,0,0
+2003-05-31T16:00:00,Legia,0,3,Ruch Chorzow,1,3
+2003-05-31T16:00:00,Odra Wodzislaw,0,2,Polonia Warszawa,1,2
+2003-05-31T16:00:00,Ostrowiec Swietokrzyski,0,0,Wisla Plock,0,2
+2003-05-31T16:00:00,Pogon Szczecin,0,0,Szczakowianka,1,1
+2003-05-31T16:00:00,Wisla,0,1,Widzew Lodz,0,0
+2003-05-25T17:00:00,Szczakowianka,0,1,Legia,0,1
+2003-05-25T17:00:00,Wisla Plock,0,0,Wisla,0,3
+2003-05-24T19:00:00,Amica Wronki,2,2,Zaglebie,0,2
+2003-05-24T19:00:00,Lech Poznan,3,6,Pogon Szczecin,0,0
+2003-05-24T19:00:00,Widzew Lodz,1,1,Gornik Z.,0,0
+2003-05-24T18:00:00,GKS Katowice,2,2,Odra Wodzislaw,0,1
+2003-05-24T18:00:00,Ruch Chorzow,0,1,Groclin,0,1
+2003-05-24T17:00:00,Polonia Warszawa,0,2,Ostrowiec Swietokrzyski,1,1
+2003-05-21T19:00:00,Gornik Z.,1,1,Wisla Plock,1,2
+2003-05-21T19:00:00,Groclin,2,5,Szczakowianka,0,0
+2003-05-21T19:00:00,Legia,0,2,Lech Poznan,0,0
+2003-05-21T19:00:00,Ostrowiec Swietokrzyski,0,0,GKS Katowice,1,3
+2003-05-21T19:00:00,Wisla,1,3,Polonia Warszawa,0,0
+2003-05-21T18:00:00,Pogon Szczecin,0,0,Widzew Lodz,1,1
+2003-05-21T17:30:00,Zaglebie,1,2,Ruch Chorzow,1,1
+2003-05-20T20:30:00,Odra Wodzislaw,0,0,Amica Wronki,1,3
+2003-05-18T17:15:00,GKS Katowice,0,1,Wisla,0,0
+2003-05-17T19:00:00,Amica Wronki,1,2,Ruch Chorzow,1,1
+2003-05-17T19:00:00,Wisla Plock,0,2,Pogon Szczecin,1,1
+2003-05-17T17:00:00,Odra Wodzislaw,2,2,Ostrowiec Swietokrzyski,0,1
+2003-05-17T17:00:00,Polonia Warszawa,0,1,Gornik Z.,1,1
+2003-05-17T17:00:00,Szczakowianka,1,1,Zaglebie,0,2
+2003-05-17T16:00:00,Widzew Lodz,0,1,Legia,0,3
+2003-05-16T20:00:00,Lech Poznan,1,2,Groclin,1,3
+2003-05-11T18:30:00,Gornik Z.,0,1,GKS Katowice,1,3
+2003-05-11T17:00:00,Legia,,3,Wisla Plock,,0
+2003-05-10T19:30:00,Wisla,2,4,Odra Wodzislaw,0,0
+2003-05-10T19:00:00,Ostrowiec Swietokrzyski,0,0,Amica Wronki,1,2
+2003-05-10T19:00:00,Ruch Chorzow,1,1,Szczakowianka,0,1
+2003-05-10T17:00:00,Zaglebie,0,1,Lech Poznan,0,1
+2003-05-10T00:00:00,Pogon Szczecin,0,0,Polonia Warszawa,0,2
+2003-05-09T19:00:00,Groclin,1,1,Widzew Lodz,0,1
+2003-05-04T14:30:00,Polonia Warszawa,0,0,Legia,0,1
+2003-05-03T19:00:00,Amica Wronki,0,1,Szczakowianka,1,2
+2003-05-03T19:00:00,GKS Katowice,1,2,Pogon Szczecin,0,0
+2003-05-03T19:00:00,Lech Poznan,0,0,Ruch Chorzow,0,0
+2003-05-03T19:00:00,Ostrowiec Swietokrzyski,0,0,Wisla,0,1
+2003-05-03T19:00:00,Widzew Lodz,1,2,Zaglebie,0,0
+2003-05-03T19:00:00,Wisla Plock,1,1,Groclin,0,0
+2003-05-03T16:00:00,Odra Wodzislaw,1,1,Gornik Z.,1,3
+2003-04-27T15:00:00,Groclin,2,2,Polonia Warszawa,0,0
+2003-04-27T15:00:00,Szczakowianka,0,1,Lech Poznan,1,2
+2003-04-26T19:00:00,Gornik Z.,1,2,Ostrowiec Swietokrzyski,0,0
+2003-04-26T19:00:00,Pogon Szczecin,0,1,Odra Wodzislaw,3,7
+2003-04-26T19:00:00,Ruch Chorzow,0,1,Widzew Lodz,1,2
+2003-04-26T18:15:00,Wisla,0,1,Amica Wronki,0,1
+2003-04-26T16:00:00,Zaglebie,0,1,Wisla Plock,0,1
+2003-04-25T19:00:00,Legia,1,3,GKS Katowice,0,0
+2003-04-19T18:15:00,GKS Katowice,0,0,Groclin,0,1
+2003-04-19T16:00:00,Amica Wronki,0,2,Lech Poznan,0,1
+2003-04-19T16:00:00,Polonia Warszawa,1,2,Zaglebie,0,1
+2003-04-19T16:00:00,Widzew Lodz,1,1,Szczakowianka,0,0
+2003-04-19T16:00:00,Wisla,2,4,Gornik Z.,0,0
+2003-04-19T16:00:00,Wisla Plock,0,2,Ruch Chorzow,0,0
+2003-04-19T14:00:00,Odra Wodzislaw,2,2,Legia,1,1
+2003-04-19T00:00:00,Ostrowiec Swietokrzyski,0,0,Pogon Szczecin,0,1
+2003-04-13T15:00:00,Groclin,1,3,Odra Wodzislaw,0,0
+2003-04-13T15:00:00,Zaglebie,2,2,GKS Katowice,0,0
+2003-04-12T19:00:00,Gornik Z.,1,1,Amica Wronki,0,0
+2003-04-12T19:00:00,Lech Poznan,0,2,Widzew Lodz,1,1
+2003-04-12T19:00:00,Legia,3,6,Ostrowiec Swietokrzyski,0,0
+2003-04-12T19:00:00,Pogon Szczecin,0,0,Wisla,0,1
+2003-04-12T19:00:00,Ruch Chorzow,0,0,Polonia Warszawa,0,0
+2003-04-12T15:00:00,Szczakowianka,1,2,Wisla Plock,0,0
+2003-04-09T18:30:00,Wisla,1,2,Legia,1,1
+2003-04-09T18:00:00,Amica Wronki,0,1,Widzew Lodz,0,0
+2003-04-09T18:00:00,Gornik Z.,4,9,Pogon Szczecin,0,0
+2003-04-09T18:00:00,Ostrowiec Swietokrzyski,1,1,Groclin,2,3
+2003-04-09T18:00:00,Wisla Plock,0,0,Lech Poznan,0,0
+2003-04-09T16:00:00,Odra Wodzislaw,0,3,Zaglebie,0,0
+2003-04-09T16:00:00,Polonia Warszawa,1,2,Szczakowianka,0,1
+2003-04-08T18:30:00,GKS Katowice,1,1,Ruch Chorzow,0,0
+2003-04-06T19:15:00,Lech Poznan,1,4,Polonia Warszawa,1,1
+2003-04-06T00:00:00,Zaglebie,0,2,Ostrowiec Swietokrzyski,0,0
+2003-04-05T20:00:00,Pogon Szczecin,0,0,Amica Wronki,3,4
+2003-04-05T19:00:00,Ruch Chorzow,0,0,Odra Wodzislaw,1,1
+2003-04-05T19:00:00,Widzew Lodz,0,1,Wisla Plock,0,0
+2003-04-05T18:15:00,Legia,0,0,Gornik Z.,0,0
+2003-04-05T16:00:00,Groclin,0,2,Wisla,0,0
+2003-04-05T15:00:00,Szczakowianka,0,0,GKS Katowice,0,1
+2003-03-23T17:15:00,Gornik Z.,0,0,Groclin,0,0
+2003-03-22T18:15:00,GKS Katowice,0,1,Lech Poznan,0,0
+2003-03-22T18:00:00,Amica Wronki,1,2,Wisla Plock,0,2
+2003-03-22T18:00:00,Pogon Szczecin,0,0,Legia,3,4
+2003-03-22T17:15:00,Wisla,2,4,Zaglebie,1,1
+2003-03-22T14:00:00,Odra Wodzislaw,2,4,Szczakowianka,0,0
+2003-03-22T14:00:00,Polonia Warszawa,1,1,Widzew Lodz,0,0
+2003-03-22T00:00:00,Ostrowiec Swietokrzyski,0,0,Ruch Chorzow,0,2
+2003-03-19T20:00:00,Amica Wronki,0,1,Polonia Warszawa,0,3
+2003-03-19T20:00:00,GKS Katowice,1,2,Wisla Plock,0,0
+2003-03-19T20:00:00,Gornik Z.,0,0,Ruch Chorzow,0,0
+2003-03-19T20:00:00,Odra Wodzislaw,3,5,Widzew Lodz,1,1
+2003-03-19T20:00:00,Wisla,1,2,Szczakowianka,2,2
+2003-03-19T18:00:00,Ostrowiec Swietokrzyski,1,1,Lech Poznan,1,3
+2003-03-19T18:00:00,Pogon Szczecin,0,0,Zaglebie,1,1
+2003-03-18T20:00:00,Legia,0,0,Groclin,1,2
+2003-03-16T17:15:00,Ruch Chorzow,0,0,Wisla,2,3
+2003-03-16T14:00:00,Zaglebie,1,1,Gornik Z.,1,1
+2003-03-15T18:15:00,Widzew Lodz,1,2,GKS Katowice,0,0
+2003-03-15T18:00:00,Lech Poznan,2,2,Odra Wodzislaw,2,3
+2003-03-15T18:00:00,Wisla Plock,0,0,Polonia Warszawa,0,1
+2003-03-15T14:00:00,Groclin,1,2,Pogon Szczecin,0,0
+2003-03-15T14:00:00,Szczakowianka,0,3,Ostrowiec Swietokrzyski,0,1
+2003-03-14T20:00:00,Legia,4,4,Amica Wronki,2,3
+2002-11-24T13:00:00,Groclin,1,1,Amica Wronki,1,2
+2002-11-23T18:15:00,Legia,1,3,Zaglebie,0,1
+2002-11-23T18:15:00,Wisla,3,3,Lech Poznan,0,2
+2002-11-23T18:00:00,GKS Katowice,0,2,Polonia Warszawa,0,1
+2002-11-23T18:00:00,Gornik Z.,1,3,Szczakowianka,0,0
+2002-11-23T18:00:00,Pogon Szczecin,0,0,Ruch Chorzow,1,3
+2002-11-23T13:00:00,Odra Wodzislaw,1,2,Wisla Plock,0,0
+2002-11-22T19:00:00,Ostrowiec Swietokrzyski,0,0,Widzew Lodz,0,0
+2002-11-17T17:00:00,Widzew Lodz,2,2,Wisla,3,4
+2002-11-17T14:30:00,Ruch Chorzow,0,1,Legia,0,0
+2002-11-17T13:00:00,Zaglebie,1,1,Groclin,2,2
+2002-11-16T18:00:00,Lech Poznan,2,3,Gornik Z.,0,1
+2002-11-16T18:00:00,Wisla Plock,1,2,Ostrowiec Swietokrzyski,0,0
+2002-11-16T13:00:00,Polonia Warszawa,1,2,Odra Wodzislaw,2,2
+2002-11-16T13:00:00,Szczakowianka,1,2,Pogon Szczecin,0,1
+2002-11-15T19:00:00,Amica Wronki,0,0,GKS Katowice,1,1
+2002-11-10T13:00:00,Odra Wodzislaw,0,0,GKS Katowice,0,3
+2002-11-09T18:15:00,Legia,1,2,Szczakowianka,0,1
+2002-11-09T18:00:00,Gornik Z.,1,4,Widzew Lodz,0,0
+2002-11-09T18:00:00,Pogon Szczecin,0,0,Lech Poznan,1,1
+2002-11-09T18:00:00,Wisla,2,4,Wisla Plock,0,0
+2002-11-09T13:00:00,Groclin,1,1,Ruch Chorzow,0,1
+2002-11-08T13:00:00,Zaglebie,1,1,Amica Wronki,0,1
+2002-11-07T18:30:00,Ostrowiec Swietokrzyski,1,2,Polonia Warszawa,0,1
+2002-11-03T17:30:00,Lech Poznan,0,0,Legia,0,0
+2002-11-03T15:00:00,Amica Wronki,0,0,Odra Wodzislaw,1,2
+2002-11-03T15:00:00,GKS Katowice,1,2,Ostrowiec Swietokrzyski,0,1
+2002-11-03T15:00:00,Ruch Chorzow,0,0,Zaglebie,3,3
+2002-11-03T15:00:00,Widzew Lodz,0,1,Pogon Szczecin,0,1
+2002-11-03T15:00:00,Wisla Plock,0,0,Gornik Z.,0,0
+2002-11-03T13:00:00,Polonia Warszawa,0,0,Wisla,2,4
+2002-11-03T13:00:00,Szczakowianka,1,2,Groclin,1,4
+2002-10-27T17:00:00,Gornik Z.,0,0,Polonia Warszawa,0,0
+2002-10-27T14:30:00,Zaglebie,0,0,Szczakowianka,0,0
+2002-10-26T18:00:00,Ostrowiec Swietokrzyski,2,2,Odra Wodzislaw,0,1
+2002-10-26T18:00:00,Pogon Szczecin,0,1,Wisla Plock,1,4
+2002-10-26T18:00:00,Ruch Chorzow,0,1,Amica Wronki,0,0
+2002-10-26T18:00:00,Wisla,0,2,GKS Katowice,0,0
+2002-10-26T14:30:00,Groclin,,4,Lech Poznan,,1
+2002-10-25T20:00:00,Legia,0,2,Widzew Lodz,0,0
+2002-10-20T14:30:00,Odra Wodzislaw,3,3,Wisla,0,2
+2002-10-19T19:00:00,Amica Wronki,1,5,Ostrowiec Swietokrzyski,0,1
+2002-10-19T18:00:00,Lech Poznan,0,0,Zaglebie,0,0
+2002-10-19T18:00:00,Widzew Lodz,0,0,Groclin,1,2
+2002-10-19T18:00:00,Wisla Plock,0,0,Legia,0,2
+2002-10-19T14:30:00,Polonia Warszawa,0,2,Pogon Szczecin,0,1
+2002-10-19T14:30:00,Szczakowianka,2,6,Ruch Chorzow,1,2
+2002-10-18T20:00:00,GKS Katowice,1,2,Gornik Z.,0,0
+2002-10-07T18:30:00,Legia,2,4,Polonia Warszawa,0,1
+2002-10-06T17:00:00,Wisla,1,4,Ostrowiec Swietokrzyski,0,1
+2002-10-06T14:30:00,Zaglebie,0,0,Widzew Lodz,0,0
+2002-10-05T18:00:00,Pogon Szczecin,0,0,GKS Katowice,0,0
+2002-10-05T18:00:00,Ruch Chorzow,1,1,Lech Poznan,0,0
+2002-10-05T14:30:00,Groclin,1,1,Wisla Plock,0,0
+2002-10-05T14:30:00,Szczakowianka,2,2,Amica Wronki,0,2
+2002-10-04T19:00:00,Gornik Z.,1,4,Odra Wodzislaw,0,0
+2002-09-29T16:30:00,Widzew Lodz,1,2,Ruch Chorzow,0,0
+2002-09-28T19:00:00,Lech Poznan,2,2,Szczakowianka,0,2
+2002-09-28T19:00:00,Ostrowiec Swietokrzyski,0,1,Gornik Z.,1,2
+2002-09-28T19:00:00,Wisla Plock,1,2,Zaglebie,0,0
+2002-09-28T15:15:00,GKS Katowice,0,1,Legia,0,2
+2002-09-28T15:00:00,Odra Wodzislaw,1,3,Pogon Szczecin,0,1
+2002-09-28T15:00:00,Polonia Warszawa,0,1,Groclin,1,1
+2002-09-27T20:00:00,Amica Wronki,0,1,Wisla,0,1
+2002-09-23T18:00:00,Gornik Z.,0,1,Wisla,2,2
+2002-09-23T15:00:00,Zaglebie,1,3,Polonia Warszawa,1,1
+2002-09-22T19:30:00,Lech Poznan,0,0,Amica Wronki,0,0
+2002-09-22T17:00:00,Legia,0,0,Odra Wodzislaw,0,0
+2002-09-21T19:00:00,Ruch Chorzow,0,0,Wisla Plock,0,0
+2002-09-21T15:00:00,Groclin,0,0,GKS Katowice,1,2
+2002-09-21T15:00:00,Szczakowianka,0,1,Widzew Lodz,0,0
+2002-09-20T19:00:00,Pogon Szczecin,1,4,Ostrowiec Swietokrzyski,1,1
+2002-09-14T19:00:00,Amica Wronki,1,2,Gornik Z.,0,1
+2002-09-14T19:00:00,Ostrowiec Swietokrzyski,0,1,Legia,0,1
+2002-09-14T19:00:00,Wisla,1,3,Pogon Szczecin,0,0
+2002-09-14T19:00:00,Wisla Plock,1,2,Szczakowianka,0,1
+2002-09-14T15:00:00,GKS Katowice,1,1,Zaglebie,0,0
+2002-09-14T15:00:00,Odra Wodzislaw,1,3,Groclin,0,1
+2002-09-14T15:00:00,Polonia Warszawa,1,2,Ruch Chorzow,0,1
+2002-09-13T20:00:00,Widzew Lodz,1,2,Lech Poznan,1,2
+2002-09-03T19:00:00,Widzew Lodz,0,1,Amica Wronki,0,1
+2002-09-01T20:00:00,Legia,1,3,Wisla,2,2
+2002-09-01T15:00:00,Szczakowianka,1,3,Polonia Warszawa,1,1
+2002-08-31T19:00:00,Lech Poznan,1,2,Wisla Plock,1,2
+2002-08-31T16:30:00,Groclin,1,1,Ostrowiec Swietokrzyski,0,0
+2002-08-31T16:30:00,Zaglebie,0,0,Odra Wodzislaw,0,1
+2002-08-31T16:00:00,Pogon Szczecin,0,1,Gornik Z.,1,3
+2002-08-30T20:00:00,Ruch Chorzow,0,2,GKS Katowice,0,0
+2002-08-25T16:30:00,Polonia Warszawa,0,0,Lech Poznan,0,0
+2002-08-24T20:15:00,Wisla,1,1,Groclin,1,1
+2002-08-24T20:15:00,Wisla Plock,0,3,Widzew Lodz,1,2
+2002-08-24T19:00:00,Amica Wronki,1,2,Pogon Szczecin,0,0
+2002-08-24T19:00:00,GKS Katowice,2,4,Szczakowianka,0,0
+2002-08-24T19:00:00,Ostrowiec Swietokrzyski,1,1,Zaglebie,0,0
+2002-08-24T16:30:00,Odra Wodzislaw,1,1,Ruch Chorzow,1,1
+2002-08-23T20:00:00,Gornik Z.,1,2,Legia,2,3
+2002-08-18T19:15:00,Widzew Lodz,0,3,Polonia Warszawa,0,2
+2002-08-18T17:15:00,Zaglebie,1,1,Wisla,1,4
+2002-08-18T17:00:00,Wisla Plock,0,0,Amica Wronki,0,1
+2002-08-17T20:15:00,Legia,0,0,Pogon Szczecin,0,0
+2002-08-17T19:00:00,Ruch Chorzow,0,1,Ostrowiec Swietokrzyski,0,1
+2002-08-17T16:30:00,Groclin,2,2,Gornik Z.,2,2
+2002-08-17T16:30:00,Szczakowianka,0,2,Odra Wodzislaw,1,3
+2002-08-16T20:00:00,Lech Poznan,0,0,GKS Katowice,1,1
+2002-08-11T17:30:00,GKS Katowice,1,1,Widzew Lodz,0,0
+2002-08-10T19:30:00,Amica Wronki,1,1,Legia,1,1
+2002-08-10T19:00:00,Gornik Z.,2,3,Zaglebie,1,2
+2002-08-10T19:00:00,Ostrowiec Swietokrzyski,2,3,Szczakowianka,0,1
+2002-08-10T19:00:00,Pogon Szczecin,1,1,Groclin,0,2
+2002-08-10T16:30:00,Odra Wodzislaw,1,2,Lech Poznan,1,1
+2002-08-10T16:00:00,Polonia Warszawa,1,3,Wisla Plock,1,1
+2002-08-09T20:00:00,Wisla,2,5,Ruch Chorzow,1,2
+2002-08-04T17:00:00,Szczakowianka,1,1,Wisla,1,1
+2002-08-03T19:30:00,Wisla Plock,1,1,GKS Katowice,1,1
+2002-08-03T19:00:00,Ruch Chorzow,0,0,Gornik Z.,0,0
+2002-08-03T19:00:00,Widzew Lodz,0,0,Odra Wodzislaw,0,0
+2002-08-03T16:30:00,Groclin,2,3,Legia,1,3
+2002-08-03T16:30:00,Polonia Warszawa,2,2,Amica Wronki,0,0
+2002-08-03T16:30:00,Zaglebie,2,5,Pogon Szczecin,0,0
+2002-08-02T20:00:00,Lech Poznan,2,2,Ostrowiec Swietokrzyski,0,0
