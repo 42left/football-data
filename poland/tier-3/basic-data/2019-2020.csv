@@ -1,0 +1,310 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2019-07-31T17:00:00,R. Rzeszow,0,1,S. Rzeszow,0,0
+2019-07-28T20:15:00,GKS Katowice,0,0,S. Rzeszow,1,2
+2019-07-28T17:30:00,Bytovia Bytow,0,1,R. Rzeszow,0,2
+2019-07-25T17:00:00,Elana Torun,5,6,Gryf Wejherowo,0,0
+2019-07-25T17:00:00,Garbarnia,2,3,Elblag,1,2
+2019-07-25T17:00:00,GKS Katowice,1,1,R. Rzeszow,1,1
+2019-07-25T17:00:00,Lech Poznan 2,0,0,Blekitni Stargard,0,3
+2019-07-25T17:00:00,Legionowo,0,0,Leczna,0,2
+2019-07-25T17:00:00,Polkowice,1,2,Bytovia Bytow,1,2
+2019-07-25T17:00:00,S. Rzeszow,2,4,Skra,0,0
+2019-07-25T17:00:00,S. Wola,0,0,Pogon Siedlce,1,3
+2019-07-25T17:00:00,Widzew Lodz,0,0,Pruszkow,1,1
+2019-07-19T19:00:00,Pruszkow,1,3,Elana Torun,1,2
+2019-07-19T18:00:00,Bytovia Bytow,0,1,Lech Poznan 2,0,1
+2019-07-19T17:40:00,Leczna,2,2,S. Rzeszow,1,2
+2019-07-19T17:30:00,Skra,0,2,Pogon Siedlce,0,2
+2019-07-19T17:00:00,S. Wola,2,2,GKS Katowice,0,0
+2019-07-19T16:00:00,Blekitni Stargard,2,2,Garbarnia,2,3
+2019-07-19T16:00:00,Elblag,1,2,Legionowo,0,1
+2019-07-19T15:00:00,Gryf Wejherowo,0,0,Polkowice,2,3
+2019-07-19T13:05:00,R. Rzeszow,0,1,Widzew Lodz,0,0
+2019-07-15T20:08:00,Elana Torun,2,2,R. Rzeszow,2,2
+2019-07-15T19:10:00,Widzew Lodz,3,3,S. Wola,0,0
+2019-07-15T17:45:00,Skra,0,0,Leczna,0,0
+2019-07-15T17:00:00,Garbarnia,0,1,Bytovia Bytow,2,2
+2019-07-15T17:00:00,Lech Poznan 2,4,5,Gryf Wejherowo,0,0
+2019-07-15T17:00:00,Pogon Siedlce,0,0,GKS Katowice,0,2
+2019-07-15T17:00:00,Polkowice,0,1,Pruszkow,0,2
+2019-07-15T17:00:00,S. Rzeszow,2,2,Elblag,0,0
+2019-07-15T12:00:00,Legionowo,0,0,Blekitni Stargard,0,1
+2019-07-12T13:05:00,GKS Katowice,1,1,Widzew Lodz,0,1
+2019-07-11T19:00:00,Pruszkow,0,1,Lech Poznan 2,1,2
+2019-07-11T18:00:00,Bytovia Bytow,2,4,Legionowo,0,3
+2019-07-11T17:00:00,Blekitni Stargard,0,0,S. Rzeszow,0,1
+2019-07-11T17:00:00,Gryf Wejherowo,0,0,Garbarnia,1,4
+2019-07-11T17:00:00,Leczna,1,2,Pogon Siedlce,0,3
+2019-07-11T17:00:00,R. Rzeszow,0,1,Polkowice,0,1
+2019-07-11T16:00:00,Elblag,0,1,Skra,2,2
+2019-07-10T17:00:00,S. Wola,1,5,Elana Torun,0,1
+2019-07-05T17:30:00,Skra,0,2,Blekitni Stargard,0,1
+2019-07-05T17:00:00,Garbarnia,1,1,Pruszkow,0,0
+2019-07-05T17:00:00,Lech Poznan 2,1,2,R. Rzeszow,0,0
+2019-07-05T17:00:00,Pogon Siedlce,0,3,Widzew Lodz,1,1
+2019-07-05T17:00:00,S. Rzeszow,1,2,Bytovia Bytow,0,1
+2019-07-05T13:05:00,Leczna,1,1,Elblag,0,0
+2019-07-04T20:08:00,Elana Torun,1,1,GKS Katowice,1,2
+2019-07-04T17:00:00,S. Wola,2,3,Polkowice,0,0
+2019-07-04T12:00:00,Legionowo,2,5,Gryf Wejherowo,0,2
+2019-07-01T20:05:00,Widzew Lodz,1,1,Elana Torun,1,1
+2019-07-01T18:00:00,Bytovia Bytow,1,1,Skra,0,1
+2019-07-01T18:00:00,GKS Katowice,0,1,Polkowice,1,2
+2019-07-01T17:00:00,Blekitni Stargard,0,1,Leczna,1,2
+2019-07-01T17:00:00,Gryf Wejherowo,0,0,S. Rzeszow,1,2
+2019-07-01T17:00:00,Pruszkow,1,4,Legionowo,0,0
+2019-07-01T17:00:00,R. Rzeszow,1,1,Garbarnia,0,2
+2019-07-01T17:00:00,S. Wola,2,2,Lech Poznan 2,1,1
+2019-07-01T16:00:00,Elblag,0,1,Pogon Siedlce,0,0
+2020-06-28T13:05:00,Polkowice,4,4,Widzew Lodz,2,3
+2020-06-27T17:40:00,Leczna,1,2,Bytovia Bytow,0,0
+2020-06-27T17:30:00,Skra,2,7,Gryf Wejherowo,0,0
+2020-06-27T17:00:00,Pogon Siedlce,0,3,Elana Torun,0,1
+2020-06-27T17:00:00,S. Rzeszow,0,1,Pruszkow,0,2
+2020-06-27T17:00:00,S. Wola,0,0,Garbarnia,2,2
+2020-06-27T16:00:00,Elblag,0,0,Blekitni Stargard,2,3
+2020-06-27T12:00:00,Lech Poznan 2,1,3,GKS Katowice,0,2
+2020-06-27T12:00:00,Legionowo,0,0,R. Rzeszow,0,0
+2020-06-21T19:10:00,Widzew Lodz,1,3,Lech Poznan 2,2,2
+2020-06-21T18:00:00,Bytovia Bytow,0,1,Elblag,0,0
+2020-06-21T17:00:00,Elana Torun,1,1,Polkowice,2,4
+2020-06-21T17:00:00,GKS Katowice,0,2,Garbarnia,0,0
+2020-06-21T16:00:00,Blekitni Stargard,1,2,Pogon Siedlce,2,3
+2020-06-21T15:00:00,Gryf Wejherowo,0,1,Leczna,1,2
+2020-06-21T13:05:00,R. Rzeszow,0,0,S. Rzeszow,0,0
+2020-06-21T12:00:00,Pruszkow,0,2,Skra,1,1
+2020-06-20T17:00:00,S. Wola,0,2,Legionowo,0,0
+2020-06-17T18:00:00,Skra,0,0,R. Rzeszow,0,0
+2020-06-17T17:40:00,Leczna,0,1,Pruszkow,0,0
+2020-06-17T17:05:00,Garbarnia,1,1,Widzew Lodz,1,3
+2020-06-17T17:00:00,Blekitni Stargard,0,1,Bytovia Bytow,2,3
+2020-06-17T17:00:00,Lech Poznan 2,2,2,Elana Torun,1,2
+2020-06-17T17:00:00,Pogon Siedlce,0,1,Polkowice,1,3
+2020-06-17T17:00:00,S. Wola,1,3,S. Rzeszow,0,0
+2020-06-17T16:00:00,Elblag,1,3,Gryf Wejherowo,0,1
+2020-06-17T12:00:00,Legionowo,1,2,GKS Katowice,1,2
+2020-06-14T13:05:00,R. Rzeszow,0,1,Leczna,0,1
+2020-06-13T19:10:00,Widzew Lodz,1,1,Legionowo,0,2
+2020-06-13T18:00:00,GKS Katowice,2,3,S. Rzeszow,2,2
+2020-06-13T17:00:00,Gryf Wejherowo,0,1,Blekitni Stargard,0,3
+2020-06-13T17:00:00,Pogon Siedlce,2,2,Bytovia Bytow,1,1
+2020-06-13T17:00:00,Polkowice,1,1,Lech Poznan 2,1,1
+2020-06-13T17:00:00,S. Wola,0,1,Skra,2,2
+2020-06-13T15:00:00,Pruszkow,0,0,Elblag,0,0
+2020-06-12T17:00:00,Elana Torun,0,1,Garbarnia,0,0
+2020-06-07T18:00:00,Bytovia Bytow,0,1,Gryf Wejherowo,0,1
+2020-06-07T17:30:00,Skra,0,1,GKS Katowice,0,0
+2020-06-07T16:00:00,Blekitni Stargard,3,4,Pruszkow,1,3
+2020-06-07T16:00:00,Elblag,1,2,R. Rzeszow,0,1
+2020-06-07T16:00:00,Garbarnia,2,4,Polkowice,0,0
+2020-06-07T13:05:00,S. Rzeszow,0,0,Widzew Lodz,0,0
+2020-06-06T17:40:00,Leczna,1,1,S. Wola,1,2
+2020-06-06T16:00:00,Legionowo,0,1,Elana Torun,1,2
+2020-06-06T12:00:00,Lech Poznan 2,1,2,Pogon Siedlce,1,1
+2020-06-03T20:05:00,GKS Katowice,1,2,Leczna,1,1
+2020-06-03T19:10:00,Widzew Lodz,0,1,Skra,0,2
+2020-06-03T17:00:00,Elana Torun,0,1,S. Rzeszow,1,4
+2020-06-03T17:00:00,Gryf Wejherowo,1,2,Pogon Siedlce,3,3
+2020-06-03T17:00:00,Lech Poznan 2,1,2,Garbarnia,1,2
+2020-06-03T17:00:00,Pruszkow,0,0,Bytovia Bytow,1,2
+2020-06-03T17:00:00,R. Rzeszow,1,1,Blekitni Stargard,0,1
+2020-06-03T17:00:00,S. Wola,0,2,Elblag,1,2
+2020-06-03T15:00:00,Polkowice,0,1,Legionowo,1,2
+2020-03-08T14:00:00,Gryf Wejherowo,1,1,Pruszkow,0,0
+2020-03-08T13:05:00,Leczna,1,1,Widzew Lodz,2,2
+2020-03-07T17:00:00,Elblag,0,3,GKS Katowice,0,1
+2020-03-07T16:00:00,Bytovia Bytow,0,1,R. Rzeszow,0,0
+2020-03-07T14:00:00,Pogon Siedlce,0,1,Garbarnia,0,0
+2020-03-07T14:00:00,S. Rzeszow,0,1,Polkowice,2,2
+2020-03-07T13:30:00,Skra,1,1,Elana Torun,0,0
+2020-03-07T13:00:00,Blekitni Stargard,0,0,S. Wola,0,0
+2020-03-07T13:00:00,Legionowo,0,0,Lech Poznan 2,0,0
+2020-03-01T13:05:00,Widzew Lodz,1,2,Elblag,0,2
+2020-03-01T12:00:00,Pruszkow,1,2,Pogon Siedlce,1,1
+2020-02-29T20:08:00,Elana Torun,2,5,Leczna,0,0
+2020-02-29T19:38:00,S. Wola,0,0,Bytovia Bytow,0,0
+2020-02-29T17:00:00,GKS Katowice,2,2,Blekitni Stargard,2,2
+2020-02-29T16:00:00,Polkowice,1,4,Skra,0,1
+2020-02-29T14:00:00,R. Rzeszow,3,6,Gryf Wejherowo,0,0
+2020-02-29T13:00:00,Garbarnia,3,3,Legionowo,1,1
+2020-02-29T12:00:00,Lech Poznan 2,0,2,S. Rzeszow,1,1
+2019-12-01T13:05:00,Bytovia Bytow,1,1,GKS Katowice,0,2
+2019-12-01T13:00:00,Gryf Wejherowo,0,2,S. Wola,2,3
+2019-12-01T13:00:00,Pogon Siedlce,0,1,Legionowo,1,2
+2019-12-01T12:30:00,Pruszkow,0,2,R. Rzeszow,0,1
+2019-11-30T17:00:00,Elblag,0,0,Elana Torun,1,2
+2019-11-30T17:00:00,Leczna,0,2,Polkowice,1,1
+2019-11-30T13:00:00,Blekitni Stargard,0,1,Widzew Lodz,2,3
+2019-11-30T13:00:00,S. Rzeszow,1,2,Garbarnia,2,3
+2019-11-30T13:00:00,Skra,0,0,Lech Poznan 2,0,0
+2019-11-27T13:00:00,Skra,1,1,Legionowo,0,0
+2019-11-24T13:05:00,Widzew Lodz,1,4,Bytovia Bytow,0,0
+2019-11-23T18:00:00,GKS Katowice,2,4,Gryf Wejherowo,0,0
+2019-11-23T16:00:00,Polkowice,1,1,Elblag,1,1
+2019-11-23T13:00:00,Elana Torun,1,3,Blekitni Stargard,0,2
+2019-11-23T13:00:00,Garbarnia,0,0,Skra,0,2
+2019-11-23T13:00:00,Lech Poznan 2,0,1,Leczna,0,1
+2019-11-23T13:00:00,Legionowo,0,0,S. Rzeszow,3,3
+2019-11-23T13:00:00,S. Wola,0,2,Pruszkow,1,1
+2019-11-23T12:00:00,R. Rzeszow,0,0,Pogon Siedlce,0,1
+2019-11-17T13:05:00,Pruszkow,0,2,GKS Katowice,0,1
+2019-11-17T13:00:00,Pogon Siedlce,2,2,S. Rzeszow,0,1
+2019-11-16T17:00:00,Leczna,1,1,Garbarnia,0,0
+2019-11-16T16:00:00,Bytovia Bytow,0,1,Elana Torun,0,1
+2019-11-16T13:00:00,Blekitni Stargard,1,3,Polkowice,2,2
+2019-11-16T13:00:00,Lech Poznan 2,1,1,Elblag,0,1
+2019-11-16T13:00:00,R. Rzeszow,0,3,S. Wola,1,2
+2019-11-15T19:10:00,Widzew Lodz,1,4,Gryf Wejherowo,0,0
+2019-11-10T13:05:00,Pruszkow,0,0,Widzew Lodz,1,6
+2019-11-10T13:00:00,Gryf Wejherowo,0,0,Elana Torun,0,0
+2019-11-09T18:00:00,Elblag,0,1,Garbarnia,0,1
+2019-11-09T17:00:00,Leczna,1,2,Legionowo,0,0
+2019-11-09T16:30:00,Pogon Siedlce,0,1,S. Wola,1,2
+2019-11-09T16:00:00,Bytovia Bytow,1,2,Polkowice,0,0
+2019-11-09T13:30:00,Skra,0,1,S. Rzeszow,1,2
+2019-11-09T13:00:00,Blekitni Stargard,1,2,Lech Poznan 2,0,2
+2019-11-09T13:00:00,R. Rzeszow,0,2,GKS Katowice,2,2
+2019-11-03T17:00:00,Lech Poznan 2,1,3,Bytovia Bytow,0,0
+2019-11-03T13:05:00,Widzew Lodz,0,0,R. Rzeszow,0,1
+2019-11-03T13:00:00,Garbarnia,1,1,Blekitni Stargard,0,1
+2019-11-03T13:00:00,Pogon Siedlce,0,2,Skra,0,0
+2019-11-02T17:00:00,GKS Katowice,0,2,S. Wola,0,1
+2019-11-02T16:00:00,Polkowice,1,5,Gryf Wejherowo,0,0
+2019-11-02T13:30:00,Legionowo,1,2,Elblag,2,2
+2019-11-02T13:00:00,Elana Torun,0,2,Pruszkow,1,1
+2019-11-02T13:00:00,S. Rzeszow,0,0,Leczna,1,1
+2019-10-29T19:00:00,Pruszkow,0,0,Garbarnia,1,1
+2019-10-27T13:05:00,Elblag,1,1,S. Rzeszow,0,0
+2019-10-26T18:00:00,GKS Katowice,1,2,Pogon Siedlce,1,1
+2019-10-26T17:00:00,Leczna,0,1,Skra,0,1
+2019-10-26T15:00:00,Gryf Wejherowo,0,1,Lech Poznan 2,1,2
+2019-10-26T14:00:00,R. Rzeszow,0,2,Elana Torun,0,1
+2019-10-26T14:00:00,S. Wola,0,0,Widzew Lodz,0,1
+2019-10-26T13:00:00,Blekitni Stargard,1,2,Legionowo,0,1
+2019-10-25T19:40:00,Pruszkow,0,2,Polkowice,3,4
+2019-10-25T18:00:00,Bytovia Bytow,1,2,Garbarnia,0,1
+2019-10-20T13:05:00,Pogon Siedlce,2,3,Leczna,0,4
+2019-10-20T12:00:00,Lech Poznan 2,0,0,Pruszkow,0,1
+2019-10-19T19:10:00,Widzew Lodz,1,1,GKS Katowice,1,1
+2019-10-19T16:00:00,Polkowice,1,2,R. Rzeszow,1,2
+2019-10-19T15:30:00,Legionowo,0,1,Bytovia Bytow,1,1
+2019-10-19T15:00:00,S. Rzeszow,1,3,Blekitni Stargard,0,1
+2019-10-19T15:00:00,Skra,0,0,Elblag,2,2
+2019-10-19T14:00:00,Elana Torun,1,1,S. Wola,0,1
+2019-10-19T13:00:00,Garbarnia,1,1,Gryf Wejherowo,1,1
+2019-10-13T14:00:00,Blekitni Stargard,1,3,Skra,0,0
+2019-10-13T13:05:00,Elblag,1,1,Leczna,0,1
+2019-10-12T19:10:00,Widzew Lodz,4,7,Pogon Siedlce,0,3
+2019-10-12T17:00:00,Polkowice,2,3,S. Wola,0,0
+2019-10-12T16:00:00,Bytovia Bytow,1,3,S. Rzeszow,1,2
+2019-10-12T15:00:00,GKS Katowice,2,2,Elana Torun,0,0
+2019-10-12T15:00:00,Gryf Wejherowo,1,1,Legionowo,0,2
+2019-10-12T15:00:00,R. Rzeszow,0,3,Lech Poznan 2,2,2
+2019-10-06T13:05:00,Leczna,0,1,Blekitni Stargard,0,0
+2019-10-06T13:00:00,Elana Torun,0,0,Widzew Lodz,1,1
+2019-10-06T12:00:00,Lech Poznan 2,0,2,S. Wola,1,2
+2019-10-05T17:00:00,Polkowice,0,0,GKS Katowice,0,1
+2019-10-05T16:00:00,Legionowo,0,0,Pruszkow,0,0
+2019-10-05T15:00:00,Garbarnia,0,0,R. Rzeszow,0,2
+2019-10-05T15:00:00,Pogon Siedlce,0,0,Elblag,1,1
+2019-10-05T15:00:00,S. Rzeszow,1,1,Gryf Wejherowo,2,2
+2019-10-05T15:00:00,Skra,1,3,Bytovia Bytow,1,2
+2019-09-29T17:00:00,Bytovia Bytow,2,2,Leczna,1,1
+2019-09-29T14:00:00,Blekitni Stargard,1,2,Elblag,0,1
+2019-09-29T13:05:00,Pruszkow,1,2,S. Rzeszow,1,2
+2019-09-29T13:00:00,Elana Torun,1,2,Pogon Siedlce,1,1
+2019-09-28T19:10:00,Widzew Lodz,0,1,Polkowice,0,0
+2019-09-28T18:00:00,GKS Katowice,0,2,Lech Poznan 2,0,0
+2019-09-28T16:00:00,Gryf Wejherowo,1,2,Skra,0,1
+2019-09-28T15:30:00,Garbarnia,0,1,S. Wola,2,3
+2019-09-28T15:00:00,R. Rzeszow,1,3,Legionowo,0,0
+2019-09-22T13:05:00,S. Rzeszow,0,1,R. Rzeszow,1,1
+2019-09-21T19:00:00,Elblag,2,2,Bytovia Bytow,1,1
+2019-09-21T19:00:00,Polkowice,3,3,Elana Torun,0,0
+2019-09-21T17:00:00,Lech Poznan 2,0,1,Widzew Lodz,0,2
+2019-09-21T16:00:00,Legionowo,0,0,S. Wola,0,1
+2019-09-21T16:00:00,Pogon Siedlce,1,3,Blekitni Stargard,2,2
+2019-09-21T16:00:00,Skra,0,2,Pruszkow,0,1
+2019-09-21T15:30:00,Garbarnia,0,1,GKS Katowice,0,3
+2019-09-20T20:09:00,Leczna,1,1,Gryf Wejherowo,0,0
+2019-09-18T17:00:00,Lech Poznan 2,0,0,Polkowice,1,3
+2019-09-15T17:00:00,Gryf Wejherowo,1,1,Elblag,1,4
+2019-09-15T13:05:00,Pruszkow,1,1,Leczna,1,2
+2019-09-14T19:10:00,Widzew Lodz,0,1,Garbarnia,0,1
+2019-09-14T19:00:00,Polkowice,1,1,Pogon Siedlce,1,1
+2019-09-14T18:00:00,Bytovia Bytow,0,1,Blekitni Stargard,0,0
+2019-09-14T18:00:00,GKS Katowice,0,3,Legionowo,0,1
+2019-09-14T16:00:00,R. Rzeszow,1,2,Skra,0,0
+2019-09-14T15:00:00,Elana Torun,1,2,Lech Poznan 2,2,4
+2019-09-14T15:00:00,S. Rzeszow,1,2,S. Wola,0,1
+2019-09-08T13:05:00,Elblag,0,1,Pruszkow,1,2
+2019-09-07T20:09:00,Leczna,0,2,R. Rzeszow,0,1
+2019-09-07T18:00:00,Bytovia Bytow,0,1,Pogon Siedlce,1,3
+2019-09-07T17:00:00,Garbarnia,0,0,Elana Torun,0,0
+2019-09-07T16:30:00,Legionowo,0,0,Widzew Lodz,0,2
+2019-09-07T16:00:00,Skra,0,0,S. Wola,0,0
+2019-09-07T15:00:00,S. Rzeszow,1,1,GKS Katowice,0,1
+2019-09-07T14:00:00,Blekitni Stargard,0,2,Gryf Wejherowo,0,1
+2019-09-01T17:00:00,Elana Torun,0,4,Legionowo,1,1
+2019-09-01T17:00:00,Gryf Wejherowo,0,1,Bytovia Bytow,1,1
+2019-09-01T13:05:00,R. Rzeszow,0,0,Elblag,1,1
+2019-08-31T19:10:00,Widzew Lodz,1,3,S. Rzeszow,1,1
+2019-08-31T19:00:00,GKS Katowice,0,2,Skra,0,0
+2019-08-31T19:00:00,Polkowice,0,1,Garbarnia,1,1
+2019-08-31T19:00:00,Pruszkow,1,2,Blekitni Stargard,2,3
+2019-08-31T17:00:00,S. Wola,1,1,Leczna,0,3
+2019-08-31T16:00:00,Pogon Siedlce,0,0,Lech Poznan 2,0,2
+2019-08-25T19:00:00,Elblag,0,0,S. Wola,1,1
+2019-08-25T19:00:00,Pogon Siedlce,0,1,Gryf Wejherowo,0,0
+2019-08-25T18:00:00,Bytovia Bytow,2,2,Pruszkow,0,2
+2019-08-25T17:00:00,Legionowo,1,1,Polkowice,0,2
+2019-08-25T16:00:00,Blekitni Stargard,0,1,R. Rzeszow,0,2
+2019-08-25T16:00:00,Skra,0,1,Widzew Lodz,0,0
+2019-08-25T13:05:00,Leczna,1,1,GKS Katowice,0,0
+2019-08-24T17:30:00,Garbarnia,0,1,Lech Poznan 2,0,0
+2019-08-24T17:00:00,S. Rzeszow,0,1,Elana Torun,0,0
+2019-08-21T19:00:00,GKS Katowice,0,1,Elblag,1,1
+2019-08-21T19:00:00,Polkowice,0,1,S. Rzeszow,0,2
+2019-08-21T19:00:00,Pruszkow,1,2,Gryf Wejherowo,0,1
+2019-08-21T18:50:00,Widzew Lodz,0,2,Leczna,1,2
+2019-08-21T17:00:00,Elana Torun,0,1,Skra,0,1
+2019-08-21T17:00:00,Garbarnia,0,0,Pogon Siedlce,0,0
+2019-08-21T17:00:00,Lech Poznan 2,1,2,Legionowo,1,1
+2019-08-21T17:00:00,R. Rzeszow,1,1,Bytovia Bytow,0,1
+2019-08-21T17:00:00,S. Wola,0,0,Blekitni Stargard,1,1
+2019-08-18T13:05:00,Leczna,1,1,Elana Torun,2,3
+2019-08-17T19:00:00,Elblag,0,1,Widzew Lodz,1,1
+2019-08-17T18:00:00,Bytovia Bytow,3,4,S. Wola,0,1
+2019-08-17T17:30:00,Legionowo,0,0,Garbarnia,1,2
+2019-08-17T17:00:00,Gryf Wejherowo,0,0,R. Rzeszow,1,3
+2019-08-17T17:00:00,Pogon Siedlce,0,0,Pruszkow,1,1
+2019-08-17T17:00:00,S. Rzeszow,1,2,Lech Poznan 2,0,0
+2019-08-17T16:00:00,Blekitni Stargard,1,1,GKS Katowice,2,3
+2019-08-17T16:00:00,Skra,0,1,Polkowice,0,0
+2019-08-11T13:05:00,Lech Poznan 2,1,2,Skra,0,0
+2019-08-10T19:00:00,GKS Katowice,0,1,Bytovia Bytow,1,2
+2019-08-10T19:00:00,Polkowice,0,1,Leczna,1,1
+2019-08-10T17:30:00,Legionowo,0,1,Pogon Siedlce,2,3
+2019-08-10T17:00:00,Elana Torun,0,0,Elblag,2,2
+2019-08-10T17:00:00,Garbarnia,1,2,S. Rzeszow,1,1
+2019-08-10T17:00:00,S. Wola,0,0,Gryf Wejherowo,0,0
+2019-08-10T15:00:00,R. Rzeszow,1,3,Pruszkow,0,0
+2019-08-09T19:10:00,Widzew Lodz,1,2,Blekitni Stargard,0,0
+2019-08-04T13:05:00,S. Rzeszow,1,3,Legionowo,0,1
+2019-08-03T20:09:00,Leczna,0,0,Lech Poznan 2,0,0
+2019-08-03T19:00:00,Elblag,1,1,Polkowice,1,1
+2019-08-03T18:00:00,Bytovia Bytow,1,2,Widzew Lodz,0,1
+2019-08-03T18:00:00,Pruszkow,0,4,S. Wola,1,1
+2019-08-03T17:00:00,Gryf Wejherowo,0,0,GKS Katowice,1,2
+2019-08-03T17:00:00,Pogon Siedlce,0,0,R. Rzeszow,0,0
+2019-08-03T16:00:00,Blekitni Stargard,1,1,Elana Torun,0,0
+2019-08-03T15:00:00,Skra,1,1,Garbarnia,1,3
+2019-07-28T19:00:00,Elblag,2,4,Lech Poznan 2,0,0
+2019-07-28T13:05:00,GKS Katowice,0,1,Pruszkow,3,3
+2019-07-27T18:00:00,Gryf Wejherowo,0,1,Widzew Lodz,0,2
+2019-07-27T18:00:00,Legionowo,1,2,Skra,0,0
+2019-07-27T17:00:00,Garbarnia,0,0,Leczna,1,1
+2019-07-27T17:00:00,S. Rzeszow,1,3,Pogon Siedlce,0,2
+2019-07-27T17:00:00,S. Wola,0,1,R. Rzeszow,2,3
+2019-07-27T15:30:00,Elana Torun,0,2,Bytovia Bytow,0,1
+2019-07-27T15:00:00,Polkowice,0,1,Blekitni Stargard,2,2
