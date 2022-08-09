@@ -1,0 +1,36 @@
+datetime,participant_home_name,participant_home_goals_half,participant_home_goals_full,participant_away_name,participant_away_goals_half,participant_away_goals_full
+2022-08-07T16:00:00,Hutnik Krakow,4,6,Siarka Tarnobrzeg,0,0
+2022-08-07T16:00:00,Lech Poznan 2,2,2,Kotwica Kolobrzeg,0,3
+2022-08-07T13:00:00,Slask Wroclaw 2,0,1,Polonia Warszawa,0,1
+2022-08-06T18:00:00,GKS Jastrzebie,1,2,Motor Lublin,1,1
+2022-08-06T18:00:00,Wisla Pulawy,1,1,Stezyca,0,0
+2022-08-06T17:00:00,KKS Kalisz,2,2,Polkowice,0,2
+2022-08-06T17:00:00,Pogon Siedlce,0,0,Olimpia Elblag,0,1
+2022-08-06T17:00:00,Pruszkow,0,2,Zaglebie 2,0,0
+2022-08-06T17:00:00,Stomil Olsztyn,1,2,Garbarnia,1,2
+2022-08-01T18:15:00,Polonia Warszawa,0,1,Stomil Olsztyn,1,1
+2022-07-31T17:00:00,Hutnik Krakow,0,0,GKS Jastrzebie,0,0
+2022-07-31T17:00:00,Olimpia Elblag,1,2,KKS Kalisz,0,2
+2022-07-31T16:00:00,Garbarnia,3,3,Pogon Siedlce,1,2
+2022-07-31T15:00:00,Stezyca,1,3,Lech Poznan 2,2,3
+2022-07-30T18:00:00,Kotwica Kolobrzeg,1,2,Pruszkow,1,1
+2022-07-30T18:00:00,Polkowice,1,2,Motor Lublin,0,0
+2022-07-30T17:00:00,Siarka Tarnobrzeg,2,2,Wisla Pulawy,2,4
+2022-07-30T13:00:00,Zaglebie 2,2,3,Slask Wroclaw 2,2,4
+2022-07-24T19:45:00,GKS Jastrzebie,0,0,Polkowice,2,2
+2022-07-24T16:00:00,Lech Poznan 2,1,1,Siarka Tarnobrzeg,1,1
+2022-07-24T16:00:00,Stomil Olsztyn,1,6,Zaglebie 2,1,2
+2022-07-23T19:00:00,Motor Lublin,0,1,Olimpia Elblag,0,1
+2022-07-23T18:00:00,Wisla Pulawy,3,3,Hutnik Krakow,0,1
+2022-07-23T17:00:00,KKS Kalisz,1,3,Garbarnia,0,1
+2022-07-23T17:00:00,Pogon Siedlce,2,2,Polonia Warszawa,0,1
+2022-07-23T13:00:00,Slask Wroclaw 2,0,0,Kotwica Kolobrzeg,1,2
+2022-07-22T17:00:00,Pruszkow,0,3,Stezyca,0,1
+2022-07-17T17:00:00,Kotwica Kolobrzeg,0,0,Stomil Olsztyn,0,0
+2022-07-17T17:00:00,Olimpia Elblag,0,0,Polkowice,1,1
+2022-07-17T13:00:00,Garbarnia,1,2,Motor Lublin,2,2
+2022-07-16T18:00:00,Stezyca,1,3,Slask Wroclaw 2,2,3
+2022-07-16T18:00:00,Wisla Pulawy,0,0,GKS Jastrzebie,0,1
+2022-07-16T17:00:00,Hutnik Krakow,1,3,Lech Poznan 2,0,2
+2022-07-16T17:00:00,Siarka Tarnobrzeg,2,4,Pruszkow,0,0
+2022-07-16T13:00:00,Zaglebie 2,0,1,Pogon Siedlce,0,0
